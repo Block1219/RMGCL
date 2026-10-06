@@ -22,9 +22,7 @@ conversion. `*_raw` contains the tables read by the training code. Cdataset simi
 are generated from the source structural and phenotypic matrices, not the
 association-derived GIP matrices. The original positive associations and
 biological edges are preserved. Cdataset's disease annotation mapping is in
-`data/cdataset_disease_semantic_features/source_mapping.csv`. LRSSL has no
-drug-target or target-disease edges in the supplied source, so its biological
-edge tables are empty.
+`data/cdataset_disease_semantic_features/source_mapping.csv`. 
 
 Dataset files may have their own citation and reuse requirements. Check the
 original dataset publications before reusing them outside this experiment.
