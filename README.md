@@ -24,8 +24,7 @@ association-derived GIP matrices. The original positive associations and
 biological edges are preserved. Cdataset's disease annotation mapping is in
 `data/cdataset_disease_semantic_features/source_mapping.csv`. 
 
-Dataset files may have their own citation and reuse requirements. Check the
-original dataset publications before reusing them outside this experiment.
+
 
 ## Setup
 
