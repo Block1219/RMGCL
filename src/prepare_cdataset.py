@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-"""Convert the AMDGT C-dataset matrices to RMGCL's input tables."""
+"""Convert the included Cdataset matrices to RMGCL's input tables."""
 
 import argparse
 import json
@@ -78,7 +78,6 @@ def convert_cdataset(source_dir: str | Path, output_dir: str | Path) -> dict[str
         table.to_csv(output_dir / f"{name}.csv", index=False)
 
     summary: dict[str, int | str] = {
-        "source_repository": "https://github.com/JK-Liu7/AMDGT/tree/main/data/C-dataset",
         "drug_similarity_source": "DrugFingerprint.csv",
         "disease_similarity_source": "DiseasePS.csv",
         "num_drugs": num_drugs,
