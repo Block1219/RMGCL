@@ -14,13 +14,7 @@ data/cdataset_disease_semantic_features/  Cdataset disease annotations
 tests/                       Cdataset conversion check
 ```
 
-## Input data
 
-| Dataset | Source | Similarity inputs | Other model inputs |
-| --- | --- | --- | --- |
-| Cdataset | [AMDGT C-dataset](https://github.com/JK-Liu7/AMDGT/tree/main/data/C-dataset) | DrugFingerprint, DiseasePS | Drug-disease, drug-protein and protein-disease associations; disease annotations |
-| Fdataset | [AMDGT F-dataset](https://github.com/JK-Liu7/AMDGT/tree/main/data/F-dataset) | DrugFingerprint, DiseasePS | Drug-disease, drug-protein and protein-disease associations; drug SMILES and disease annotations |
-| LRSSL | [LRSSL](https://github.com/LiangXujun/LRSSL) | Drug PubChem, target-domain and target-GO features; disease similarity | Drug-disease associations |
 
 `*_original` contains the source files used for association and similarity
 conversion. `*_raw` contains the tables read by the training code. Cdataset similarities
