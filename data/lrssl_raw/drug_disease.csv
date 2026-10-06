@@ -1,0 +1,3052 @@
+drug_id,disease_id,label
+6-aminocaproic acid,Hemorrhage,1
+abacavir,Acquired Immunodeficiency Syndrome,1
+acarbose,"Diabetes Mellitus, Type 2",1
+acebutolol,Angina Pectoris,1
+acebutolol,Hypertension,1
+acebutolol,Myocardial Infarction,1
+acebutolol,"Tachycardia, Ventricular",1
+acebutolol,Ventricular Fibrillation,1
+acetaminophen,Fever,1
+acetaminophen,Pain,1
+acetazolamide,Altitude Sickness,1
+acetazolamide,Glaucoma,1
+acetazolamide,Seizures,1
+acetohexamide,"Diabetes Mellitus, Type 2",1
+acitretin,Psoriasis,1
+acyclovir,AIDS-Related Opportunistic Infections,1
+acyclovir,Chickenpox,1
+acyclovir,"Encephalitis, Herpes Simplex",1
+acyclovir,Epstein-Barr Virus Infections,1
+acyclovir,Herpes Genitalis,1
+acyclovir,Herpes Labialis,1
+acyclovir,Herpes Zoster Ophthalmicus,1
+adapalene,Acne Vulgaris,1
+adefovir,Hepatitis B,1
+adenosine,Nutritional and Metabolic Diseases,1
+adenosine,"Tachycardia, Atrioventricular Nodal Reentry",1
+adenosine,"Tachycardia, Paroxysmal",1
+adenosine,Wolff-Parkinson-White Syndrome,1
+albendazole,Ancylostomiasis,1
+albendazole,Clonorchiasis,1
+albendazole,Echinococcosis,1
+albendazole,Enterobiasis,1
+albendazole,Giardiasis,1
+albendazole,Hymenolepiasis,1
+albendazole,Necatoriasis,1
+albendazole,Neurocysticercosis,1
+albendazole,Opisthorchiasis,1
+albendazole,Toxocariasis,1
+albendazole,Trichuriasis,1
+albuterol,Asthma,1
+alclometasone,Dermatitis,1
+alclometasone,Facial Dermatoses,1
+alclometasone,Foot Dermatoses,1
+alclometasone,Hand Dermatoses,1
+alclometasone,Inflammation,1
+alclometasone,Leg Dermatoses,1
+alclometasone,Scalp Dermatoses,1
+alendronate,"Osteoporosis, Postmenopausal",1
+alendronate,"Paget Disease, Extramammary",1
+alitretinoin,"Sarcoma, Kaposi",1
+alitretinoin,Skin Diseases,1
+allopurinol,Gout,1
+alprostadil,Aortic Arch Syndromes,1
+alprostadil,Aortic Coarctation,1
+alprostadil,"Ductus Arteriosus, Patent",1
+alprostadil,"Hypertension, Pulmonary",1
+alprostadil,Hypoplastic Left Heart Syndrome,1
+alprostadil,"Impotence, Vasculogenic",1
+alprostadil,Pulmonary Valve Stenosis,1
+alprostadil,Tetralogy of Fallot,1
+alprostadil,Tricuspid Atresia,1
+amantadine,"Dyskinesia, Drug-Induced",1
+amantadine,Parkinson Disease,1
+amcinonide,Dermatitis,1
+amcinonide,Facial Dermatoses,1
+amcinonide,Foot Dermatoses,1
+amcinonide,Hand Dermatoses,1
+amcinonide,Inflammation,1
+amcinonide,Leg Dermatoses,1
+amcinonide,Scalp Dermatoses,1
+amifostine,"Radiation Injuries, Experimental",1
+amikacin,"Bone Diseases, Infectious",1
+amikacin,Endocarditis,1
+amikacin,Mycobacterium Infections,1
+amikacin,Pseudomonas Infections,1
+amikacin,Respiratory Tract Infections,1
+amikacin,Septicemia,1
+amiloride,Ascites,1
+amiloride,Cystic Fibrosis,1
+amiloride,Edema,1
+amiloride,Hypertension,1
+amiloride,Hypokalemia,1
+amiloride,Polyuria,1
+aminoglutethimide,Breast Neoplasms,1
+aminoglutethimide,Cushing Syndrome,1
+aminoglutethimide,"Neoplasms, Hormone-Dependent",1
+aminoglutethimide,Prostatic Neoplasms,1
+aminophylline,Apnea,1
+aminophylline,Asthma,1
+aminophylline,Bradycardia,1
+aminophylline,Bronchial Spasm,1
+aminophylline,Bronchitis,1
+aminophylline,Pulmonary Emphysema,1
+aminosalicylic acid,Crohn Disease,1
+aminosalicylic acid,Tuberculosis,1
+amiodarone,"Tachycardia, Supraventricular",1
+amiodarone,Ventricular Fibrillation,1
+amitriptyline,Depressive Disorder,1
+amitriptyline,Pain,1
+amlexanox,Ulcer,1
+amlodipine,"Angina Pectoris, Variant",1
+amlodipine,Hypertension,1
+amoxapine,Depressive Disorder,1
+amoxapine,Psychophysiologic Disorders,1
+amoxicillin,Actinomycosis,1
+amoxicillin,"Bites, Human",1
+amoxicillin,Chlamydia Infections,1
+amoxicillin,Duodenal Ulcer,1
+amoxicillin,Helicobacter Infections,1
+amoxicillin,Listeriosis,1
+amoxicillin,Lyme Disease,1
+amoxicillin,Otitis Media,1
+amoxicillin,Sinusitis,1
+amoxicillin,"Skin Diseases, Bacterial",1
+amoxicillin,Soft Tissue Infections,1
+amoxicillin,Streptococcal Infections,1
+amoxicillin,Urinary Tract Infections,1
+ampicillin,Actinomycosis,1
+ampicillin,"Bites, Human",1
+ampicillin,"Dysentery, Bacillary",1
+ampicillin,"Endocarditis, Bacterial",1
+ampicillin,Escherichia coli Infections,1
+ampicillin,Gonorrhea,1
+ampicillin,Haemophilus Infections,1
+ampicillin,Klebsiella Infections,1
+ampicillin,Listeriosis,1
+ampicillin,"Meningitis, Bacterial",1
+ampicillin,Meningococcal Infections,1
+ampicillin,Pneumococcal Infections,1
+ampicillin,"Pregnancy Complications, Infectious",1
+ampicillin,Respiratory Tract Infections,1
+ampicillin,Salmonella Infections,1
+ampicillin,"Skin Diseases, Bacterial",1
+ampicillin,Soft Tissue Infections,1
+ampicillin,Staphylococcal Infections,1
+ampicillin,Surgical Wound Infection,1
+ampicillin,Urinary Tract Infections,1
+amprenavir,Acquired Immunodeficiency Syndrome,1
+anagrelide,Polycythemia Vera,1
+anagrelide,Thrombocytopenia,1
+anastrozole,Breast Neoplasms,1
+anisindione,Atrial Fibrillation,1
+anisindione,Embolism,1
+anisindione,Myocardial Infarction,1
+anisindione,Pulmonary Embolism,1
+anisindione,Thromboembolism,1
+anisindione,Venous Thrombosis,1
+apraclonidine,Ocular Hypertension,1
+ardeparin,Thromboembolism,1
+ardeparin,Venous Thrombosis,1
+arformoterol,Asthma,1
+argatroban,Thrombocytopenia,1
+argatroban,Thromboembolism,1
+aripiprazole,Schizophrenia,1
+arsenic trioxide,"Leukemia, Promyelocytic, Acute",1
+aspirin,"Arthritis, Rheumatoid",1
+aspirin,Fever,1
+aspirin,Gout,1
+aspirin,Inflammation,1
+aspirin,Osteoarthritis,1
+aspirin,Pain,1
+aspirin,Rheumatic Fever,1
+atenolol,Angina Pectoris,1
+atenolol,Atrial Fibrillation,1
+atenolol,Atrial Flutter,1
+atenolol,Heart Failure,1
+atenolol,Hypertension,1
+atenolol,Myocardial Infarction,1
+atenolol,"Tachycardia, Supraventricular",1
+atenolol,"Tachycardia, Ventricular",1
+atenolol,Ventricular Fibrillation,1
+atomoxetine,Attention Deficit Disorder with Hyperactivity,1
+atorvastatin,Coronary Artery Disease,1
+atorvastatin,Hypercholesterolemia,1
+atorvastatin,Hyperlipoproteinemias,1
+atorvastatin,Hypertriglyceridemia,1
+atovaquone,"Pneumonia, Pneumocystis",1
+atovaquone,"Toxoplasmosis, Cerebral",1
+atropine,Bradycardia,1
+atropine,Drug Toxicity,1
+atropine,Heart Arrest,1
+atropine,Sinoatrial Block,1
+atropine,Stomach Ulcer,1
+atropine,Uveitis,1
+azatadine,"Rhinitis, Allergic, Perennial",1
+azatadine,Urticaria,1
+azathioprine,"Arthritis, Rheumatoid",1
+azathioprine,"Colitis, Ulcerative",1
+azathioprine,Crohn Disease,1
+azathioprine,"Lupus Erythematosus, Systemic",1
+azathioprine,Multiple Sclerosis,1
+azathioprine,"Purpura, Thrombocytopenic, Idiopathic",1
+azelaic acid,Acne Vulgaris,1
+azelaic acid,Rosacea,1
+azelastine,"Conjunctivitis, Allergic",1
+azelastine,"Rhinitis, Allergic, Perennial",1
+azelastine,"Rhinitis, Vasomotor",1
+azithromycin,Chlamydia Infections,1
+azithromycin,Haemophilus Infections,1
+azithromycin,"Mycobacterium Infections, Atypical",1
+azithromycin,Neisseriaceae Infections,1
+azithromycin,Otitis Media,1
+azithromycin,"Pneumonia, Mycoplasma",1
+azithromycin,"Skin Diseases, Infectious",1
+azithromycin,Staphylococcal Infections,1
+azithromycin,Streptococcal Infections,1
+azithromycin,Tonsillitis,1
+azithromycin,Urethritis,1
+aztreonam,"Genital Diseases, Female",1
+aztreonam,Pseudomonas Infections,1
+aztreonam,Respiratory Tract Infections,1
+aztreonam,Septicemia,1
+aztreonam,"Skin Diseases, Infectious",1
+aztreonam,Urinary Tract Infections,1
+bacampicillin,Escherichia coli Infections,1
+bacampicillin,Gonorrhea,1
+bacampicillin,Haemophilus Infections,1
+bacampicillin,Listeriosis,1
+bacampicillin,Respiratory Tract Infections,1
+bacampicillin,Streptococcal Infections,1
+bacampicillin,Urinary Tract Infections,1
+bacitracin,"Conjunctivitis, Bacterial",1
+bacitracin,"Enterocolitis, Pseudomembranous",1
+bacitracin,"Eye Infections, Bacterial",1
+bacitracin,"Skin Diseases, Bacterial",1
+bacitracin,Soft Tissue Infections,1
+bacitracin,Staphylococcal Infections,1
+bacitracin,Staphylococcal Skin Infections,1
+bacitracin,Streptococcal Infections,1
+bacitracin,Wound Infection,1
+baclofen,Cerebral Palsy,1
+baclofen,Hiccup,1
+baclofen,Huntington Disease,1
+baclofen,Multiple Sclerosis,1
+baclofen,Muscle Spasticity,1
+baclofen,"Myelitis, Transverse",1
+baclofen,"Pain, Intractable",1
+baclofen,Spinal Cord Injuries,1
+baclofen,Spinal Cord Ischemia,1
+baclofen,Spinal Cord Neoplasms,1
+baclofen,Spondylolysis,1
+baclofen,Trigeminal Neuralgia,1
+baclofen,"Urinary Bladder, Neurogenic",1
+balsalazide,"Colitis, Ulcerative",1
+beclomethasone,Asthma,1
+beclomethasone,"Rhinitis, Allergic, Perennial",1
+benazepril,Diabetic Nephropathies,1
+benazepril,Heart Failure,1
+benazepril,Hypertension,1
+benazepril,"Ventricular Dysfunction, Left",1
+bendroflumethiazide,Edema,1
+bendroflumethiazide,Heart Failure,1
+bendroflumethiazide,Hypertension,1
+bendroflumethiazide,Nephrotic Syndrome,1
+benzocaine,Burns,1
+benzocaine,Earache,1
+benzocaine,Fissure in Ano,1
+benzocaine,Hemorrhoids,1
+benzocaine,Herpes Simplex,1
+benzocaine,Nausea,1
+benzocaine,Oral Ulcer,1
+benzocaine,Otitis Externa,1
+benzocaine,Otitis Media,1
+benzocaine,Pruritus,1
+benzocaine,Toothache,1
+benzocaine,Vomiting,1
+benzonatate,Cough,1
+benzonatate,Hiccup,1
+benzquinamide,Nausea,1
+benzquinamide,Vomiting,1
+benzthiazide,Edema,1
+benzthiazide,Heart Failure,1
+benzthiazide,Hypertension,1
+benzthiazide,Nephrotic Syndrome,1
+benztropine,"Abnormalities, Drug-Induced",1
+benztropine,Parkinson Disease,1
+bepridil,Angina Pectoris,1
+bepridil,Hypertension,1
+betamethasone,"Dermatitis, Atopic",1
+betamethasone,"Dermatitis, Seborrheic",1
+betamethasone,Facial Dermatoses,1
+betamethasone,Foot Dermatoses,1
+betamethasone,Hand Dermatoses,1
+betamethasone,Inflammation,1
+betamethasone,Leg Dermatoses,1
+betamethasone,Pruritus Ani,1
+betamethasone,Psoriasis,1
+betamethasone,Scalp Dermatoses,1
+betaxolol,"Glaucoma, Open-Angle",1
+betaxolol,Hypertension,1
+bethanechol,"Abnormalities, Drug-Induced",1
+bethanechol,Gastroesophageal Reflux,1
+bethanechol,"Urinary Bladder, Neurogenic",1
+bethanechol,Urinary Retention,1
+bexarotene,"Lymphoma, T-Cell, Cutaneous",1
+bicalutamide,Prostatic Neoplasms,1
+bimatoprost,"Glaucoma, Open-Angle",1
+biperiden,Drug Toxicity,1
+biperiden,Parkinson Disease,1
+bismuth subsalicylate,"Dysentery, Bacillary",1
+bismuth subsalicylate,Escherichia coli Infections,1
+bismuth subsalicylate,Helicobacter Infections,1
+bismuth subsalicylate,Virus Diseases,1
+bisoprolol,Angina Pectoris,1
+bisoprolol,Heart Failure,1
+bisoprolol,Hypertension,1
+bisoprolol,Myocardial Infarction,1
+bisoprolol,"Tachycardia, Supraventricular",1
+bleomycin,"Carcinoma, Squamous Cell",1
+bleomycin,Hodgkin Disease,1
+bleomycin,"Lymphoma, Non-Hodgkin",1
+bleomycin,Melanoma,1
+bleomycin,Sarcoma,1
+bleomycin,Testicular Neoplasms,1
+bortezomib,Multiple Myeloma,1
+bosentan,"Hypertension, Pulmonary",1
+bretylium,"Tachycardia, Ventricular",1
+bretylium,Ventricular Fibrillation,1
+brimonidine,"Glaucoma, Open-Angle",1
+brinzolamide,"Glaucoma, Open-Angle",1
+bromfenac,"Pain, Postoperative",1
+bromocriptine,Acromegaly,1
+bromocriptine,Amenorrhea,1
+bromocriptine,Hyperprolactinemia,1
+bromocriptine,Hypogonadism,1
+bromocriptine,Infertility,1
+bromocriptine,Neuroleptic Malignant Syndrome,1
+bromocriptine,Parkinson Disease,1
+bromodiphenhydramine,Anxiety Disorders,1
+bromodiphenhydramine,Motion Sickness,1
+bromodiphenhydramine,Nausea,1
+bromodiphenhydramine,"Rhinitis, Allergic, Perennial",1
+bromodiphenhydramine,Sleep Initiation and Maintenance Disorders,1
+bromodiphenhydramine,Urticaria,1
+brompheniramine,"Rhinitis, Allergic, Perennial",1
+brompheniramine,"Rhinitis, Vasomotor",1
+buclizine,Nausea,1
+buclizine,Vertigo,1
+buclizine,Vomiting,1
+budesonide,Asthma,1
+budesonide,"Rhinitis, Allergic, Perennial",1
+bumetanide,Ascites,1
+bumetanide,Edema,1
+bumetanide,Heart Failure,1
+bumetanide,Hypertension,1
+bumetanide,"Kidney Failure, Acute",1
+bumetanide,"Kidney Failure, Chronic",1
+bumetanide,Liver Cirrhosis,1
+bumetanide,Nephrotic Syndrome,1
+bumetanide,Pulmonary Edema,1
+bupivacaine,Pain,1
+bupropion,Attention Deficit Disorder with Hyperactivity,1
+bupropion,Depressive Disorder,1
+bupropion,Tobacco Use Disorder,1
+buspirone,Anxiety Disorders,1
+buspirone,Depressive Disorder,1
+buspirone,Mental Retardation,1
+butenafine,Tinea Pedis,1
+butenafine,Tinea Versicolor,1
+cabergoline,Hyperprolactinemia,1
+cabergoline,Parkinson Disease,1
+caffeine,Apnea,1
+candesartan,Diabetic Nephropathies,1
+candesartan,Heart Failure,1
+candesartan,Hypertension,1
+candesartan,"Ventricular Dysfunction, Left",1
+capecitabine,Breast Neoplasms,1
+capecitabine,Colorectal Neoplasms,1
+captopril,"Arthritis, Rheumatoid",1
+captopril,Bartter Syndrome,1
+captopril,Diabetic Nephropathies,1
+captopril,Edema,1
+captopril,Heart Failure,1
+captopril,"Hypertension, Malignant",1
+captopril,Raynaud Disease,1
+captopril,"Ventricular Dysfunction, Left",1
+carbachol,Glaucoma,1
+carbamazepine,Bipolar Disorder,1
+carbamazepine,"Epilepsy, Complex Partial",1
+carbamazepine,"Epilepsy, Tonic-Clonic",1
+carbamazepine,Psychotic Disorders,1
+carbamazepine,Restless Legs Syndrome,1
+carbamazepine,Schizophrenia,1
+carbamazepine,"Stress Disorders, Post-Traumatic",1
+carbamazepine,Substance Withdrawal Syndrome,1
+carbamazepine,Trigeminal Neuralgia,1
+carbidopa,Parkinson Disease,1
+carbinoxamine,"Rhinitis, Allergic, Perennial",1
+carbinoxamine,"Rhinitis, Vasomotor",1
+carmustine,Brain Neoplasms,1
+carmustine,Carcinoma,1
+carmustine,Colonic Neoplasms,1
+carmustine,Ependymoma,1
+carmustine,Glioblastoma,1
+carmustine,Hodgkin Disease,1
+carmustine,Lung Neoplasms,1
+carmustine,"Lymphoma, Non-Hodgkin",1
+carmustine,Medulloblastoma,1
+carmustine,Melanoma,1
+carmustine,Multiple Myeloma,1
+carnitine,Nutritional and Metabolic Diseases,1
+carteolol,"Glaucoma, Open-Angle",1
+carteolol,Hypertension,1
+carvedilol,Angina Pectoris,1
+carvedilol,Heart Failure,1
+carvedilol,Hypertension,1
+carvedilol,Myocardial Infarction,1
+cefaclor,"Bone Diseases, Infectious",1
+cefaclor,Bronchitis,1
+cefaclor,Escherichia coli Infections,1
+cefaclor,Haemophilus Infections,1
+cefaclor,Klebsiella Infections,1
+cefaclor,Otitis Media,1
+cefaclor,Pharyngitis,1
+cefaclor,"Pneumonia, Bacterial",1
+cefaclor,Proteus Infections,1
+cefaclor,"Skin Diseases, Bacterial",1
+cefaclor,Soft Tissue Infections,1
+cefaclor,Staphylococcal Infections,1
+cefaclor,Streptococcal Infections,1
+cefaclor,Urinary Tract Infections,1
+cefadroxil,Escherichia coli Infections,1
+cefadroxil,Impetigo,1
+cefadroxil,Klebsiella Infections,1
+cefadroxil,Pharyngitis,1
+cefadroxil,Proteus Infections,1
+cefadroxil,Soft Tissue Infections,1
+cefadroxil,Urinary Tract Infections,1
+cefamandole,"Bone Diseases, Infectious",1
+cefamandole,Escherichia coli Infections,1
+cefamandole,Haemophilus Infections,1
+cefamandole,Klebsiella Infections,1
+cefamandole,"Pneumonia, Bacterial",1
+cefamandole,Proteus Infections,1
+cefamandole,"Skin Diseases, Bacterial",1
+cefamandole,Soft Tissue Infections,1
+cefamandole,Staphylococcal Infections,1
+cefamandole,Streptococcal Infections,1
+cefamandole,Urinary Tract Infections,1
+cefazolin,"Bites, Human",1
+cefazolin,"Endocarditis, Bacterial",1
+cefazolin,Escherichia coli Infections,1
+cefazolin,Klebsiella Infections,1
+cefazolin,"Pneumonia, Bacterial",1
+cefazolin,Proteus Infections,1
+cefazolin,"Skin Diseases, Bacterial",1
+cefazolin,Soft Tissue Infections,1
+cefazolin,Staphylococcal Infections,1
+cefazolin,Streptococcal Infections,1
+cefazolin,Urinary Tract Infections,1
+cefdinir,Bronchitis,1
+cefdinir,Escherichia coli Infections,1
+cefdinir,Haemophilus Infections,1
+cefdinir,Klebsiella Infections,1
+cefdinir,Otitis Media,1
+cefdinir,"Pneumonia, Bacterial",1
+cefdinir,Proteus Infections,1
+cefdinir,Sinusitis,1
+cefdinir,"Skin Diseases, Bacterial",1
+cefdinir,Staphylococcal Infections,1
+cefdinir,Streptococcal Infections,1
+cefdinir,Tonsillitis,1
+cefditoren,Bronchitis,1
+cefditoren,Haemophilus Infections,1
+cefditoren,Klebsiella Infections,1
+cefditoren,Pharyngitis,1
+cefditoren,"Pneumonia, Bacterial",1
+cefditoren,Soft Tissue Infections,1
+cefditoren,Staphylococcal Skin Infections,1
+cefditoren,Streptococcal Infections,1
+cefepime,Acinetobacter Infections,1
+cefepime,"Bone Diseases, Infectious",1
+cefepime,Escherichia coli Infections,1
+cefepime,Fever,1
+cefepime,Haemophilus Infections,1
+cefepime,Klebsiella Infections,1
+cefepime,Neutropenia,1
+cefepime,"Pneumonia, Bacterial",1
+cefepime,Proteus Infections,1
+cefepime,Pseudomonas Infections,1
+cefepime,Pyelonephritis,1
+cefepime,Sepsis,1
+cefepime,Serratia Infections,1
+cefepime,"Skin Diseases, Bacterial",1
+cefepime,Soft Tissue Infections,1
+cefepime,Staphylococcal Infections,1
+cefepime,Streptococcal Infections,1
+cefepime,Urinary Tract Infections,1
+cefixime,Bronchitis,1
+cefixime,Escherichia coli Infections,1
+cefixime,Gonorrhea,1
+cefixime,Haemophilus Infections,1
+cefixime,Klebsiella Infections,1
+cefixime,Otitis Media,1
+cefixime,"Pneumonia, Bacterial",1
+cefixime,Proteus Infections,1
+cefixime,"Skin Diseases, Bacterial",1
+cefixime,Soft Tissue Infections,1
+cefixime,Staphylococcal Infections,1
+cefixime,Streptococcal Infections,1
+cefixime,Urinary Tract Infections,1
+cefoperazone,"Bone Diseases, Infectious",1
+cefoperazone,Escherichia coli Infections,1
+cefoperazone,"Genital Diseases, Female",1
+cefoperazone,Haemophilus Infections,1
+cefoperazone,Klebsiella Infections,1
+cefoperazone,"Pneumonia, Bacterial",1
+cefoperazone,Proteus Infections,1
+cefoperazone,Pseudomonas Infections,1
+cefoperazone,Salmonella Infections,1
+cefoperazone,Serratia Infections,1
+cefoperazone,"Skin Diseases, Bacterial",1
+cefoperazone,Soft Tissue Infections,1
+cefoperazone,Staphylococcal Infections,1
+cefoperazone,Streptococcal Infections,1
+cefoperazone,Urinary Tract Infections,1
+cefotaxime,Acinetobacter Infections,1
+cefotaxime,"Bone Diseases, Infectious",1
+cefotaxime,Escherichia coli Infections,1
+cefotaxime,Gonorrhea,1
+cefotaxime,Haemophilus Infections,1
+cefotaxime,Klebsiella Infections,1
+cefotaxime,"Meningitis, Bacterial",1
+cefotaxime,Peritonitis,1
+cefotaxime,"Pneumonia, Bacterial",1
+cefotaxime,Proteus Infections,1
+cefotaxime,Salmonella Infections,1
+cefotaxime,Sepsis,1
+cefotaxime,Serratia Infections,1
+cefotaxime,"Skin Diseases, Bacterial",1
+cefotaxime,Soft Tissue Infections,1
+cefotaxime,Staphylococcal Infections,1
+cefotaxime,Streptococcal Infections,1
+cefotaxime,Urinary Tract Infections,1
+cefotetan,Abscess,1
+cefotetan,Bacteroides Infections,1
+cefotetan,"Bites, Human",1
+cefotetan,"Bone Diseases, Infectious",1
+cefotetan,Escherichia coli Infections,1
+cefotetan,"Genital Diseases, Female",1
+cefotetan,Haemophilus Infections,1
+cefotetan,Klebsiella Infections,1
+cefotetan,Peritonitis,1
+cefotetan,"Pregnancy Complications, Infectious",1
+cefotetan,Proteus Infections,1
+cefotetan,Respiratory Tract Infections,1
+cefotetan,Septicemia,1
+cefotetan,"Skin Diseases, Bacterial",1
+cefotetan,Soft Tissue Infections,1
+cefotetan,Staphylococcal Infections,1
+cefotetan,Streptococcal Infections,1
+cefotetan,Surgical Wound Infection,1
+cefotetan,Urinary Tract Infections,1
+cefoxitin,Abscess,1
+cefoxitin,Bacteroides Infections,1
+cefoxitin,"Bone Diseases, Infectious",1
+cefoxitin,Escherichia coli Infections,1
+cefoxitin,"Genital Diseases, Female",1
+cefoxitin,Haemophilus Infections,1
+cefoxitin,Klebsiella Infections,1
+cefoxitin,Peritonitis,1
+cefoxitin,"Pregnancy Complications, Infectious",1
+cefoxitin,Proteus Infections,1
+cefoxitin,Respiratory Tract Infections,1
+cefoxitin,Septicemia,1
+cefoxitin,"Skin Diseases, Bacterial",1
+cefoxitin,Soft Tissue Infections,1
+cefoxitin,Staphylococcal Infections,1
+cefoxitin,Streptococcal Infections,1
+cefoxitin,Surgical Wound Infection,1
+cefoxitin,Urinary Tract Infections,1
+cefpodoxime,Bronchitis,1
+cefpodoxime,Escherichia coli Infections,1
+cefpodoxime,Gonorrhea,1
+cefpodoxime,Haemophilus Infections,1
+cefpodoxime,Klebsiella Infections,1
+cefpodoxime,Otitis Media,1
+cefpodoxime,"Pneumonia, Bacterial",1
+cefpodoxime,Proteus Infections,1
+cefpodoxime,"Skin Diseases, Bacterial",1
+cefpodoxime,Soft Tissue Infections,1
+cefpodoxime,Streptococcal Infections,1
+cefpodoxime,Tonsillitis,1
+cefpodoxime,Urinary Tract Infections,1
+cefprozil,Bronchitis,1
+cefprozil,Escherichia coli Infections,1
+cefprozil,Haemophilus Infections,1
+cefprozil,Klebsiella Infections,1
+cefprozil,Otitis Media,1
+cefprozil,Pharyngitis,1
+cefprozil,Proteus Infections,1
+cefprozil,Sinusitis,1
+cefprozil,"Skin Diseases, Bacterial",1
+cefprozil,Staphylococcal Infections,1
+cefprozil,Streptococcal Infections,1
+ceftazidime,Acinetobacter Infections,1
+ceftazidime,"Bone Diseases, Infectious",1
+ceftazidime,Escherichia coli Infections,1
+ceftazidime,Fever,1
+ceftazidime,Haemophilus Infections,1
+ceftazidime,Klebsiella Infections,1
+ceftazidime,"Meningitis, Bacterial",1
+ceftazidime,Neutropenia,1
+ceftazidime,"Pneumonia, Bacterial",1
+ceftazidime,Proteus Infections,1
+ceftazidime,Pseudomonas Infections,1
+ceftazidime,Sepsis,1
+ceftazidime,Serratia Infections,1
+ceftazidime,"Skin Diseases, Bacterial",1
+ceftazidime,Soft Tissue Infections,1
+ceftazidime,Staphylococcal Infections,1
+ceftazidime,Streptococcal Infections,1
+ceftazidime,Urinary Tract Infections,1
+ceftibuten,Bronchitis,1
+ceftibuten,Escherichia coli Infections,1
+ceftibuten,Haemophilus Infections,1
+ceftibuten,Klebsiella Infections,1
+ceftibuten,Otitis Media,1
+ceftibuten,Streptococcal Infections,1
+ceftibuten,Tonsillitis,1
+ceftizoxime,Acinetobacter Infections,1
+ceftizoxime,Bacteroides Infections,1
+ceftizoxime,"Bone Diseases, Infectious",1
+ceftizoxime,Escherichia coli Infections,1
+ceftizoxime,Gonorrhea,1
+ceftizoxime,Haemophilus Infections,1
+ceftizoxime,Klebsiella Infections,1
+ceftizoxime,"Pneumonia, Bacterial",1
+ceftizoxime,Proteus Infections,1
+ceftizoxime,Sepsis,1
+ceftizoxime,Serratia Infections,1
+ceftizoxime,"Skin Diseases, Bacterial",1
+ceftizoxime,Soft Tissue Infections,1
+ceftizoxime,Staphylococcal Infections,1
+ceftizoxime,Streptococcal Infections,1
+ceftizoxime,Urinary Tract Infections,1
+ceftriaxone,"Bone Diseases, Infectious",1
+ceftriaxone,Chancroid,1
+ceftriaxone,Enteritis,1
+ceftriaxone,Epididymitis,1
+ceftriaxone,Escherichia coli Infections,1
+ceftriaxone,Gonorrhea,1
+ceftriaxone,Klebsiella Infections,1
+ceftriaxone,Lyme Disease,1
+ceftriaxone,"Meningitis, Bacterial",1
+ceftriaxone,Otitis Media,1
+ceftriaxone,Peritonitis,1
+ceftriaxone,"Pneumonia, Bacterial",1
+ceftriaxone,Proctocolitis,1
+ceftriaxone,Proteus Infections,1
+ceftriaxone,Salmonella Infections,1
+ceftriaxone,Sepsis,1
+ceftriaxone,"Skin Diseases, Bacterial",1
+ceftriaxone,Soft Tissue Infections,1
+ceftriaxone,Staphylococcal Infections,1
+ceftriaxone,Streptococcal Infections,1
+ceftriaxone,Urinary Tract Infections,1
+cefuroxime,"Bone Diseases, Infectious",1
+cefuroxime,Escherichia coli Infections,1
+cefuroxime,Gonorrhea,1
+cefuroxime,Haemophilus Infections,1
+cefuroxime,Impetigo,1
+cefuroxime,Klebsiella Infections,1
+cefuroxime,Lyme Disease,1
+cefuroxime,Pharyngitis,1
+cefuroxime,"Pneumonia, Bacterial",1
+cefuroxime,Proteus Infections,1
+cefuroxime,Sinusitis,1
+cefuroxime,Soft Tissue Infections,1
+cefuroxime,Surgical Wound Infection,1
+cefuroxime,Urinary Tract Infections,1
+celecoxib,Adenomatous Polyposis Coli,1
+celecoxib,"Arthritis, Rheumatoid",1
+celecoxib,Dysmenorrhea,1
+celecoxib,Osteoarthritis,1
+cephalexin,"Bites, Human",1
+cephalexin,Escherichia coli Infections,1
+cephalexin,Klebsiella Infections,1
+cephalexin,Pharyngitis,1
+cephalexin,"Pneumonia, Bacterial",1
+cephalexin,Proteus Infections,1
+cephalexin,"Skin Diseases, Bacterial",1
+cephalexin,Soft Tissue Infections,1
+cephalexin,Staphylococcal Infections,1
+cephalexin,Streptococcal Infections,1
+cephalexin,Surgical Wound Infection,1
+cephalexin,Urinary Tract Infections,1
+cephalothin,Escherichia coli Infections,1
+cephalothin,Klebsiella Infections,1
+cephalothin,Proteus Infections,1
+cephalothin,Respiratory Tract Infections,1
+cephalothin,"Skin Diseases, Bacterial",1
+cephalothin,Soft Tissue Infections,1
+cephalothin,Staphylococcal Infections,1
+cephalothin,Streptococcal Infections,1
+cephalothin,Urinary Tract Infections,1
+cephapirin,Escherichia coli Infections,1
+cephapirin,Klebsiella Infections,1
+cephapirin,Proteus Infections,1
+cephapirin,Respiratory Tract Infections,1
+cephapirin,"Skin Diseases, Bacterial",1
+cephapirin,Soft Tissue Infections,1
+cephapirin,Staphylococcal Infections,1
+cephapirin,Streptococcal Infections,1
+cephapirin,Urinary Tract Infections,1
+cephradine,Escherichia coli Infections,1
+cephradine,Klebsiella Infections,1
+cephradine,Proteus Infections,1
+cephradine,Respiratory Tract Infections,1
+cephradine,"Skin Diseases, Bacterial",1
+cephradine,Soft Tissue Infections,1
+cephradine,Staphylococcal Infections,1
+cephradine,Streptococcal Infections,1
+cephradine,Urinary Tract Infections,1
+cetirizine,"Rhinitis, Allergic, Perennial",1
+cetirizine,Urticaria,1
+cevimeline,Xerostomia,1
+chloramphenicol,Bacteroides Infections,1
+chloramphenicol,"Eye Infections, Bacterial",1
+chloramphenicol,Haemophilus Infections,1
+chloramphenicol,"Meningitis, Meningococcal",1
+chloramphenicol,Otitis Externa,1
+chloramphenicol,Rickettsia Infections,1
+chloramphenicol,Salmonella Infections,1
+chloramphenicol,Streptococcal Infections,1
+chloroprocaine,Pain,1
+chloroquine,Amebiasis,1
+chloroquine,"Arthritis, Rheumatoid",1
+chloroquine,"Lupus Erythematosus, Discoid",1
+chloroquine,"Malaria, Avian",1
+chloroquine,"Malaria, Falciparum",1
+chloroquine,Pemphigus,1
+chloroquine,"Scleroderma, Systemic",1
+chlorothiazide,Edema,1
+chlorothiazide,Heart Failure,1
+chlorothiazide,Hypertension,1
+chlorothiazide,Nephrotic Syndrome,1
+chlorotrianisene,Hypogonadism,1
+chlorotrianisene,"Menopause, Premature",1
+chlorotrianisene,Prostatic Neoplasms,1
+chlorpheniramine,Asthma,1
+chlorpheniramine,"Rhinitis, Allergic, Perennial",1
+chlorpheniramine,Urticaria,1
+chlorpromazine,Anxiety Disorders,1
+chlorpromazine,Attention Deficit and Disruptive Behavior Disorders,1
+chlorpromazine,Hiccup,1
+chlorpromazine,Nausea,1
+chlorpromazine,"Porphyria, Acute Intermittent",1
+chlorpromazine,Psychotic Disorders,1
+chlorpromazine,Schizophrenia,1
+chlorpromazine,Tetanus,1
+chlorpromazine,Vomiting,1
+chlorpropamide,"Diabetes Mellitus, Type 2",1
+chlorprothixene,Psychotic Disorders,1
+chlorprothixene,"Schizophrenia, Paranoid",1
+chlorthalidone,Edema,1
+chlorthalidone,Heart Failure,1
+chlorthalidone,Hypertension,1
+chlorthalidone,Nephrotic Syndrome,1
+chlorzoxazone,Muscle Cramp,1
+chlorzoxazone,Muscle Rigidity,1
+chlorzoxazone,Myositis,1
+chlorzoxazone,Pain,1
+chlorzoxazone,Spasm,1
+ciclesonide,Asthma,1
+cidofovir,AIDS-Related Opportunistic Infections,1
+cidofovir,Cytomegalovirus Retinitis,1
+cilastatin,Bacterial Infections,1
+cilostazol,"Graft Occlusion, Vascular",1
+cilostazol,Intermittent Claudication,1
+cilostazol,Peripheral Vascular Diseases,1
+cimetidine,Duodenal Ulcer,1
+cimetidine,Dyspepsia,1
+cimetidine,"Esophagitis, Peptic",1
+cimetidine,Gastroesophageal Reflux,1
+cimetidine,Heartburn,1
+cimetidine,Helicobacter Infections,1
+cimetidine,Stomach Ulcer,1
+cimetidine,Urticaria,1
+cimetidine,Zollinger-Ellison Syndrome,1
+cinoxacin,Urinary Tract Infections,1
+ciprofloxacin,Anthrax,1
+ciprofloxacin,Bacteroides Infections,1
+ciprofloxacin,Campylobacter Infections,1
+ciprofloxacin,"Conjunctivitis, Bacterial",1
+ciprofloxacin,Cystitis,1
+ciprofloxacin,Dysentery,1
+ciprofloxacin,Escherichia coli Infections,1
+ciprofloxacin,Fever,1
+ciprofloxacin,Gonorrhea,1
+ciprofloxacin,Haemophilus Infections,1
+ciprofloxacin,Klebsiella Infections,1
+ciprofloxacin,Neutropenia,1
+ciprofloxacin,Osteomyelitis,1
+ciprofloxacin,Prostatitis,1
+ciprofloxacin,Proteus Infections,1
+ciprofloxacin,Pseudomonas Infections,1
+ciprofloxacin,Sinusitis,1
+ciprofloxacin,"Skin Diseases, Bacterial",1
+ciprofloxacin,Staphylococcal Infections,1
+ciprofloxacin,Typhoid Fever,1
+ciprofloxacin,Urinary Tract Infections,1
+citalopram,Alcoholism,1
+citalopram,Dementia,1
+citalopram,Depressive Disorder,1
+citalopram,Diabetic Neuropathies,1
+citalopram,Obsessive-Compulsive Disorder,1
+citalopram,Tobacco Use Disorder,1
+cladribine,"Leukemia, Hairy Cell",1
+cladribine,"Leukemia, Lymphocytic, Chronic, B-Cell",1
+cladribine,"Lymphoma, Non-Hodgkin",1
+cladribine,Multiple Sclerosis,1
+clemastine,"Rhinitis, Allergic, Perennial",1
+clemastine,Urticaria,1
+clidinium,Inflammatory Bowel Diseases,1
+clidinium,Peptic Ulcer,1
+clindamycin,Acne Vulgaris,1
+clindamycin,Actinomycetales Infections,1
+clindamycin,Bacteroides Infections,1
+clindamycin,"Pneumonia, Pneumocystis",1
+clindamycin,Staphylococcal Infections,1
+clindamycin,Streptococcal Infections,1
+clindamycin,Toxoplasmosis,1
+clindamycin,"Vaginosis, Bacterial",1
+clobetasol,Dermatitis,1
+clobetasol,Facial Dermatoses,1
+clobetasol,Foot Dermatoses,1
+clobetasol,Hand Dermatoses,1
+clobetasol,Inflammation,1
+clobetasol,Leg Dermatoses,1
+clobetasol,Scalp Dermatoses,1
+clocortolone,Facial Dermatoses,1
+clocortolone,Foot Dermatoses,1
+clocortolone,Hand Dermatoses,1
+clocortolone,Inflammation,1
+clocortolone,Leg Dermatoses,1
+clocortolone,Scalp Dermatoses,1
+clofazimine,"Leprosy, Borderline",1
+clofazimine,"Leprosy, Lepromatous",1
+clofazimine,Mycobacterium avium-intracellulare Infection,1
+clofazimine,Pyoderma Gangrenosum,1
+clofibrate,Coronary Artery Disease,1
+clofibrate,Hypercholesterolemia,1
+clofibrate,Hyperlipoproteinemias,1
+clofibrate,Hypertriglyceridemia,1
+clomiphene,"Infertility, Female",1
+clomiphene,"Infertility, Male",1
+clomipramine,Depressive Disorder,1
+clomipramine,Obsessive-Compulsive Disorder,1
+clomipramine,Pain,1
+clomipramine,Panic Disorder,1
+clonidine,"Alcohol-Induced Disorders, Nervous System",1
+clonidine,Attention Deficit Disorder with Hyperactivity,1
+clonidine,Diarrhea,1
+clonidine,Dysmenorrhea,1
+clonidine,Glaucoma,1
+clonidine,Hot Flashes,1
+clonidine,Hypertension,1
+clonidine,Muscle Spasticity,1
+clonidine,Opioid-Related Disorders,1
+clonidine,"Pain, Intractable",1
+clonidine,Sialorrhea,1
+clonidine,Substance Withdrawal Syndrome,1
+clonidine,Tourette Syndrome,1
+clotrimazole,"Candidiasis, Cutaneous",1
+clotrimazole,"Candidiasis, Oral",1
+clotrimazole,"Candidiasis, Vulvovaginal",1
+cloxacillin,Cellulitis,1
+cloxacillin,Joint Diseases,1
+cloxacillin,Osteomyelitis,1
+cloxacillin,"Pneumonia, Bacterial",1
+cloxacillin,Postoperative Complications,1
+cloxacillin,Staphylococcal Skin Infections,1
+cloxacillin,Urinary Tract Infections,1
+cloxacillin,Wound Infection,1
+clozapine,Bipolar Disorder,1
+clozapine,Psychotic Disorders,1
+clozapine,Schizophrenia,1
+colchicine,Amyloidosis,1
+colchicine,Familial Mediterranean Fever,1
+colchicine,Gout,1
+colchicine,"Liver Cirrhosis, Biliary",1
+cromolyn,Asthma,1
+cromolyn,Bronchial Spasm,1
+cromolyn,Conjunctivitis,1
+cromolyn,Food Hypersensitivity,1
+cromolyn,Inflammatory Bowel Diseases,1
+cromolyn,Mastocytosis,1
+cromolyn,"Rhinitis, Allergic, Perennial",1
+cyclacillin,Haemophilus Infections,1
+cyclacillin,Pneumococcal Infections,1
+cyclacillin,Respiratory Tract Infections,1
+cyclacillin,Staphylococcal Infections,1
+cyclacillin,Urinary Tract Infections,1
+cyclizine,Nausea,1
+cyclizine,Vomiting,1
+cyclobenzaprine,Muscle Cramp,1
+cyclobenzaprine,Muscle Rigidity,1
+cyclobenzaprine,Muscle Spasticity,1
+cyclobenzaprine,Myositis,1
+cyclobenzaprine,Pain,1
+cyclobenzaprine,Spasm,1
+cyclobenzaprine,Tetanus,1
+cycloserine,Gaucher Disease,1
+cycloserine,Tuberculosis,1
+cyclothiazide,Edema,1
+cyclothiazide,Heart Failure,1
+cyclothiazide,Hypertension,1
+cyclothiazide,Nephrotic Syndrome,1
+cyproheptadine,Blepharospasm,1
+cyproheptadine,Cluster Headache,1
+cyproheptadine,Dyskinesias,1
+cyproheptadine,Nelson Syndrome,1
+cyproheptadine,"Paraparesis, Spastic",1
+cyproheptadine,Pruritus,1
+cyproheptadine,"Rhinitis, Allergic, Perennial",1
+cyproheptadine,Schizophrenia,1
+cyproheptadine,Urticaria,1
+cysteamine,Cystinosis,1
+cytarabine,Leukemia,1
+cytarabine,Lymphoma,1
+cytarabine,Meningeal Neoplasms,1
+dacarbazine,"Carcinoma, Islet Cell",1
+dacarbazine,"Carcinoma, Medullary",1
+dacarbazine,Fibrosarcoma,1
+dacarbazine,Hodgkin Disease,1
+dacarbazine,Melanoma,1
+dacarbazine,Neuroblastoma,1
+dacarbazine,Rhabdomyosarcoma,1
+dalfopristin,Staphylococcal Skin Infections,1
+dalfopristin,Streptococcal Infections,1
+danazol,Edema,1
+danazol,Endometriosis,1
+danazol,Fibrocystic Breast Disease,1
+dantrolene,Cerebral Infarction,1
+dantrolene,Cerebral Palsy,1
+dantrolene,Malignant Hyperthermia,1
+dantrolene,Multiple Sclerosis,1
+dantrolene,Muscle Spasticity,1
+dantrolene,Neuroleptic Malignant Syndrome,1
+dantrolene,Spinal Cord Injuries,1
+dapiprazole,Mydriasis,1
+dapsone,AIDS-Related Opportunistic Infections,1
+dapsone,Dermatitis Herpetiformis,1
+dapsone,"Leprosy, Lepromatous",1
+dapsone,"Polychondritis, Relapsing",1
+daunorubicin,"Leukemia, Myeloid, Acute",1
+daunorubicin,Precursor Cell Lymphoblastic Leukemia-Lymphoma,1
+delavirdine,Acquired Immunodeficiency Syndrome,1
+demecarium,"Glaucoma, Angle-Closure",1
+demecarium,Strabismus,1
+demeclocycline,Acne Vulgaris,1
+demeclocycline,Gonorrhea,1
+demeclocycline,Gram-Positive Bacterial Infections,1
+demeclocycline,Inappropriate ADH Syndrome,1
+demeclocycline,Urinary Tract Infections,1
+demeclocycline,Whooping Cough,1
+deserpidine,Dyskinesias,1
+deserpidine,Hypertension,1
+deserpidine,Schizophrenia,1
+desflurane,Pain,1
+desipramine,Attention Deficit Disorder with Hyperactivity,1
+desipramine,Depressive Disorder,1
+desipramine,Pain,1
+desipramine,Substance-Related Disorders,1
+desloratadine,"Rhinitis, Allergic, Perennial",1
+desloratadine,Urticaria,1
+desogestrel,Acne Vulgaris,1
+desogestrel,Endometriosis,1
+desogestrel,Menstruation Disturbances,1
+desonide,Facial Dermatoses,1
+desonide,Foot Dermatoses,1
+desonide,Hand Dermatoses,1
+desonide,Inflammation,1
+desonide,Leg Dermatoses,1
+desonide,Scalp Dermatoses,1
+desoximetasone,Facial Dermatoses,1
+desoximetasone,Foot Dermatoses,1
+desoximetasone,Hand Dermatoses,1
+desoximetasone,Inflammation,1
+desoximetasone,Leg Dermatoses,1
+desoximetasone,Scalp Dermatoses,1
+dexamethasone,Addison Disease,1
+dexamethasone,Asthma,1
+dexamethasone,Brain Edema,1
+dexamethasone,Hematologic Diseases,1
+dexamethasone,Nausea,1
+dexamethasone,Neoplasms,1
+dexamethasone,"Rhinitis, Allergic, Perennial",1
+dexamethasone,"Shock, Septic",1
+dexamethasone,Vomiting,1
+dexbrompheniramine,"Rhinitis, Allergic, Perennial",1
+dexbrompheniramine,Sinusitis,1
+dexmedetomidine,Pain,1
+dexmedetomidine,Psychomotor Agitation,1
+dexrazoxane,Breast Neoplasms,1
+dextromethorphan,Asthma,1
+dextromethorphan,Cough,1
+dezocine,Pain,1
+diazoxide,"Hypertension, Malignant",1
+diazoxide,Hypoglycemia,1
+dibucaine,Pain,1
+dibucaine,Pruritus,1
+dichlorphenamide,Glaucoma,1
+diclofenac,"Arthritis, Juvenile Rheumatoid",1
+diclofenac,Dysmenorrhea,1
+diclofenac,Inflammation,1
+diclofenac,Keratosis,1
+diclofenac,Osteoarthritis,1
+diclofenac,Photophobia,1
+diclofenac,"Spondylitis, Ankylosing",1
+dicloxacillin,Cellulitis,1
+dicloxacillin,Osteomyelitis,1
+dicloxacillin,"Pneumonia, Bacterial",1
+dicloxacillin,Postoperative Complications,1
+dicloxacillin,Soft Tissue Infections,1
+dicloxacillin,Staphylococcal Skin Infections,1
+dicloxacillin,Urinary Tract Infections,1
+dicloxacillin,Wound Infection,1
+dicumarol,Pulmonary Embolism,1
+dicumarol,Thromboembolism,1
+dicumarol,Venous Thrombosis,1
+dicyclomine,Gastrointestinal Diseases,1
+didanosine,Acquired Immunodeficiency Syndrome,1
+diethylstilbestrol,Breast Neoplasms,1
+diethylstilbestrol,Carcinoma,1
+diethylstilbestrol,Prostatic Neoplasms,1
+diflorasone,Facial Dermatoses,1
+diflorasone,Foot Dermatoses,1
+diflorasone,Hand Dermatoses,1
+diflorasone,Inflammation,1
+diflorasone,Leg Dermatoses,1
+diflorasone,Pruritus,1
+diflorasone,Scalp Dermatoses,1
+diflunisal,"Arthritis, Rheumatoid",1
+diflunisal,Osteoarthritis,1
+diflunisal,Pain,1
+digitoxin,Atrial Fibrillation,1
+digitoxin,Atrial Flutter,1
+digitoxin,"Cardiac Output, Low",1
+digitoxin,Heart Failure,1
+digitoxin,"Shock, Cardiogenic",1
+digitoxin,"Tachycardia, Supraventricular",1
+digoxin,Atrial Fibrillation,1
+digoxin,Atrial Flutter,1
+digoxin,"Cardiac Output, Low",1
+digoxin,Heart Failure,1
+digoxin,"Shock, Cardiogenic",1
+digoxin,"Tachycardia, Supraventricular",1
+dihematoporphyrin ether,Bronchial Neoplasms,1
+dihematoporphyrin ether,Esophageal Neoplasms,1
+dihydroergotamine,Cluster Headache,1
+dihydroergotamine,"Hypotension, Orthostatic",1
+dihydroergotamine,Postpartum Hemorrhage,1
+dihydroergotamine,Xerostomia,1
+dihydrotachysterol,Hyperparathyroidism,1
+dihydrotachysterol,Hypocalcemia,1
+dihydrotachysterol,"Kidney Failure, Chronic",1
+diltiazem,"Angina Pectoris, Variant",1
+diltiazem,Atrial Fibrillation,1
+diltiazem,Atrial Flutter,1
+diltiazem,Hypertension,1
+diltiazem,Myocardial Infarction,1
+diltiazem,"Tachycardia, Supraventricular",1
+dimenhydrinate,Motion Sickness,1
+dimenhydrinate,Nausea,1
+dimenhydrinate,Vertigo,1
+dimenhydrinate,Vomiting,1
+dinoprostone,"Abortion, Spontaneous",1
+dinoprostone,Uterine Neoplasms,1
+diphenhydramine,Anxiety Disorders,1
+diphenhydramine,Motion Sickness,1
+diphenhydramine,Nausea,1
+diphenhydramine,"Rhinitis, Allergic, Perennial",1
+diphenhydramine,Sleep Initiation and Maintenance Disorders,1
+diphenhydramine,Urticaria,1
+diphenidol,Nausea,1
+diphenidol,Vertigo,1
+diphenidol,Vomiting,1
+dipivefrin,"Glaucoma, Open-Angle",1
+disopyramide,Atrial Fibrillation,1
+disopyramide,Atrial Flutter,1
+disopyramide,Ventricular Premature Complexes,1
+disulfiram,Alcoholism,1
+dobutamine,"Cardiac Output, Low",1
+docetaxel,Breast Neoplasms,1
+docetaxel,"Carcinoma, Non-Small-Cell Lung",1
+docetaxel,Head and Neck Neoplasms,1
+docetaxel,Melanoma,1
+docetaxel,Ovarian Neoplasms,1
+docetaxel,Pancreatic Neoplasms,1
+docetaxel,Soft Tissue Neoplasms,1
+docetaxel,Stomach Neoplasms,1
+dofetilide,Atrial Fibrillation,1
+dofetilide,Atrial Flutter,1
+dolasetron,Nausea,1
+dolasetron,Vomiting,1
+donepezil,Alzheimer Disease,1
+dopamine,Bradycardia,1
+dopamine,"Cardiac Output, Low",1
+dopamine,Heart Block,1
+dopamine,Kidney Diseases,1
+dopamine,Shock,1
+dorzolamide,"Glaucoma, Open-Angle",1
+doxazosin,Hypertension,1
+doxazosin,Prostatic Hyperplasia,1
+doxazosin,Urinary Retention,1
+doxepin,Anxiety Disorders,1
+doxepin,Depressive Disorder,1
+doxepin,"Dermatitis, Atopic",1
+doxepin,Pain,1
+doxepin,Pruritus,1
+doxorubicin,Breast Neoplasms,1
+doxorubicin,Gastrointestinal Neoplasms,1
+doxorubicin,Leukemia,1
+doxorubicin,Liver Neoplasms,1
+doxorubicin,Lung Neoplasms,1
+doxorubicin,Lymphoma,1
+doxorubicin,Mesothelioma,1
+doxorubicin,Multiple Myeloma,1
+doxorubicin,Neuroblastoma,1
+doxorubicin,Ovarian Neoplasms,1
+doxorubicin,Pancreatic Neoplasms,1
+doxorubicin,Prostatic Neoplasms,1
+doxorubicin,Sarcoma,1
+doxorubicin,Testicular Neoplasms,1
+doxorubicin,Thyroid Neoplasms,1
+doxorubicin,Urinary Bladder Neoplasms,1
+doxorubicin,Uterine Neoplasms,1
+doxycycline,Anthrax,1
+doxycycline,Chlamydia Infections,1
+doxycycline,Mycoplasma Infections,1
+doxycycline,Pleural Effusion,1
+doxycycline,"Pneumonia, Bacterial",1
+doxycycline,Rickettsia Infections,1
+doxycycline,Syphilis,1
+doxylamine,Headache,1
+doxylamine,"Rhinitis, Allergic, Perennial",1
+doxylamine,Sleep Initiation and Maintenance Disorders,1
+droperidol,Pain,1
+droperidol,Psychotic Disorders,1
+dutasteride,Prostatic Hyperplasia,1
+dyclonine,Facial Pain,1
+dyphylline,Asthma,1
+echothiophate,Esotropia,1
+echothiophate,"Glaucoma, Angle-Closure",1
+echothiophate,"Glaucoma, Open-Angle",1
+econazole,"Candidiasis, Cutaneous",1
+econazole,Tinea Pedis,1
+econazole,Tinea Versicolor,1
+edrophonium,"Abnormalities, Drug-Induced",1
+edrophonium,Drug Toxicity,1
+efavirenz,Acquired Immunodeficiency Syndrome,1
+emedastine,"Conjunctivitis, Acute Hemorrhagic",1
+enalapril,"Arthritis, Rheumatoid",1
+enalapril,Bartter Syndrome,1
+enalapril,Diabetic Nephropathies,1
+enalapril,Edema,1
+enalapril,Heart Failure,1
+enalapril,"Hypertension, Malignant",1
+enalapril,"Ventricular Dysfunction, Left",1
+enflurane,Status Asthmaticus,1
+enflurane,Ventricular Premature Complexes,1
+enoxacin,Escherichia coli Infections,1
+enoxacin,Gonorrhea,1
+enoxacin,Haemophilus Infections,1
+enoxacin,Klebsiella Infections,1
+enoxacin,Proteus Infections,1
+enoxacin,Pseudomonas Infections,1
+enoxacin,Staphylococcal Infections,1
+enoxacin,Urinary Tract Infections,1
+enoxaparin,"Angina, Unstable",1
+enoxaparin,Myocardial Infarction,1
+enoxaparin,Postoperative Complications,1
+enoxaparin,Pulmonary Embolism,1
+enoxaparin,Thromboembolism,1
+enoxaparin,Thrombophlebitis,1
+entacapone,Parkinson Disease,1
+ephedrine,Asthma,1
+ephedrine,Bronchial Spasm,1
+ephedrine,"Hypotension, Orthostatic",1
+ephedrine,Rhinitis,1
+epinephrine,Airway Obstruction,1
+epinephrine,Anaphylaxis,1
+epinephrine,Asthma,1
+epinephrine,Bradycardia,1
+epinephrine,Bronchial Spasm,1
+epinephrine,"Glaucoma, Open-Angle",1
+epinephrine,Heart Arrest,1
+epinephrine,Heart Block,1
+epinephrine,Hypotension,1
+epinephrine,"Shock, Septic",1
+epinephrine,"Tachycardia, Ventricular",1
+epinephrine,Ventricular Fibrillation,1
+epirubicin,Breast Neoplasms,1
+eplerenone,Hypertension,1
+epoprostenol,Arteriosclerosis,1
+epoprostenol,"Hypertension, Pulmonary",1
+epoprostenol,Peripheral Vascular Diseases,1
+epoprostenol,Purpura,1
+epoprostenol,"Respiratory Distress Syndrome, Adult",1
+epoprostenol,"Scleroderma, Systemic",1
+eprosartan,Diabetic Nephropathies,1
+eprosartan,Heart Failure,1
+eprosartan,Hypertension,1
+eprosartan,"Ventricular Dysfunction, Left",1
+"ergoloid mesylates, usp",Cluster Headache,1
+"ergoloid mesylates, usp",Postpartum Hemorrhage,1
+ergotamine,Cluster Headache,1
+ergotamine,Postpartum Hemorrhage,1
+ertapenem,Abdominal Abscess,1
+ertapenem,Bacteroides Infections,1
+ertapenem,Escherichia coli Infections,1
+ertapenem,Haemophilus Infections,1
+ertapenem,Klebsiella Infections,1
+ertapenem,Pyelonephritis,1
+ertapenem,Respiratory Tract Infections,1
+ertapenem,Septicemia,1
+ertapenem,Soft Tissue Infections,1
+ertapenem,Staphylococcal Skin Infections,1
+ertapenem,Streptococcal Infections,1
+erythrityl tetranitrate,Angina Pectoris,1
+erythromycin,Acne Vulgaris,1
+erythromycin,Campylobacter Infections,1
+erythromycin,Chancroid,1
+erythromycin,Chlamydia Infections,1
+erythromycin,Erythrasma,1
+erythromycin,"Eye Infections, Bacterial",1
+erythromycin,Gastroenteritis,1
+erythromycin,Gonorrhea,1
+erythromycin,Legionnaires Disease,1
+erythromycin,Mycoplasma Infections,1
+erythromycin,Staphylococcal Infections,1
+erythromycin,Streptococcal Infections,1
+erythromycin,Syphilis,1
+erythromycin,Urethritis,1
+erythromycin,Whooping Cough,1
+escitalopram,Depressive Disorder,1
+esmolol,Angina Pectoris,1
+esmolol,Heart Failure,1
+esmolol,Hypertension,1
+esmolol,Myocardial Infarction,1
+esmolol,"Tachycardia, Supraventricular",1
+esmolol,"Tachycardia, Ventricular",1
+esmolol,Ventricular Fibrillation,1
+esomeprazole,Duodenal Ulcer,1
+esomeprazole,Esophagitis,1
+esomeprazole,Gastroesophageal Reflux,1
+esomeprazole,Heartburn,1
+esomeprazole,Helicobacter Infections,1
+estradiol,Breast Neoplasms,1
+estradiol,Hot Flashes,1
+estradiol,Hypogonadism,1
+estradiol,"Menopause, Premature",1
+estradiol,Menorrhagia,1
+estradiol,Primary Ovarian Insufficiency,1
+estradiol,Prostatic Neoplasms,1
+estramustine,Prostatic Neoplasms,1
+estrogens,Breast Neoplasms,1
+estrogens,Hot Flashes,1
+estrogens,Hypogonadism,1
+estrogens,"Menopause, Premature",1
+estrogens,Menorrhagia,1
+estrogens,Primary Ovarian Insufficiency,1
+estrogens,Prostatic Neoplasms,1
+estrone,Breast Neoplasms,1
+estrone,Hot Flashes,1
+estrone,Hypogonadism,1
+estrone,"Menopause, Premature",1
+estrone,Menorrhagia,1
+estrone,Primary Ovarian Insufficiency,1
+estrone,Prostatic Neoplasms,1
+ethacrynic acid,Ascites,1
+ethacrynic acid,Edema,1
+ethacrynic acid,Heart Failure,1
+ethacrynic acid,Hypertension,1
+ethacrynic acid,"Kidney Failure, Acute",1
+ethacrynic acid,"Kidney Failure, Chronic",1
+ethacrynic acid,Liver Cirrhosis,1
+ethacrynic acid,Nephrotic Syndrome,1
+ethacrynic acid,Pulmonary Edema,1
+ethambutol,"Mycobacterium Infections, Atypical",1
+ethambutol,Tuberculosis,1
+ethanol,Acne Vulgaris,1
+ethanol,Complex Regional Pain Syndromes,1
+ethanol,"Dermatitis, Seborrheic",1
+ethanol,Hyperhidrosis,1
+ethanol,Psoriasis,1
+ethanol,Scalp Dermatoses,1
+ethanol,Warts,1
+ethinyl estradiol,Breast Neoplasms,1
+ethinyl estradiol,Hot Flashes,1
+ethinyl estradiol,Hypogonadism,1
+ethinyl estradiol,"Menopause, Premature",1
+ethinyl estradiol,Menorrhagia,1
+ethinyl estradiol,Primary Ovarian Insufficiency,1
+ethinyl estradiol,Prostatic Neoplasms,1
+ethionamide,Tuberculosis,1
+ethosuximide,"Epilepsy, Absence",1
+ethotoin,Seizures,1
+ethynodiol,Endometriosis,1
+ethynodiol,Hypogonadism,1
+etodolac,"Arthritis, Rheumatoid",1
+etodolac,Osteoarthritis,1
+etodolac,Pain,1
+etomidate,Brain Ischemia,1
+etomidate,"Head Injuries, Closed",1
+etomidate,Pain,1
+etomidate,Status Epilepticus,1
+etoposide,Brain Neoplasms,1
+etoposide,Histiocytosis,1
+etoposide,"Leukemia, Lymphocytic, Chronic, B-Cell",1
+etoposide,"Leukemia, Myeloid, Acute",1
+etoposide,Lung Neoplasms,1
+etoposide,Mycosis Fungoides,1
+etoposide,Neuroblastoma,1
+etoposide,Prostatic Neoplasms,1
+etoposide,Rhabdomyosarcoma,1
+etoposide,"Sarcoma, Ewings",1
+etoposide,"Sarcoma, Kaposi",1
+etoposide,Testicular Neoplasms,1
+etoposide,Trophoblastic Neoplasms,1
+etoposide,Urinary Bladder Neoplasms,1
+etoposide,Uterine Neoplasms,1
+exemestane,Breast Neoplasms,1
+ezetimibe,Hypercholesterolemia,1
+ezetimibe,Hyperlipoproteinemia Type II,1
+famciclovir,Herpes Genitalis,1
+famciclovir,Herpes Zoster,1
+famotidine,Duodenal Ulcer,1
+famotidine,Dyspepsia,1
+famotidine,"Esophagitis, Peptic",1
+famotidine,Gastroesophageal Reflux,1
+famotidine,Heartburn,1
+famotidine,Helicobacter Infections,1
+famotidine,Stomach Ulcer,1
+famotidine,Urticaria,1
+famotidine,Zollinger-Ellison Syndrome,1
+felbamate,"Epilepsy, Complex Partial",1
+felbamate,Seizures,1
+felodipine,"Angina Pectoris, Variant",1
+felodipine,Hypertension,1
+fenofibrate,Coronary Artery Disease,1
+fenofibrate,Hypercholesterolemia,1
+fenofibrate,Hyperlipoproteinemias,1
+fenofibrate,Hypertriglyceridemia,1
+fenoldopam,Heart Failure,1
+fenoldopam,"Hypertension, Malignant",1
+fenoldopam,"Hypertension, Renovascular",1
+fenoprofen,"Arthritis, Rheumatoid",1
+fenoprofen,Osteoarthritis,1
+fenoprofen,Pain,1
+fexofenadine,"Rhinitis, Allergic, Perennial",1
+fexofenadine,Urticaria,1
+finasteride,Alopecia,1
+finasteride,Hirsutism,1
+finasteride,Prostatic Hyperplasia,1
+finasteride,Prostatic Neoplasms,1
+flavoxate,Urinary Incontinence,1
+flecainide,"Tachycardia, Ventricular",1
+floxuridine,Colorectal Neoplasms,1
+floxuridine,Stomach Neoplasms,1
+fluconazole,AIDS-Related Opportunistic Infections,1
+fluconazole,Blastomycosis,1
+fluconazole,"Candidiasis, Chronic Mucocutaneous",1
+fluconazole,"Candidiasis, Oral",1
+fluconazole,"Candidiasis, Vulvovaginal",1
+fluconazole,Coccidioidomycosis,1
+fluconazole,Fungemia,1
+fluconazole,Histoplasmosis,1
+fluconazole,"Meningitis, Cryptococcal",1
+flucytosine,AIDS-Related Opportunistic Infections,1
+flucytosine,Aspergillosis,1
+flucytosine,Candidiasis,1
+flucytosine,Chromoblastomycosis,1
+flucytosine,"Lung Diseases, Fungal",1
+flucytosine,"Meningitis, Cryptococcal",1
+fludarabine,"Leukemia, Lymphocytic, Chronic, B-Cell",1
+fludarabine,"Lymphoma, Non-Hodgkin",1
+fludrocortisone,Addison Disease,1
+fludrocortisone,Adrenocortical Hyperfunction,1
+flumazenil,Drug Toxicity,1
+flumazenil,Overdose,1
+flunisolide,Asthma,1
+flunisolide,"Rhinitis, Allergic, Perennial",1
+fluocinolone,"Dermatitis, Atopic",1
+fluocinolone,Facial Dermatoses,1
+fluocinolone,Foot Dermatoses,1
+fluocinolone,Hand Dermatoses,1
+fluocinolone,Inflammation,1
+fluocinolone,Leg Dermatoses,1
+fluocinolone,Psoriasis,1
+fluocinonide,Inflammation,1
+fluocinonide,Pruritus,1
+fluorometholone,Inflammation,1
+fluorouracil,Breast Neoplasms,1
+fluorouracil,"Carcinoma, Basal Cell",1
+fluorouracil,Colonic Neoplasms,1
+fluorouracil,Head and Neck Neoplasms,1
+fluorouracil,Keratosis,1
+fluorouracil,Pancreatic Neoplasms,1
+fluorouracil,Rectal Neoplasms,1
+fluorouracil,Stomach Neoplasms,1
+fluoxetine,Bulimia,1
+fluoxetine,Depressive Disorder,1
+fluoxetine,Obsessive-Compulsive Disorder,1
+fluoxetine,Panic Disorder,1
+fluphenazine,Psychotic Disorders,1
+fluphenazine,Schizophrenia,1
+flurandrenolide,Facial Dermatoses,1
+flurandrenolide,Foot Dermatoses,1
+flurandrenolide,Hand Dermatoses,1
+flurandrenolide,Inflammation,1
+flurandrenolide,Leg Dermatoses,1
+flurbiprofen,"Arthritis, Rheumatoid",1
+flurbiprofen,Inflammation,1
+flurbiprofen,Macular Edema,1
+flurbiprofen,Miosis,1
+flurbiprofen,Osteoarthritis,1
+flutamide,Hirsutism,1
+flutamide,Prostatic Neoplasms,1
+fluticasone,Asthma,1
+fluticasone,"Rhinitis, Allergic, Perennial",1
+fluvastatin,Coronary Artery Disease,1
+fluvastatin,Hypercholesterolemia,1
+fluvastatin,Hyperlipoproteinemias,1
+fluvastatin,Hypertriglyceridemia,1
+fluvoxamine,Depressive Disorder,1
+fluvoxamine,Obsessive-Compulsive Disorder,1
+fluvoxamine,Panic Disorder,1
+fomepizole,Drug Toxicity,1
+formoterol,Asthma,1
+formoterol,Bronchial Spasm,1
+foscarnet,Cytomegalovirus Infections,1
+foscarnet,Herpes Genitalis,1
+fosfomycin,Escherichia coli Infections,1
+fosfomycin,Urinary Tract Infections,1
+fosinopril,Diabetic Nephropathies,1
+fosinopril,Heart Failure,1
+fosinopril,Hypertension,1
+fosinopril,"Ventricular Dysfunction, Left",1
+fosphenytoin,Seizures,1
+fosphenytoin,Status Epilepticus,1
+fulvestrant,Breast Neoplasms,1
+furosemide,Ascites,1
+furosemide,Edema,1
+furosemide,Heart Failure,1
+furosemide,Hypertension,1
+furosemide,"Kidney Failure, Acute",1
+furosemide,"Kidney Failure, Chronic",1
+furosemide,Liver Cirrhosis,1
+furosemide,Nephrotic Syndrome,1
+furosemide,Pulmonary Edema,1
+gabapentin,Bipolar Disorder,1
+gabapentin,"Epilepsies, Partial",1
+gabapentin,Pain,1
+gabapentin,Phobic Disorders,1
+galantamine,Alzheimer Disease,1
+ganciclovir,AIDS-Related Opportunistic Infections,1
+ganciclovir,Cytomegalovirus Retinitis,1
+gatifloxacin,Bronchitis,1
+gatifloxacin,Cystitis,1
+gatifloxacin,Escherichia coli Infections,1
+gatifloxacin,Gonorrhea,1
+gatifloxacin,Haemophilus Infections,1
+gatifloxacin,Klebsiella Infections,1
+gatifloxacin,"Pneumonia, Bacterial",1
+gatifloxacin,Proteus Infections,1
+gatifloxacin,Pyelonephritis,1
+gatifloxacin,Salmonella Infections,1
+gatifloxacin,Sinusitis,1
+gatifloxacin,Staphylococcal Infections,1
+gatifloxacin,Streptococcal Infections,1
+gatifloxacin,Urinary Tract Infections,1
+gefitinib,Lung Neoplasms,1
+gemcitabine,"Carcinoma, Pancreatic Ductal",1
+gemfibrozil,Coronary Artery Disease,1
+gemfibrozil,Hypercholesterolemia,1
+gemfibrozil,Hyperlipoproteinemias,1
+gemfibrozil,Hypertriglyceridemia,1
+gemifloxacin,Bronchitis,1
+gemifloxacin,Community-Acquired Infections,1
+gemifloxacin,Gram-Negative Bacterial Infections,1
+gemifloxacin,"Pneumonia, Pneumococcal",1
+gemifloxacin,Urinary Tract Infections,1
+gentamicin sulfate (usp),"Bone Diseases, Infectious",1
+gentamicin sulfate (usp),Endocarditis,1
+gentamicin sulfate (usp),"Eye Infections, Bacterial",1
+gentamicin sulfate (usp),Pseudomonas Infections,1
+gentamicin sulfate (usp),Respiratory Tract Infections,1
+gentamicin sulfate (usp),Septicemia,1
+gentamicin sulfate (usp),"Skin Diseases, Bacterial",1
+gentamicin sulfate (usp),Soft Tissue Infections,1
+gentamicin sulfate (usp),Staphylococcal Infections,1
+gentamicin sulfate (usp),Urinary Tract Infections,1
+glimepiride,"Diabetes Mellitus, Type 2",1
+glipizide,"Diabetes Mellitus, Type 2",1
+glucosamine,Osteoarthritis,1
+glyburide,"Diabetes Mellitus, Type 2",1
+glycopyrrolate,"Abnormalities, Drug-Induced",1
+glycopyrrolate,Peptic Ulcer,1
+glycopyrrolate,Respiratory Tract Diseases,1
+gonadorelin,Amenorrhea,1
+gonadorelin,"Puberty, Delayed",1
+gonadorelin,"Puberty, Precocious",1
+griseofulvin,Tinea Capitis,1
+griseofulvin,Tinea Pedis,1
+guanabenz,Hypertension,1
+guanadrel,Hypertension,1
+guanethidine,Hypertension,1
+guanfacine,Hypertension,1
+halobetasol,Facial Dermatoses,1
+halobetasol,Foot Dermatoses,1
+halobetasol,Hand Dermatoses,1
+halobetasol,Inflammation,1
+halobetasol,Leg Dermatoses,1
+halobetasol,Pruritus,1
+halobetasol,Scalp Dermatoses,1
+halofantrine,"Malaria, Falciparum",1
+halofantrine,"Malaria, Vivax",1
+haloperidol,Child Behavior Disorders,1
+haloperidol,Psychotic Disorders,1
+haloperidol,Schizophrenia,1
+haloperidol,Substance Withdrawal Syndrome,1
+haloperidol,Tourette Syndrome,1
+haloperidol,Vomiting,1
+halothane,Status Asthmaticus,1
+hexachlorophene,Acne Vulgaris,1
+homatropine,Inflammation,1
+hydralazine,Heart Failure,1
+hydralazine,"Hypertension, Malignant",1
+hydralazine,"Hypertension, Pulmonary",1
+hydrochlorothiazide,Edema,1
+hydrochlorothiazide,Heart Failure,1
+hydrochlorothiazide,Hypertension,1
+hydrochlorothiazide,Nephrotic Syndrome,1
+hydrocortisone,"Adrenal Hyperplasia, Congenital",1
+hydrocortisone,Adrenal Insufficiency,1
+hydrocortisone,"Colitis, Ulcerative",1
+hydrocortisone,Facial Dermatoses,1
+hydrocortisone,Foot Dermatoses,1
+hydrocortisone,Hand Dermatoses,1
+hydrocortisone,Hemorrhoids,1
+hydrocortisone,Inflammation,1
+hydrocortisone,Leg Dermatoses,1
+hydrocortisone,Pruritus Ani,1
+hydrocortisone,Rheumatic Diseases,1
+hydrocortisone,Scalp Dermatoses,1
+hydrocortisone,Shock,1
+hydrocortisone,"Skin Diseases, Eczematous",1
+hydrocortisone,Status Asthmaticus,1
+hydroflumethiazide,Edema,1
+hydroflumethiazide,Heart Failure,1
+hydroflumethiazide,Hypertension,1
+hydroflumethiazide,Nephrotic Syndrome,1
+hydroxocobalamin,Alcoholic Neuropathy,1
+hydroxocobalamin,"Anemia, Pernicious",1
+hydroxocobalamin,Diabetic Neuropathies,1
+hydroxocobalamin,Multiple Sclerosis,1
+hydroxychloroquine,"Arthritis, Rheumatoid",1
+hydroxychloroquine,"Lupus Erythematosus, Systemic",1
+hydroxychloroquine,Malaria,1
+hydroxychloroquine,Photosensitivity Disorders,1
+hydroxychloroquine,Porphyria Cutanea Tarda,1
+hydroxyurea,Brain Neoplasms,1
+hydroxyurea,"Carcinoma, Non-Small-Cell Lung",1
+hydroxyurea,"Carcinoma, Renal Cell",1
+hydroxyurea,Head and Neck Neoplasms,1
+hydroxyurea,Hypereosinophilic Syndrome,1
+hydroxyurea,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1
+hydroxyurea,Leukocytosis,1
+hydroxyurea,Melanoma,1
+hydroxyurea,Ovarian Neoplasms,1
+hydroxyurea,Polycythemia Vera,1
+hydroxyurea,Prostatic Neoplasms,1
+hydroxyurea,Psoriasis,1
+hydroxyurea,"Thrombocythemia, Essential",1
+hydroxyurea,Uterine Neoplasms,1
+hydroxyzine,Angina Pectoris,1
+hydroxyzine,Anxiety Disorders,1
+hydroxyzine,Asthma,1
+hydroxyzine,Nausea,1
+hydroxyzine,Pruritus,1
+hydroxyzine,Substance Withdrawal Syndrome,1
+hydroxyzine,Vomiting,1
+hyoscyamine,"Abnormalities, Drug-Induced",1
+hyoscyamine,Colic,1
+hyoscyamine,Hyperhidrosis,1
+hyoscyamine,Intraoperative Complications,1
+hyoscyamine,Irritable Bowel Syndrome,1
+hyoscyamine,Muscle Rigidity,1
+hyoscyamine,Peptic Ulcer,1
+hyoscyamine,Rhinitis,1
+hyoscyamine,Sialorrhea,1
+hyoscyamine,Spasm,1
+hyoscyamine,Tremor,1
+hyoscyamine,"Urinary Bladder, Neurogenic",1
+ibuprofen,"Arthritis, Juvenile Rheumatoid",1
+ibuprofen,Bursitis,1
+ibuprofen,Dysmenorrhea,1
+ibuprofen,Fever,1
+ibuprofen,Gout,1
+ibuprofen,Inflammation,1
+ibuprofen,Menorrhagia,1
+ibuprofen,Osteoarthritis,1
+ibuprofen,"Pain, Postoperative",1
+ibuprofen,Premenstrual Syndrome,1
+ibuprofen,"Spondylitis, Ankylosing",1
+ibutilide,Atrial Fibrillation,1
+ibutilide,Atrial Flutter,1
+idarubicin,Breast Neoplasms,1
+idarubicin,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",1
+idarubicin,"Leukemia, Myeloid, Acute",1
+idarubicin,Precursor Cell Lymphoblastic Leukemia-Lymphoma,1
+idoxuridine,"Keratitis, Dendritic",1
+iloprost,Hypertension,1
+imatinib,Blast Crisis,1
+imatinib,Gastrointestinal Neoplasms,1
+imatinib,"Leukemia, Myeloid, Accelerated Phase",1
+imipenem,"Endocarditis, Bacterial",1
+imipenem,Enterobacteriaceae Infections,1
+imipenem,Pseudomonas Infections,1
+imipenem,Respiratory Tract Infections,1
+imipenem,Septicemia,1
+imipenem,Staphylococcal Infections,1
+imipenem,Streptococcal Infections,1
+imipenem,Urinary Tract Infections,1
+imipramine,Attention Deficit Disorder with Hyperactivity,1
+imipramine,Depressive Disorder,1
+imipramine,Enuresis,1
+imipramine,Pain,1
+imipramine,Panic Disorder,1
+imiquimod,Condylomata Acuminata,1
+inamrinone,"Cardiac Output, Low",1
+inamrinone,"Cardiomyopathy, Dilated",1
+inamrinone,Heart Failure,1
+inamrinone,"Shock, Cardiogenic",1
+indapamide,Edema,1
+indapamide,Heart Failure,1
+indapamide,Hypertension,1
+indapamide,Nephrotic Syndrome,1
+indinavir,Acquired Immunodeficiency Syndrome,1
+indomethacin,"Arthritis, Gouty",1
+indomethacin,"Arthritis, Rheumatoid",1
+indomethacin,Bursitis,1
+indomethacin,"Ductus Arteriosus, Patent",1
+indomethacin,Inflammation,1
+indomethacin,Osteoarthritis,1
+indomethacin,Pain,1
+ipratropium,Asthma,1
+ipratropium,Bronchial Spasm,1
+ipratropium,Bronchitis,1
+ipratropium,Pulmonary Emphysema,1
+ipratropium,"Rhinitis, Allergic, Perennial",1
+ipratropium,"Rhinitis, Vasomotor",1
+irbesartan,Diabetic Nephropathies,1
+irbesartan,Hypertension,1
+irbesartan,"Ventricular Dysfunction, Left",1
+irinotecan,Breast Neoplasms,1
+irinotecan,"Carcinoma, Non-Small-Cell Lung",1
+irinotecan,Colonic Neoplasms,1
+irinotecan,Leukemia,1
+irinotecan,Lymphoma,1
+irinotecan,Neoplasm Metastasis,1
+irinotecan,Pancreatic Neoplasms,1
+irinotecan,Rectal Neoplasms,1
+irinotecan,Stomach Neoplasms,1
+isocarboxazid,Depressive Disorder,1
+isoetharine,Asthma,1
+isoetharine,Bronchial Spasm,1
+isoflurane,Depressive Disorder,1
+isoflurane,Status Asthmaticus,1
+isoflurophate,Glaucoma,1
+isoflurophate,Strabismus,1
+isoniazid,Tuberculosis,1
+isoproterenol,Asthma,1
+isoproterenol,Bradycardia,1
+isoproterenol,Heart Block,1
+isoproterenol,Torsades de Pointes,1
+isoproterenol,Ventricular Fibrillation,1
+isosorbide,Angina Pectoris,1
+isosorbide,Coronary Disease,1
+isosorbide,Cyanosis,1
+isosorbide,"Esophageal Spasm, Diffuse",1
+isosorbide,Gastroesophageal Reflux,1
+isosorbide,Heart Failure,1
+isosorbide,Poisoning,1
+isosorbide dinitrate,Angina Pectoris,1
+isosorbide dinitrate,Coronary Disease,1
+isosorbide dinitrate,Cyanosis,1
+isosorbide dinitrate,"Esophageal Spasm, Diffuse",1
+isosorbide dinitrate,Gastroesophageal Reflux,1
+isosorbide dinitrate,Heart Failure,1
+isosorbide dinitrate,Poisoning,1
+isotretinoin,Acne Vulgaris,1
+isotretinoin,Leukemia,1
+isotretinoin,Neuroblastoma,1
+isradipine,"Angina Pectoris, Variant",1
+isradipine,Hypertension,1
+itraconazole,AIDS-Related Opportunistic Infections,1
+itraconazole,Aspergillosis,1
+itraconazole,Blastomycosis,1
+itraconazole,"Candidiasis, Chronic Mucocutaneous",1
+itraconazole,"Candidiasis, Oral",1
+itraconazole,"Candidiasis, Vulvovaginal",1
+itraconazole,Coccidioidomycosis,1
+itraconazole,Cryptococcosis,1
+itraconazole,Histoplasmosis,1
+itraconazole,Leishmaniasis,1
+itraconazole,"Lung Diseases, Fungal",1
+itraconazole,Neutropenia,1
+itraconazole,Onychomycosis,1
+itraconazole,Paracoccidioidomycosis,1
+itraconazole,Sporotrichosis,1
+itraconazole,Zygomycosis,1
+ivermectin,Ascariasis,1
+ivermectin,Elephantiasis,1
+ivermectin,Enterobiasis,1
+ivermectin,Mansonelliasis,1
+ivermectin,Onchocerciasis,1
+ivermectin,Scabies,1
+ivermectin,Strongyloidiasis,1
+ivermectin,Trichuriasis,1
+kanamycin,Gram-Negative Bacterial Infections,1
+kanamycin,Hepatic Encephalopathy,1
+kanamycin,Mycobacterium Infections,1
+kanamycin,Respiratory Tract Infections,1
+ketamine,Pain,1
+ketoconazole,Acanthamoeba Keratitis,1
+ketoconazole,Blastomycosis,1
+ketoconazole,"Candidiasis, Chronic Mucocutaneous",1
+ketoconazole,"Candidiasis, Cutaneous",1
+ketoconazole,"Candidiasis, Oral",1
+ketoconazole,"Candidiasis, Vulvovaginal",1
+ketoconazole,Coccidioidomycosis,1
+ketoconazole,"Dermatitis, Seborrheic",1
+ketoconazole,Histoplasmosis,1
+ketoconazole,Leishmaniasis,1
+ketoconazole,Paracoccidioidomycosis,1
+ketoconazole,Tinea Pedis,1
+ketoconazole,Tinea Versicolor,1
+ketoprofen,"Arthritis, Rheumatoid",1
+ketoprofen,Dysmenorrhea,1
+ketoprofen,Osteoarthritis,1
+ketorolac,"Conjunctivitis, Allergic",1
+ketorolac,Inflammation,1
+ketorolac,Pain,1
+ketorolac,Photophobia,1
+labetalol,Angina Pectoris,1
+labetalol,Heart Failure,1
+labetalol,"Hypertension, Malignant",1
+labetalol,Myocardial Infarction,1
+lactulose,Constipation,1
+lactulose,Hepatic Encephalopathy,1
+lamivudine,Acquired Immunodeficiency Syndrome,1
+lamotrigine,Bipolar Disorder,1
+lamotrigine,"Epilepsies, Partial",1
+lamotrigine,Seizures,1
+lansoprazole,Duodenal Ulcer,1
+lansoprazole,Esophagitis,1
+lansoprazole,Gastroesophageal Reflux,1
+lansoprazole,Helicobacter Infections,1
+lansoprazole,Stomach Ulcer,1
+lansoprazole,Zollinger-Ellison Syndrome,1
+latanoprost,"Glaucoma, Open-Angle",1
+leflunomide,"Arthritis, Rheumatoid",1
+letrozole,Breast Neoplasms,1
+leucovorin,"Anemia, Megaloblastic",1
+leucovorin,Drug Toxicity,1
+leucovorin,Folic Acid Deficiency,1
+levamisole,Colonic Neoplasms,1
+levetiracetam,"Epilepsies, Partial",1
+levobunolol,"Glaucoma, Open-Angle",1
+levobupivacaine,Pain,1
+levocabastine,"Conjunctivitis, Allergic",1
+levodopa,Parkinson Disease,1
+levofloxacin,Bronchitis,1
+levofloxacin,Chlamydia Infections,1
+levofloxacin,Escherichia coli Infections,1
+levofloxacin,"Eye Infections, Bacterial",1
+levofloxacin,Haemophilus Infections,1
+levofloxacin,Klebsiella Infections,1
+levofloxacin,Legionnaires Disease,1
+levofloxacin,Maxillary Sinusitis,1
+levofloxacin,Mycoplasma Infections,1
+levofloxacin,"Pneumonia, Bacterial",1
+levofloxacin,Proteus Infections,1
+levofloxacin,Pseudomonas Infections,1
+levofloxacin,Pyelonephritis,1
+levofloxacin,Salmonella Infections,1
+levofloxacin,"Skin Diseases, Bacterial",1
+levofloxacin,Soft Tissue Infections,1
+levofloxacin,Staphylococcal Infections,1
+levofloxacin,Streptococcal Infections,1
+levofloxacin,"Tuberculosis, Pulmonary",1
+levofloxacin,Urinary Tract Infections,1
+levomethadyl,Opioid-Related Disorders,1
+lidocaine,Burns,1
+lidocaine,Drug Toxicity,1
+lidocaine,Esophageal Diseases,1
+lidocaine,Mouth Diseases,1
+lidocaine,Myocardial Infarction,1
+lidocaine,Pain,1
+lidocaine,"Tachycardia, Paroxysmal",1
+lidocaine,"Tachycardia, Ventricular",1
+lidocaine,Ventricular Dysfunction,1
+lidocaine,Ventricular Fibrillation,1
+lidocaine,Ventricular Premature Complexes,1
+lincomycin,Staphylococcal Infections,1
+lincomycin,Streptococcal Infections,1
+lindane,Lice Infestations,1
+lindane,Scabies,1
+lisinopril,Diabetic Nephropathies,1
+lisinopril,Heart Failure,1
+lisinopril,Hypertension,1
+lisinopril,"Ventricular Dysfunction, Left",1
+lithium,Bipolar Disorder,1
+lithium,Conduct Disorder,1
+lithium,Depressive Disorder,1
+lithium,"Stress Disorders, Post-Traumatic",1
+lomefloxacin,Bronchitis,1
+lomefloxacin,Escherichia coli Infections,1
+lomefloxacin,Klebsiella Infections,1
+lomefloxacin,Proteus Infections,1
+lomefloxacin,Pseudomonas Infections,1
+lomefloxacin,Staphylococcal Infections,1
+lomefloxacin,Streptococcal Infections,1
+lomefloxacin,Urinary Tract Infections,1
+loperamide,"Colonic Diseases, Functional",1
+loperamide,Diarrhea,1
+loperamide,"Dysentery, Bacillary",1
+lopinavir,Acquired Immunodeficiency Syndrome,1
+loracarbef,"Bone Diseases, Infectious",1
+loracarbef,"Genital Diseases, Female",1
+loracarbef,Joint Diseases,1
+loracarbef,Otitis Media,1
+loracarbef,Sinusitis,1
+loracarbef,"Skin Diseases, Infectious",1
+loracarbef,Urinary Retention,1
+loratadine,"Rhinitis, Allergic, Perennial",1
+loratadine,Urticaria,1
+lorazepam,Anxiety Disorders,1
+lorazepam,Catatonia,1
+lorazepam,Depressive Disorder,1
+lorazepam,"Epilepsies, Partial",1
+lorazepam,Psychotic Disorders,1
+lorazepam,Sleep Initiation and Maintenance Disorders,1
+lorazepam,Status Epilepticus,1
+lorazepam,Substance Withdrawal Syndrome,1
+lorazepam,Vomiting,1
+losartan,Diabetic Nephropathies,1
+losartan,Heart Failure,1
+losartan,Hypertension,1
+losartan,"Ventricular Dysfunction, Left",1
+loteprednol,"Conjunctivitis, Allergic",1
+loteprednol,"Conjunctivitis, Bacterial",1
+loteprednol,"Conjunctivitis, Viral",1
+loteprednol,Edema,1
+loteprednol,Inflammation,1
+loteprednol,Iritis,1
+loteprednol,Keratitis,1
+loteprednol,Rosacea,1
+lovastatin,Coronary Artery Disease,1
+lovastatin,Hypercholesterolemia,1
+lovastatin,Hyperlipoproteinemias,1
+lovastatin,Hypertriglyceridemia,1
+loxapine,Psychotic Disorders,1
+magnesium sulfate,Constipation,1
+magnesium sulfate,Eclampsia,1
+magnesium sulfate,Magnesium Deficiency,1
+magnesium sulfate,Nephritis,1
+magnesium sulfate,Pre-Eclampsia,1
+magnesium sulfate,Seizures,1
+magnesium sulfate,Torsades de Pointes,1
+magnesium sulfate,Ventricular Fibrillation,1
+malathion,Lice Infestations,1
+maprotiline,Bulimia,1
+maprotiline,Cocaine-Related Disorders,1
+maprotiline,Depressive Disorder,1
+maprotiline,Duodenal Ulcer,1
+maprotiline,Enuresis,1
+maprotiline,Pain,1
+maprotiline,Panic Disorder,1
+masoprocol,Keratosis,1
+mazindol,Obesity,1
+mebendazole,Ancylostomiasis,1
+mebendazole,Ascariasis,1
+mebendazole,Enterobiasis,1
+mebendazole,Trichuriasis,1
+mecamylamine,"Hypertension, Malignant",1
+mecamylamine,Tourette Syndrome,1
+meclizine,Motion Sickness,1
+meclizine,Vertigo,1
+medroxyprogesterone,Amenorrhea,1
+medroxyprogesterone,Breast Neoplasms,1
+medroxyprogesterone,"Carcinoma, Renal Cell",1
+medroxyprogesterone,Endometrial Hyperplasia,1
+medroxyprogesterone,Endometrial Neoplasms,1
+medroxyprogesterone,Hypoventilation,1
+medroxyprogesterone,Uterine Hemorrhage,1
+medrysone,"Conjunctivitis, Allergic",1
+medrysone,Drug Hypersensitivity,1
+medrysone,Scleritis,1
+mefenamic acid,Dysmenorrhea,1
+mefenamic acid,Fever,1
+mefenamic acid,Menorrhagia,1
+mefenamic acid,Premenstrual Syndrome,1
+mefloquine,"Malaria, Falciparum",1
+mefloquine,"Malaria, Vivax",1
+megestrol,Anorexia,1
+megestrol,Breast Neoplasms,1
+megestrol,Cachexia,1
+megestrol,Endometrial Neoplasms,1
+meloxicam,Osteoarthritis,1
+menthol,Pain,1
+menthol,Pruritus,1
+menthol,Skin Diseases,1
+meperidine,Pain,1
+mephenytoin,"Epilepsy, Post-Traumatic",1
+mephenytoin,"Epilepsy, Temporal Lobe",1
+mephenytoin,"Epilepsy, Tonic-Clonic",1
+mephobarbital,"Epilepsy, Absence",1
+mephobarbital,"Epilepsy, Tonic-Clonic",1
+mepivacaine,Pain,1
+mercaptopurine,"Leukemia, Lymphocytic, Chronic, B-Cell",1
+mercaptopurine,"Lymphoma, Non-Hodgkin",1
+mercaptopurine,Precursor Cell Lymphoblastic Leukemia-Lymphoma,1
+meropenem,Appendicitis,1
+meropenem,Bacteroides Infections,1
+meropenem,Escherichia coli Infections,1
+meropenem,Fever,1
+meropenem,Klebsiella Infections,1
+meropenem,"Meningitis, Haemophilus",1
+meropenem,"Meningitis, Meningococcal",1
+meropenem,"Meningitis, Pneumococcal",1
+meropenem,Neutropenia,1
+meropenem,Peritonitis,1
+meropenem,Pseudomonas Infections,1
+meropenem,Respiratory Tract Infections,1
+meropenem,Soft Tissue Infections,1
+meropenem,Urinary Tract Infections,1
+mesalamine,"Colitis, Ulcerative",1
+mesalamine,Proctitis,1
+mesalamine,Sigmoid Diseases,1
+mesoridazine,Psychotic Disorders,1
+mesoridazine,Schizophrenia,1
+metaproterenol,Asthma,1
+metaproterenol,Bronchial Spasm,1
+metaraminol,Hypotension,1
+metaraminol,Shock,1
+metformin,"Diabetes Mellitus, Type 2",1
+methadone,Opioid-Related Disorders,1
+methadone,"Pain, Intractable",1
+methazolamide,"Glaucoma, Angle-Closure",1
+methazolamide,"Glaucoma, Open-Angle",1
+methdilazine,"Dermatitis, Allergic Contact",1
+methdilazine,"Dermatitis, Atopic",1
+methdilazine,Eczema,1
+methdilazine,Pityriasis Rosea,1
+methdilazine,"Rhinitis, Allergic, Perennial",1
+methdilazine,Urticaria,1
+methimazole,Goiter,1
+methimazole,Thyroid Crisis,1
+methotrexate,"Arthritis, Juvenile Rheumatoid",1
+methotrexate,Breast Neoplasms,1
+methotrexate,Esophageal Neoplasms,1
+methotrexate,Leukemia,1
+methotrexate,Lung Neoplasms,1
+methotrexate,Mycosis Fungoides,1
+methotrexate,Osteosarcoma,1
+methotrexate,Psoriasis,1
+methotrexate,Stomach Neoplasms,1
+methotrexate,Testicular Neoplasms,1
+methotrexate,Trophoblastic Neoplasms,1
+methotrimeprazine,Anxiety Disorders,1
+methotrimeprazine,Pain,1
+methscopolamine,Asthma,1
+methyclothiazide,Edema,1
+methyclothiazide,Heart Failure,1
+methyclothiazide,Hypertension,1
+methyclothiazide,Nephrotic Syndrome,1
+methyldopa,Hypertension,1
+methylergonovine,Postpartum Hemorrhage,1
+methylphenidate,Attention Deficit Disorder with Hyperactivity,1
+methylphenidate,Depressive Disorder,1
+methylphenidate,Narcolepsy,1
+methylprednisolone,Autoimmune Diseases,1
+methylprednisolone,Graft vs Host Disease,1
+methylprednisolone,Hematologic Diseases,1
+methylprednisolone,Hypersensitivity,1
+methylprednisolone,Inflammation,1
+methylprednisolone,Neoplasms,1
+methylprednisolone,Neurologic Manifestations,1
+methylprednisolone,"Respiratory Distress Syndrome, Adult",1
+metipranolol,"Glaucoma, Open-Angle",1
+metoclopramide,Gastroesophageal Reflux,1
+metoclopramide,Gastroparesis,1
+metoclopramide,Postoperative Nausea and Vomiting,1
+metocurine,Tetanus,1
+metocurine iodide,Tetanus,1
+metolazone,Edema,1
+metolazone,Heart Failure,1
+metolazone,Hypertension,1
+metolazone,Nephrotic Syndrome,1
+metoprolol,Angina Pectoris,1
+metoprolol,Atrial Fibrillation,1
+metoprolol,Atrial Flutter,1
+metoprolol,Heart Failure,1
+metoprolol,Hypertension,1
+metoprolol,Myocardial Infarction,1
+metoprolol,"Tachycardia, Supraventricular",1
+metoprolol,"Tachycardia, Ventricular",1
+metoprolol,Ventricular Fibrillation,1
+metronidazole,Abscess,1
+metronidazole,Amebiasis,1
+metronidazole,Bacteroides Infections,1
+metronidazole,"Enterocolitis, Pseudomembranous",1
+metronidazole,Giardiasis,1
+metronidazole,Helicobacter Infections,1
+metronidazole,Rosacea,1
+metronidazole,Surgical Wound Infection,1
+metronidazole,Trichomonas Vaginitis,1
+metronidazole,"Vaginosis, Bacterial",1
+metyrosine,Hypertension,1
+metyrosine,Pheochromocytoma,1
+mexiletine,Diabetic Neuropathies,1
+mexiletine,Ventricular Fibrillation,1
+mexiletine,Ventricular Premature Complexes,1
+mezlocillin,Pseudomonas Infections,1
+mezlocillin,Respiratory Tract Infections,1
+mezlocillin,Septicemia,1
+mezlocillin,"Skin Diseases, Infectious",1
+mezlocillin,Soft Tissue Infections,1
+mezlocillin,Urinary Tract Infections,1
+miconazole,Aspergillosis,1
+miconazole,"Candidiasis, Cutaneous",1
+miconazole,"Candidiasis, Vulvovaginal",1
+miconazole,Tinea Pedis,1
+midodrine,"Hypotension, Orthostatic",1
+midodrine,Urinary Incontinence,1
+mifepristone,Brain Neoplasms,1
+mifepristone,Meningeal Neoplasms,1
+mifepristone,"Pregnancy, Ectopic",1
+miglitol,"Diabetes Mellitus, Type 2",1
+milrinone,Drug Toxicity,1
+milrinone,Heart Failure,1
+minocycline,Acne Vulgaris,1
+minocycline,Anthrax,1
+minocycline,Meningococcal Infections,1
+minoxidil,Alopecia,1
+minoxidil,"Hypertension, Malignant",1
+mirtazapine,Depressive Disorder,1
+mitotane,Adrenal Cortex Neoplasms,1
+mitotane,Cushing Syndrome,1
+mitoxantrone,Breast Neoplasms,1
+mitoxantrone,"Leukemia, Myeloid, Acute",1
+mitoxantrone,Lymphoma,1
+mitoxantrone,Multiple Sclerosis,1
+mitoxantrone,Pain,1
+mitoxantrone,Prostatic Neoplasms,1
+mitoxantrone,Sarcoma,1
+modafinil,Attention Deficit Disorder with Hyperactivity,1
+modafinil,Fatigue,1
+modafinil,Narcolepsy,1
+moexipril,Diabetic Nephropathies,1
+moexipril,Heart Failure,1
+moexipril,Hypertension,1
+moexipril,"Ventricular Dysfunction, Left",1
+molindone,Psychotic Disorders,1
+molindone,Schizophrenia,1
+mometasone,Asthma,1
+mometasone,Inflammation,1
+mometasone,Pruritus,1
+mometasone,"Rhinitis, Allergic, Perennial",1
+montelukast,Asthma,1
+montelukast,"Rhinitis, Allergic, Perennial",1
+moricizine,"Tachycardia, Ventricular",1
+moricizine,Ventricular Fibrillation,1
+morphine,Dyspnea,1
+morphine,"Pain, Intractable",1
+moxifloxacin,Bacteroides Infections,1
+moxifloxacin,Bronchitis,1
+moxifloxacin,Cystitis,1
+moxifloxacin,Escherichia coli Infections,1
+moxifloxacin,Gonorrhea,1
+moxifloxacin,Haemophilus Infections,1
+moxifloxacin,Klebsiella Infections,1
+moxifloxacin,"Pneumonia, Bacterial",1
+moxifloxacin,Proteus Infections,1
+moxifloxacin,Pseudomonas Infections,1
+moxifloxacin,Pyelonephritis,1
+moxifloxacin,Salmonella Infections,1
+moxifloxacin,Sinusitis,1
+moxifloxacin,Staphylococcal Infections,1
+moxifloxacin,Streptococcal Infections,1
+moxifloxacin,Urinary Tract Infections,1
+mupirocin,Impetigo,1
+mycophenolate mofetil,Graft vs Host Disease,1
+mycophenolate mofetil,Psoriasis,1
+mycophenolic acid,Graft vs Host Disease,1
+mycophenolic acid,Psoriasis,1
+nabilone,Nausea,1
+nabilone,Vomiting,1
+nabumetone,"Arthritis, Rheumatoid",1
+nabumetone,Inflammation,1
+nabumetone,Osteoarthritis,1
+nabumetone,Pain,1
+nadolol,Angina Pectoris,1
+nadolol,Heart Failure,1
+nadolol,Hypertension,1
+nadolol,Myocardial Infarction,1
+nafarelin,Endometriosis,1
+nafarelin,"Puberty, Precocious",1
+nafcillin,Cellulitis,1
+nafcillin,"Endocarditis, Bacterial",1
+nafcillin,"Meningitis, Bacterial",1
+nafcillin,Osteomyelitis,1
+nafcillin,Postoperative Complications,1
+nafcillin,Respiratory Tract Infections,1
+nafcillin,Septicemia,1
+nafcillin,"Skin Diseases, Bacterial",1
+nafcillin,Staphylococcal Infections,1
+nafcillin,Urinary Tract Infections,1
+nafcillin,Wound Infection,1
+naftifine,Tinea Pedis,1
+nalbuphine,"Pain, Postoperative",1
+naloxone,Opioid-Related Disorders,1
+naloxone,Respiration Disorders,1
+naloxone,"Shock, Septic",1
+naltrexone,Alcoholism,1
+naltrexone,Opioid-Related Disorders,1
+naproxen,"Arthritis, Juvenile Rheumatoid",1
+naproxen,Bursitis,1
+naproxen,Dysmenorrhea,1
+naproxen,Fever,1
+naproxen,Gout,1
+naproxen,Inflammation,1
+naproxen,Osteoarthritis,1
+naproxen,"Spondylitis, Ankylosing",1
+nateglinide,"Diabetes Mellitus, Type 2",1
+nedocromil,Asthma,1
+nedocromil,"Conjunctivitis, Allergic",1
+nedocromil,Pruritus,1
+nelfinavir,Acquired Immunodeficiency Syndrome,1
+neomycin,Escherichia coli Infections,1
+neomycin,Hepatic Encephalopathy,1
+neomycin,"Skin Diseases, Bacterial",1
+neostigmine,"Abnormalities, Drug-Induced",1
+neostigmine,Myasthenia Gravis,1
+neostigmine,Urinary Bladder Diseases,1
+neostigmine,Urinary Retention,1
+netilmicin,Gram-Negative Bacterial Infections,1
+netilmicin,Staphylococcal Infections,1
+nevirapine,Acquired Immunodeficiency Syndrome,1
+nicardipine,"Angina Pectoris, Variant",1
+nicardipine,Hypertension,1
+nicotine,"Colitis, Ulcerative",1
+nicotine,Tobacco Use Disorder,1
+nifedipine,"Angina Pectoris, Variant",1
+nifedipine,Hypertension,1
+nilutamide,Carcinoma,1
+nilutamide,Prostatic Neoplasms,1
+nimodipine,Subarachnoid Hemorrhage,1
+nisoldipine,"Angina Pectoris, Variant",1
+nisoldipine,Hypertension,1
+nitazoxanide,Cryptosporidiosis,1
+nitazoxanide,Diarrhea,1
+nitazoxanide,Giardiasis,1
+nitisinone,Tyrosinemias,1
+nitric oxide,"Respiratory Distress Syndrome, Newborn",1
+nitrofurantoin,Gram-Negative Bacterial Infections,1
+nitrofurantoin,Gram-Positive Bacterial Infections,1
+nitrofurantoin,Urinary Tract Infections,1
+nitrofurazone,Burns,1
+nitrofurazone,Clostridium Infections,1
+nitrofurazone,Escherichia coli Infections,1
+nitrofurazone,Proteus Infections,1
+nitrofurazone,Staphylococcal Skin Infections,1
+nitrofurazone,Streptococcal Infections,1
+nitrofurazone,Wound Infection,1
+nitroglycerin,Angina Pectoris,1
+nitroglycerin,Eclampsia,1
+nitroglycerin,"Esophageal Spasm, Diffuse",1
+nitroglycerin,Fissure in Ano,1
+nitroglycerin,Heart Failure,1
+nitroglycerin,"Hypertension, Pulmonary",1
+nitroglycerin,Intraoperative Complications,1
+nitroglycerin,Myocardial Infarction,1
+nitroprusside,Heart Failure,1
+nitroprusside,"Hypertension, Malignant",1
+nitroprusside,Intraoperative Complications,1
+nizatidine,Duodenal Ulcer,1
+nizatidine,Dyspepsia,1
+nizatidine,"Esophagitis, Peptic",1
+nizatidine,Gastroesophageal Reflux,1
+nizatidine,Heartburn,1
+nizatidine,Helicobacter Infections,1
+nizatidine,Stomach Ulcer,1
+nizatidine,Urticaria,1
+nizatidine,Zollinger-Ellison Syndrome,1
+norepinephrine,Shock,1
+norethindrone,Acne Vulgaris,1
+norethindrone,Endometrial Hyperplasia,1
+norethindrone,Endometriosis,1
+norethindrone,Hypogonadism,1
+norethindrone,Menorrhagia,1
+norfloxacin,"Conjunctivitis, Bacterial",1
+norfloxacin,Cystitis,1
+norfloxacin,Escherichia coli Infections,1
+norfloxacin,Gonorrhea,1
+norfloxacin,Haemophilus Infections,1
+norfloxacin,Prostatitis,1
+norfloxacin,Pseudomonas Infections,1
+norfloxacin,Staphylococcal Infections,1
+norfloxacin,Urinary Tract Infections,1
+norgestimate,Amenorrhea,1
+norgestimate,"Infertility, Female",1
+norgestimate,Uterine Hemorrhage,1
+nortriptyline,Anxiety Disorders,1
+nortriptyline,Attention Deficit Disorder with Hyperactivity,1
+nortriptyline,Depressive Disorder,1
+nortriptyline,Enuresis,1
+nortriptyline,Pain,1
+ofloxacin,Bronchitis,1
+ofloxacin,Chlamydia Infections,1
+ofloxacin,"Conjunctivitis, Bacterial",1
+ofloxacin,Corneal Ulcer,1
+ofloxacin,Cystitis,1
+ofloxacin,Epididymitis,1
+ofloxacin,Escherichia coli Infections,1
+ofloxacin,Gonorrhea,1
+ofloxacin,Haemophilus Infections,1
+ofloxacin,Helicobacter Infections,1
+ofloxacin,Klebsiella Infections,1
+ofloxacin,Otitis Externa,1
+ofloxacin,"Otitis Media, Suppurative",1
+ofloxacin,Prostatitis,1
+ofloxacin,Proteus Infections,1
+ofloxacin,Salmonella Infections,1
+ofloxacin,"Skin Diseases, Bacterial",1
+ofloxacin,Soft Tissue Infections,1
+ofloxacin,Staphylococcal Infections,1
+ofloxacin,"Tuberculosis, Pulmonary",1
+ofloxacin,Urinary Tract Infections,1
+olanzapine,Bipolar Disorder,1
+olanzapine,Psychotic Disorders,1
+olanzapine,Schizophrenia,1
+olmesartan,Diabetic Nephropathies,1
+olmesartan,Heart Failure,1
+olmesartan,Hypertension,1
+olmesartan,"Ventricular Dysfunction, Left",1
+olopatadine,"Conjunctivitis, Allergic",1
+omeprazole,Duodenal Ulcer,1
+omeprazole,Esophagitis,1
+omeprazole,Gastroesophageal Reflux,1
+omeprazole,Heartburn,1
+omeprazole,Helicobacter Infections,1
+omeprazole,Stomach Ulcer,1
+omeprazole,Zollinger-Ellison Syndrome,1
+ondansetron,Alcoholism,1
+orlistat,Obesity,1
+orphenadrine,Muscle Cramp,1
+orphenadrine,Muscle Rigidity,1
+orphenadrine,Myositis,1
+orphenadrine,Pain,1
+orphenadrine,Spasm,1
+orphenadrine,Tetanus,1
+oxacillin,Cellulitis,1
+oxacillin,"Endocarditis, Bacterial",1
+oxacillin,"Meningitis, Bacterial",1
+oxacillin,Osteomyelitis,1
+oxacillin,Postoperative Complications,1
+oxacillin,Respiratory Tract Infections,1
+oxacillin,Septicemia,1
+oxacillin,Staphylococcal Infections,1
+oxacillin,Urinary Tract Infections,1
+oxacillin,Wound Infection,1
+oxandrolone,Emaciation,1
+oxandrolone,Growth Disorders,1
+oxaprozin,"Arthritis, Juvenile Rheumatoid",1
+oxaprozin,Osteoarthritis,1
+oxazepam,Alcohol Withdrawal Delirium,1
+oxazepam,Anxiety Disorders,1
+oxazepam,"Epilepsies, Partial",1
+oxcarbazepine,"Epilepsies, Partial",1
+oxiconazole,"Candidiasis, Cutaneous",1
+oxiconazole,Tinea Pedis,1
+oxybutynin,"Urinary Bladder, Neurogenic",1
+oxybutynin,Urinary Incontinence,1
+oxymetazoline,Conjunctivitis,1
+oxymetazoline,Rhinitis,1
+oxymorphone,Pain,1
+oxytetracycline,Acne Vulgaris,1
+oxytetracycline,Chlamydia Infections,1
+oxytetracycline,Gonorrhea,1
+oxytetracycline,Gram-Positive Bacterial Infections,1
+oxytetracycline,Mycoplasma Infections,1
+oxytetracycline,Rickettsia Infections,1
+oxytetracycline,Syphilis,1
+paclitaxel,Breast Neoplasms,1
+paclitaxel,Lung Neoplasms,1
+paclitaxel,Ovarian Neoplasms,1
+paclitaxel,"Sarcoma, Kaposi",1
+pamidronate,Hypercalcemia,1
+pamidronate,Osteolysis,1
+pamidronate,"Osteoporosis, Postmenopausal",1
+pamidronate,"Paget Disease, Extramammary",1
+pantoprazole,Esophagitis,1
+pantoprazole,Gastroesophageal Reflux,1
+pantoprazole,Helicobacter Infections,1
+pantoprazole,Zollinger-Ellison Syndrome,1
+papaverine,Angina Pectoris,1
+papaverine,"Arrhythmias, Cardiac",1
+papaverine,Arterial Occlusive Diseases,1
+papaverine,Brain Ischemia,1
+papaverine,Colic,1
+papaverine,Erectile Dysfunction,1
+papaverine,Pulmonary Embolism,1
+papaverine,Raynaud Disease,1
+papaverine,Thromboembolism,1
+paricalcitol,Hyperparathyroidism,1
+paromomycin,Amebiasis,1
+paromomycin,Cryptosporidiosis,1
+paroxetine,Depressive Disorder,1
+paroxetine,Eating Disorders,1
+paroxetine,Obsessive-Compulsive Disorder,1
+paroxetine,Panic Disorder,1
+paroxetine,Phobic Disorders,1
+paroxetine,"Stress Disorders, Post-Traumatic",1
+pemirolast,"Conjunctivitis, Allergic",1
+penbutolol,Angina Pectoris,1
+penbutolol,Hypertension,1
+penbutolol,Myocardial Infarction,1
+penciclovir,Epstein-Barr Virus Infections,1
+penciclovir,Herpes Labialis,1
+penicillin g,Anthrax,1
+penicillin g,"Endocarditis, Subacute Bacterial",1
+penicillin g,Gonorrhea,1
+penicillin g,Gram-Negative Bacterial Infections,1
+penicillin g,Gram-Positive Bacterial Infections,1
+penicillin g,Meningococcal Infections,1
+penicillin g,Rheumatic Fever,1
+penicillin g,Spirochaetales Infections,1
+penicillin g,Streptococcal Infections,1
+penicillin g,Syphilis,1
+penicillin v,Gram-Negative Bacterial Infections,1
+penicillin v,Gram-Positive Bacterial Infections,1
+penicillin v,Otitis Media,1
+penicillin v,Sinusitis,1
+penicillin v,"Skin Diseases, Infectious",1
+penicillin v,Spirochaetales Infections,1
+penicillin v,Urinary Tract Infections,1
+pentamidine,"Leishmaniasis, Visceral",1
+pentamidine,"Pneumonia, Pneumocystis",1
+pentamidine,Trypanosomiasis,1
+pentazocine,Pain,1
+pentobarbital,Status Epilepticus,1
+pentosan polysulfate,Flank Pain,1
+pentostatin,"Leukemia, Hairy Cell",1
+pentoxifylline,Brain Ischemia,1
+pentoxifylline,Diabetic Angiopathies,1
+pentoxifylline,Diabetic Neuropathies,1
+pentoxifylline,Gangrene,1
+pentoxifylline,"Impotence, Vasculogenic",1
+pentoxifylline,Intermittent Claudication,1
+pentoxifylline,"Malaria, Cerebral",1
+pentoxifylline,Stroke,1
+pentoxifylline,Thrombosis,1
+pentoxifylline,Vasculitis,1
+perindopril,Diabetic Nephropathies,1
+perindopril,Heart Failure,1
+perindopril,Hypertension,1
+perindopril,"Ventricular Dysfunction, Left",1
+perphenazine,Huntington Disease,1
+perphenazine,Nausea,1
+perphenazine,Psychotic Disorders,1
+perphenazine,Reye Syndrome,1
+perphenazine,Schizophrenia,1
+perphenazine,Substance Withdrawal Syndrome,1
+perphenazine,Torticollis,1
+perphenazine,Tourette Syndrome,1
+perphenazine,Vomiting,1
+phenacemide,"Epilepsy, Complex Partial",1
+phenelzine,Depressive Disorder,1
+phenindamine,"Rhinitis, Allergic, Perennial",1
+phenindamine,Urticaria,1
+pheniramine,"Rhinitis, Allergic, Perennial",1
+pheniramine,Urticaria,1
+phenobarbital,Angina Pectoris,1
+phenobarbital,Asthma,1
+phenobarbital,"Epilepsies, Partial",1
+phenobarbital,"Epilepsy, Benign Neonatal",1
+phenobarbital,"Epilepsy, Tonic-Clonic",1
+phenobarbital,Hyperbilirubinemia,1
+phenobarbital,"Seizures, Febrile",1
+phenoxybenzamine,"Hypertension, Malignant",1
+phenoxybenzamine,Urinary Bladder Neck Obstruction,1
+phenoxybenzamine,Urinary Incontinence,1
+phenprocoumon,Pulmonary Embolism,1
+phenprocoumon,Thromboembolism,1
+phenprocoumon,Venous Thrombosis,1
+phentolamine,Extravasation of Diagnostic and Therapeutic Materials,1
+phentolamine,"Hypertension, Malignant",1
+phentolamine,Necrosis,1
+phenylephrine,Asthma,1
+phenylephrine,Fissure in Ano,1
+phenylephrine,"Glaucoma, Open-Angle",1
+phenylephrine,Hemorrhoids,1
+phenylephrine,Hypotension,1
+phenylephrine,Pruritus Ani,1
+phenylephrine,"Rhinitis, Vasomotor",1
+phenylephrine,"Shock, Septic",1
+phenylephrine,"Tachycardia, Supraventricular",1
+phenytoin,Epidermolysis Bullosa,1
+phenytoin,"Epilepsy, Temporal Lobe",1
+phenytoin,"Epilepsy, Tonic-Clonic",1
+physostigmine,"Abnormalities, Drug-Induced",1
+physostigmine,Drug Toxicity,1
+physostigmine,Glaucoma,1
+pilocarpine,"Glaucoma, Angle-Closure",1
+pilocarpine,Head and Neck Neoplasms,1
+pilocarpine,Mydriasis,1
+pilocarpine,Xerostomia,1
+pimecrolimus,"Dermatitis, Atopic",1
+pimozide,Huntington Disease,1
+pimozide,Psychotic Disorders,1
+pimozide,Tourette Syndrome,1
+pindolol,Angina Pectoris,1
+pindolol,Hypertension,1
+pindolol,Myocardial Infarction,1
+pioglitazone,"Diabetes Mellitus, Type 2",1
+piperacillin,Escherichia coli Infections,1
+piperacillin,Proteus Infections,1
+piperacillin,Pseudomonas Infections,1
+piperacillin,Respiratory Tract Infections,1
+piperacillin,Septicemia,1
+piperacillin,"Skin Diseases, Infectious",1
+piperacillin,Soft Tissue Infections,1
+piperacillin,Streptococcal Infections,1
+piperacillin,Urinary Tract Infections,1
+pirbuterol,Asthma,1
+pirbuterol,Bronchial Spasm,1
+piroxicam,"Arthritis, Rheumatoid",1
+piroxicam,Inflammation,1
+piroxicam,Osteoarthritis,1
+piroxicam,"Spondylitis, Ankylosing",1
+piroxicam,Sunburn,1
+podofilox,Warts,1
+polythiazide,Edema,1
+polythiazide,Heart Failure,1
+polythiazide,Hypertension,1
+polythiazide,Nephrotic Syndrome,1
+pramipexole,Depressive Disorder,1
+pramipexole,Parkinson Disease,1
+pravastatin,Coronary Artery Disease,1
+pravastatin,Hypercholesterolemia,1
+pravastatin,Hyperlipoproteinemias,1
+pravastatin,Hypertriglyceridemia,1
+prazosin,Hypertension,1
+prazosin,Prostatic Hyperplasia,1
+prazosin,Raynaud Disease,1
+prazosin,Urinary Retention,1
+prednicarbate,Facial Dermatoses,1
+prednicarbate,Foot Dermatoses,1
+prednicarbate,Hand Dermatoses,1
+prednicarbate,Inflammation,1
+prednicarbate,Leg Dermatoses,1
+prednicarbate,Pruritus,1
+prednicarbate,Scalp Dermatoses,1
+prednisolone,Adrenal Insufficiency,1
+prednisolone,Collagen Diseases,1
+prednisolone,Conjunctivitis,1
+prednisolone,Edema,1
+prednisolone,Gastrointestinal Diseases,1
+prednisolone,Hematologic Diseases,1
+prednisolone,Hypersensitivity,1
+prednisolone,Inflammation,1
+prednisolone,Neoplasms,1
+prednisolone,Respiratory Tract Diseases,1
+prednisolone,Rheumatic Diseases,1
+prednisolone,Skin Diseases,1
+prednisone,Adrenal Insufficiency,1
+prednisone,Autoimmune Diseases,1
+prednisone,Collagen Diseases,1
+prednisone,Eye Diseases,1
+prednisone,Gastrointestinal Diseases,1
+prednisone,Graft vs Host Disease,1
+prednisone,Hematologic Diseases,1
+prednisone,Hypercalcemia,1
+prednisone,Hypersensitivity,1
+prednisone,Inflammation,1
+prednisone,Neoplasms,1
+prednisone,Respiratory Tract Diseases,1
+prednisone,Rheumatic Diseases,1
+prednisone,Skin Diseases,1
+prilocaine,Pain,1
+primaquine,"Malaria, Falciparum",1
+primaquine,"Malaria, Vivax",1
+primidone,Epilepsy,1
+primidone,Tremor,1
+probenecid,Gonorrhea,1
+probenecid,Gout,1
+probenecid,Neurosyphilis,1
+procainamide,Atrial Fibrillation,1
+procainamide,Atrial Flutter,1
+procainamide,"Tachycardia, Supraventricular",1
+procainamide,"Tachycardia, Ventricular",1
+procainamide,Ventricular Premature Complexes,1
+procaine,Pain,1
+procaine,Substance Withdrawal Syndrome,1
+prochlorperazine,Anxiety Disorders,1
+prochlorperazine,Dementia,1
+prochlorperazine,Nausea,1
+prochlorperazine,Psychotic Disorders,1
+prochlorperazine,Vomiting,1
+procyclidine,Parkinsonian Disorders,1
+progesterone,Amenorrhea,1
+progesterone,Endometrial Hyperplasia,1
+progesterone,"Infertility, Female",1
+progesterone,Uterine Hemorrhage,1
+proguanil,"Malaria, Falciparum",1
+promazine,Nausea,1
+promazine,Psychotic Disorders,1
+promazine,Vomiting,1
+promethazine,Motion Sickness,1
+promethazine,Nausea,1
+promethazine,Pain,1
+promethazine,Postoperative Complications,1
+promethazine,"Rhinitis, Allergic, Perennial",1
+promethazine,Vomiting,1
+propafenone,Atrial Fibrillation,1
+propafenone,"Tachycardia, Supraventricular",1
+propantheline,Irritable Bowel Syndrome,1
+propantheline,Pancreatitis,1
+propantheline,Peptic Ulcer,1
+propantheline,Spasm,1
+propantheline,Urethral Diseases,1
+propantheline,Urinary Bladder Diseases,1
+propiomazine,Sleep Initiation and Maintenance Disorders,1
+propofol,Delirium,1
+propofol,Pain,1
+propofol,Psychomotor Agitation,1
+propofol,Status Epilepticus,1
+propranolol,Angina Pectoris,1
+propranolol,Esophageal and Gastric Varices,1
+propranolol,Essential Tremor,1
+propranolol,Heart Failure,1
+propranolol,Hypertension,1
+propranolol,Myocardial Infarction,1
+propranolol,Panic Disorder,1
+propranolol,Pheochromocytoma,1
+propranolol,"Tachycardia, Supraventricular",1
+propranolol,"Tachycardia, Ventricular",1
+propranolol,Ventricular Fibrillation,1
+propylthiouracil,Goiter,1
+propylthiouracil,Thyroid Crisis,1
+protriptyline,Depressive Disorder,1
+pseudoephedrine,Asthma,1
+pseudoephedrine,Common Cold,1
+pseudoephedrine,"Rhinitis, Allergic, Perennial",1
+pseudoephedrine,Sinusitis,1
+pyrazinamide,Tuberculosis,1
+pyridostigmine,"Abnormalities, Drug-Induced",1
+pyridostigmine,Myasthenia Gravis,1
+pyrimethamine,AIDS-Related Opportunistic Infections,1
+pyrimethamine,"Malaria, Falciparum",1
+quetiapine,Autistic Disorder,1
+quetiapine,Bipolar Disorder,1
+quetiapine,Psychotic Disorders,1
+quinacrine,Giardiasis,1
+quinacrine,"Malaria, Falciparum",1
+quinapril,Diabetic Nephropathies,1
+quinapril,Heart Failure,1
+quinapril,Hypertension,1
+quinapril,"Ventricular Dysfunction, Left",1
+quinestrol,Hot Flashes,1
+quinestrol,"Menopause, Premature",1
+quinethazone,Edema,1
+quinethazone,Heart Failure,1
+quinethazone,Hypertension,1
+quinethazone,Nephrotic Syndrome,1
+quinidine,Atrial Fibrillation,1
+quinidine,Atrial Flutter,1
+quinine,Babesiosis,1
+quinine,"Malaria, Falciparum",1
+quinine,Muscle Cramp,1
+rabeprazole,Duodenal Ulcer,1
+rabeprazole,Gastroesophageal Reflux,1
+rabeprazole,Helicobacter Infections,1
+rabeprazole,Zollinger-Ellison Syndrome,1
+raloxifene,"Osteoporosis, Postmenopausal",1
+ramipril,Diabetic Nephropathies,1
+ramipril,Heart Failure,1
+ramipril,Hypertension,1
+ramipril,"Ventricular Dysfunction, Left",1
+ranolazine,Angina Pectoris,1
+remifentanil,Pain,1
+repaglinide,"Diabetes Mellitus, Type 2",1
+rescinnamine,Hypertension,1
+reserpine,Dyskinesias,1
+reserpine,Hypertension,1
+reserpine,Schizophrenia,1
+ribavirin,"Adenovirus Infections, Human",1
+ribavirin,"Hepatitis C, Chronic",1
+ribavirin,Respiratory Syncytial Virus Infections,1
+ribavirin,West Nile Fever,1
+rifabutin,Mycobacterium avium-intracellulare Infection,1
+rifabutin,"Tuberculosis, Pulmonary",1
+rifapentine,"Tuberculosis, Pulmonary",1
+riluzole,Amyotrophic Lateral Sclerosis,1
+rimexolone,Inflammation,1
+rimexolone,"Uveitis, Anterior",1
+risedronate,"Osteoporosis, Postmenopausal",1
+risedronate,"Paget Disease, Extramammary",1
+risperidone,Autistic Disorder,1
+risperidone,Bipolar Disorder,1
+risperidone,Dementia,1
+risperidone,Schizophrenia,1
+risperidone,Tourette Syndrome,1
+ritonavir,Acquired Immunodeficiency Syndrome,1
+rivastigmine,Alzheimer Disease,1
+ropinirole,Parkinson Disease,1
+ropivacaine,"Pain, Postoperative",1
+rosiglitazone,"Diabetes Mellitus, Type 2",1
+salicylic acid,Acne Vulgaris,1
+salicylic acid,"Dermatitis, Seborrheic",1
+salicylic acid,Psoriasis,1
+salicylic acid,Scalp Dermatoses,1
+salicylic acid,Warts,1
+salmeterol,Asthma,1
+salmeterol,Bronchial Spasm,1
+salsalate,Arthritis,1
+salsalate,Fever,1
+salsalate,Pain,1
+saquinavir,Acquired Immunodeficiency Syndrome,1
+scopolamine,Colonic Diseases,1
+scopolamine,Diverticulitis,1
+scopolamine,Dysentery,1
+scopolamine,Facial Paralysis,1
+scopolamine,Iridocyclitis,1
+scopolamine,"Parkinson Disease, Postencephalitic",1
+scopolamine,"Rhinitis, Vasomotor",1
+secobarbital,Sleep Initiation and Maintenance Disorders,1
+selegiline,Alzheimer Disease,1
+selegiline,Attention Deficit Disorder with Hyperactivity,1
+selegiline,Depressive Disorder,1
+selegiline,Parkinson Disease,1
+selegiline,Schizophrenia,1
+sertraline,Depressive Disorder,1
+sertraline,Eating Disorders,1
+sertraline,Obsessive-Compulsive Disorder,1
+sertraline,Panic Disorder,1
+sertraline,"Stress Disorders, Post-Traumatic",1
+sildenafil,Hypertension,1
+sildenafil,"Impotence, Vasculogenic",1
+simvastatin,Coronary Artery Disease,1
+simvastatin,Hypercholesterolemia,1
+simvastatin,Hyperlipoproteinemias,1
+simvastatin,Hypertriglyceridemia,1
+sitagliptin,"Diabetes Mellitus, Type 2",1
+sodium tetradecyl sulfate,Esophageal and Gastric Varices,1
+sodium tetradecyl sulfate,Varicose Veins,1
+sotalol,Atrial Fibrillation,1
+sotalol,Atrial Flutter,1
+sotalol,"Tachycardia, Supraventricular",1
+sotalol,"Tachycardia, Ventricular",1
+sotalol,Ventricular Fibrillation,1
+sparfloxacin,Chlamydia Infections,1
+sparfloxacin,Escherichia coli Infections,1
+sparfloxacin,Haemophilus Infections,1
+sparfloxacin,Klebsiella Infections,1
+sparfloxacin,Pneumonia,1
+sparfloxacin,Proteus Infections,1
+sparfloxacin,Salmonella Infections,1
+sparfloxacin,Staphylococcal Infections,1
+sparfloxacin,Streptococcal Infections,1
+spectinomycin,Gonorrhea,1
+spironolactone,Ascites,1
+spironolactone,Edema,1
+spironolactone,Heart Failure,1
+spironolactone,Hirsutism,1
+spironolactone,Hyperaldosteronism,1
+spironolactone,Hypertension,1
+spironolactone,Hypokalemia,1
+stavudine,Acquired Immunodeficiency Syndrome,1
+streptomycin,Brucellosis,1
+streptomycin,"Endocarditis, Bacterial",1
+streptomycin,Mycobacterium Infections,1
+streptomycin,Plague,1
+streptomycin,Streptococcal Infections,1
+streptomycin,Tularemia,1
+sufentanil,Pain,1
+sulfacetamide,Corneal Ulcer,1
+sulfacetamide,"Dermatitis, Seborrheic",1
+sulfacetamide,Ear Diseases,1
+sulfacetamide,"Skin Diseases, Bacterial",1
+sulfacetamide,Trachoma,1
+sulfacytine,Gram-Negative Bacterial Infections,1
+sulfacytine,Gram-Positive Bacterial Infections,1
+sulfacytine,Urinary Tract Infections,1
+sulfadiazine,AIDS-Related Opportunistic Infections,1
+sulfadiazine,Chlamydiaceae Infections,1
+sulfadiazine,Enterobacteriaceae Infections,1
+sulfadiazine,Malaria,1
+sulfadiazine,Nocardia Infections,1
+sulfadiazine,Toxoplasmosis,1
+sulfadiazine,Urinary Tract Infections,1
+sulfadoxine,"Malaria, Falciparum",1
+sulfadoxine,"Pneumonia, Pneumocystis",1
+sulfamethizole,Gram-Negative Bacterial Infections,1
+sulfamethizole,Gram-Positive Bacterial Infections,1
+sulfamethizole,Urinary Tract Infections,1
+sulfamethoxazole,Bronchitis,1
+sulfamethoxazole,Chlamydiaceae Infections,1
+sulfamethoxazole,Enterobacteriaceae Infections,1
+sulfamethoxazole,Nocardia Infections,1
+sulfamethoxazole,Otitis Media,1
+sulfamethoxazole,Toxoplasmosis,1
+sulfamethoxazole,Urinary Tract Infections,1
+sulfanilamide,"Candidiasis, Vulvovaginal",1
+sulfapyridine,Dermatitis Herpetiformis,1
+sulfapyridine,"Pemphigoid, Bullous",1
+sulfapyridine,Pyoderma Gangrenosum,1
+sulfasalazine,"Arthritis, Juvenile Rheumatoid",1
+sulfasalazine,"Colitis, Ulcerative",1
+sulfinpyrazone,Angina Pectoris,1
+sulfinpyrazone,Coronary Disease,1
+sulfinpyrazone,Gout,1
+sulfinpyrazone,Myocardial Infarction,1
+sulfisoxazole,Chlamydia Infections,1
+sulfisoxazole,Corneal Ulcer,1
+sulfisoxazole,Nocardia Infections,1
+sulfisoxazole,Otitis Media,1
+sulfisoxazole,Respiratory Tract Fistula,1
+sulfisoxazole,Trachoma,1
+sulfisoxazole,Urinary Tract Infections,1
+sulindac,"Arthritis, Gouty",1
+sulindac,"Arthritis, Rheumatoid",1
+sulindac,Inflammation,1
+sulindac,Osteoarthritis,1
+sumatriptan,Cluster Headache,1
+tacrine,Alzheimer Disease,1
+tacrolimus,"Dermatitis, Atopic",1
+tacrolimus,Graft vs Host Disease,1
+tadalafil,Hypertension,1
+tamoxifen,Breast Neoplasms,1
+tamoxifen,Gynecomastia,1
+tamoxifen,Pancreatic Neoplasms,1
+tamoxifen,"Puberty, Precocious",1
+tamsulosin,Prostatic Hyperplasia,1
+tazarotene,Acne Vulgaris,1
+tazarotene,Psoriasis,1
+tazobactam,Escherichia coli Infections,1
+tazobactam,Proteus Infections,1
+tazobactam,Pseudomonas Infections,1
+tazobactam,Respiratory Tract Infections,1
+tazobactam,Septicemia,1
+tazobactam,"Skin Diseases, Infectious",1
+tazobactam,Soft Tissue Infections,1
+tazobactam,Streptococcal Infections,1
+tazobactam,Urinary Tract Infections,1
+telmisartan,Diabetic Nephropathies,1
+telmisartan,Heart Failure,1
+telmisartan,Hypertension,1
+telmisartan,"Ventricular Dysfunction, Left",1
+temazepam,Depressive Disorder,1
+temazepam,Panic Disorder,1
+temazepam,Sleep Initiation and Maintenance Disorders,1
+teniposide,"Carcinoma, Small Cell",1
+teniposide,"Leukemia, Lymphoid",1
+teniposide,Lung Neoplasms,1
+terazosin,Hypertension,1
+terazosin,Prostatic Hyperplasia,1
+terazosin,Urinary Retention,1
+terbinafine,"Candidiasis, Chronic Mucocutaneous",1
+terbinafine,Onychomycosis,1
+terbinafine,Tinea Capitis,1
+terbinafine,Tinea Pedis,1
+terbinafine,Tinea Versicolor,1
+terbutaline,Asthma,1
+terconazole,"Candidiasis, Vulvovaginal",1
+testolactone,Breast Neoplasms,1
+testosterone,Breast Neoplasms,1
+testosterone,Hypogonadism,1
+testosterone,"Puberty, Delayed",1
+tetracycline,Acne Vulgaris,1
+tetracycline,Bronchitis,1
+tetracycline,Chlamydia Infections,1
+tetracycline,"Eye Infections, Bacterial",1
+tetracycline,Gonorrhea,1
+tetracycline,Gram-Positive Bacterial Infections,1
+tetracycline,Helicobacter Infections,1
+tetracycline,Mycoplasma Infections,1
+tetracycline,Rickettsia Infections,1
+tetracycline,Syphilis,1
+theophylline,Apnea,1
+theophylline,Asthma,1
+theophylline,Bradycardia,1
+theophylline,Bronchial Spasm,1
+theophylline,Bronchitis,1
+theophylline,Pulmonary Emphysema,1
+thiabendazole,Dracunculiasis,1
+thiabendazole,Larva Migrans,1
+thiabendazole,Strongyloidiasis,1
+thiabendazole,Trichinellosis,1
+thiethylperazine,Nausea,1
+thiethylperazine,Vertigo,1
+thiethylperazine,Vomiting,1
+thiopental,Intracranial Hypertension,1
+thioridazine,Psychotic Disorders,1
+thioridazine,Schizophrenia,1
+thyroxine,Goiter,1
+thyroxine,Myxedema,1
+thyroxine,Thyroid Neoplasms,1
+thyroxine,"Thyroiditis, Autoimmune",1
+thyroxine,Thyrotoxicosis,1
+tiagabine,Bipolar Disorder,1
+tiagabine,"Epilepsies, Partial",1
+ticarcillin,Pseudomonas Infections,1
+ticarcillin,Respiratory Tract Infections,1
+ticarcillin,Septicemia,1
+ticarcillin,"Skin Diseases, Infectious",1
+ticarcillin,Soft Tissue Infections,1
+ticarcillin,Urinary Tract Infections,1
+ticlopidine,Intracranial Embolism and Thrombosis,1
+tiludronate,"Paget Disease, Extramammary",1
+timolol,Angina Pectoris,1
+timolol,"Glaucoma, Open-Angle",1
+timolol,Heart Failure,1
+timolol,Hypertension,1
+timolol,Myocardial Infarction,1
+tioconazole,"Candidiasis, Vulvovaginal",1
+tiotropium,Asthma,1
+tirofiban,"Angina, Unstable",1
+tirofiban,Coronary Disease,1
+tirofiban,Myocardial Infarction,1
+tizanidine,Low Back Pain,1
+tizanidine,Muscle Cramp,1
+tizanidine,Muscle Rigidity,1
+tizanidine,Muscle Spasticity,1
+tizanidine,Myositis,1
+tizanidine,Spasm,1
+tizanidine,Trigeminal Neuralgia,1
+tobramycin,"Eye Infections, Bacterial",1
+tobramycin,Pseudomonas Infections,1
+tobramycin,Respiratory Tract Infections,1
+tobramycin,Staphylococcal Infections,1
+tobramycin,Urinary Tract Infections,1
+tocainide,"Arrhythmias, Cardiac",1
+tocainide,Trigeminal Neuralgia,1
+tolazamide,"Diabetes Mellitus, Type 2",1
+tolazoline,Arteriosclerosis Obliterans,1
+tolazoline,Causalgia,1
+tolazoline,Peripheral Vascular Diseases,1
+tolazoline,Persistent Fetal Circulation Syndrome,1
+tolazoline,Raynaud Disease,1
+tolazoline,"Scleroderma, Systemic",1
+tolazoline,Spasm,1
+tolazoline,Thromboangiitis Obliterans,1
+tolazoline,Thrombophlebitis,1
+tolbutamide,"Diabetes Mellitus, Type 2",1
+tolmetin,"Arthritis, Juvenile Rheumatoid",1
+tolmetin,Osteoarthritis,1
+tolterodine,Urinary Bladder Diseases,1
+tolterodine,Urinary Incontinence,1
+topiramate,Bipolar Disorder,1
+topiramate,"Epilepsies, Partial",1
+topiramate,"Epilepsy, Tonic-Clonic",1
+topiramate,Pain,1
+topiramate,"Spasms, Infantile",1
+topotecan,"Carcinoma, Non-Small-Cell Lung",1
+topotecan,"Carcinoma, Small Cell",1
+topotecan,Ovarian Neoplasms,1
+toremifene,Breast Neoplasms,1
+toremifene,"Neoplasms, Hormone-Dependent",1
+torsemide,Ascites,1
+torsemide,Edema,1
+torsemide,Heart Failure,1
+torsemide,Hypertension,1
+torsemide,"Kidney Failure, Acute",1
+torsemide,"Kidney Failure, Chronic",1
+torsemide,Liver Cirrhosis,1
+torsemide,Nephrotic Syndrome,1
+torsemide,Pulmonary Edema,1
+tramadol,Pain,1
+trandolapril,Diabetic Nephropathies,1
+trandolapril,Heart Failure,1
+trandolapril,Hypertension,1
+trandolapril,"Ventricular Dysfunction, Left",1
+tranexamic acid,Blood Coagulation Disorders,1
+tranexamic acid,Subarachnoid Hemorrhage,1
+tranylcypromine,Depressive Disorder,1
+tranylcypromine,"Stress Disorders, Post-Traumatic",1
+travoprost,"Glaucoma, Open-Angle",1
+trazodone,Depressive Disorder,1
+trazodone,Sleep Initiation and Maintenance Disorders,1
+treprostinil,"Hypertension, Pulmonary",1
+triamcinolone,Adrenal Insufficiency,1
+triamcinolone,Asthma,1
+triamcinolone,Bronchial Spasm,1
+triamcinolone,Facial Dermatoses,1
+triamcinolone,Foot Dermatoses,1
+triamcinolone,Hand Dermatoses,1
+triamcinolone,Inflammation,1
+triamcinolone,Leg Dermatoses,1
+triamcinolone,"Lupus Erythematosus, Systemic",1
+triamcinolone,Rheumatic Diseases,1
+triamcinolone,"Rhinitis, Allergic, Perennial",1
+triamcinolone,Scalp Dermatoses,1
+triamterene,Edema,1
+triamterene,Hypertension,1
+triamterene,Hypokalemia,1
+trichlormethiazide,Edema,1
+trichlormethiazide,Heart Failure,1
+trichlormethiazide,Hypertension,1
+trichlormethiazide,Nephrotic Syndrome,1
+trifluoperazine,Psychotic Disorders,1
+trifluoperazine,Schizophrenia,1
+triflupromazine,Hiccup,1
+triflupromazine,Nausea,1
+triflupromazine,Pain,1
+triflupromazine,Psychotic Disorders,1
+triflupromazine,Vomiting,1
+trifluridine,"Keratitis, Herpetic",1
+trifluridine,"Keratoconjunctivitis, Infectious",1
+trihexyphenidyl,"Abnormalities, Drug-Induced",1
+trihexyphenidyl,Parkinson Disease,1
+triiodothyronine,Goiter,1
+triiodothyronine,Myxedema,1
+triiodothyronine,Thyroid Neoplasms,1
+triiodothyronine,"Thyroiditis, Autoimmune",1
+triiodothyronine,Thyrotoxicosis,1
+trimeprazine,"Dermatitis, Allergic Contact",1
+trimeprazine,"Dermatitis, Atopic",1
+trimeprazine,"Rhinitis, Allergic, Perennial",1
+trimeprazine,Urticaria,1
+trimethadione,"Epilepsy, Absence",1
+trimethaphan,Aortic Aneurysm,1
+trimethaphan,"Hypertension, Malignant",1
+trimethoprim,AIDS-Related Opportunistic Infections,1
+trimethoprim,Bronchitis,1
+trimethoprim,Escherichia coli Infections,1
+trimethoprim,"Eye Infections, Bacterial",1
+trimethoprim,"Pneumonia, Pneumocystis",1
+trimethoprim,Proteus Infections,1
+trimethoprim,Staphylococcal Infections,1
+trimethoprim,Toxoplasmosis,1
+trimethoprim,Urinary Tract Infections,1
+trimetrexate,"Pneumonia, Pneumocystis",1
+trimipramine,Depressive Disorder,1
+tripelennamine,"Rhinitis, Allergic, Perennial",1
+tripelennamine,Urticaria,1
+triprolidine,"Conjunctivitis, Allergic",1
+triprolidine,"Dermatitis, Atopic",1
+troleandomycin,Asthma,1
+troleandomycin,Campylobacter Infections,1
+troleandomycin,Chlamydia Infections,1
+troleandomycin,Gonorrhea,1
+troleandomycin,Legionnaires Disease,1
+troleandomycin,Mycoplasma Infections,1
+troleandomycin,Staphylococcal Infections,1
+troleandomycin,Streptococcal Infections,1
+troleandomycin,Syphilis,1
+tropicamide,Iridocyclitis,1
+tropicamide,Iritis,1
+tropicamide,Keratitis,1
+trovafloxacin,Bacteroides Infections,1
+trovafloxacin,Bronchitis,1
+trovafloxacin,Chlamydia Infections,1
+trovafloxacin,Escherichia coli Infections,1
+trovafloxacin,Gonorrhea,1
+trovafloxacin,Haemophilus Infections,1
+trovafloxacin,Klebsiella Infections,1
+trovafloxacin,"Pneumonia, Bacterial",1
+trovafloxacin,Pseudomonas Infections,1
+trovafloxacin,Sinusitis,1
+trovafloxacin,Staphylococcal Infections,1
+trovafloxacin,Streptococcal Infections,1
+ursodiol,Cholelithiasis,1
+ursodiol,"Liver Cirrhosis, Biliary",1
+valacyclovir,Herpes Genitalis,1
+valacyclovir,Herpes Labialis,1
+valacyclovir,Herpes Zoster,1
+valproic acid,Alzheimer Disease,1
+valproic acid,Bipolar Disorder,1
+valproic acid,"Epilepsy, Absence",1
+valproic acid,"Epilepsy, Complex Partial",1
+valrubicin,Urinary Bladder Neoplasms,1
+valsartan,Diabetic Nephropathies,1
+valsartan,Heart Failure,1
+valsartan,Hypertension,1
+valsartan,"Ventricular Dysfunction, Left",1
+vancomycin,"Endocarditis, Bacterial",1
+vancomycin,"Enterocolitis, Pseudomembranous",1
+vancomycin,"Meningitis, Pneumococcal",1
+vancomycin,Neutropenia,1
+vancomycin,Postoperative Complications,1
+vancomycin,Staphylococcal Infections,1
+venlafaxine,Attention Deficit Disorder with Hyperactivity,1
+venlafaxine,Autistic Disorder,1
+venlafaxine,Depressive Disorder,1
+venlafaxine,"Fatigue Syndrome, Chronic",1
+venlafaxine,Obsessive-Compulsive Disorder,1
+venlafaxine,Pain,1
+verapamil,"Angina Pectoris, Variant",1
+verapamil,Atrial Fibrillation,1
+verapamil,Atrial Flutter,1
+verapamil,Hypertension,1
+verapamil,Myocardial Infarction,1
+verapamil,"Tachycardia, Supraventricular",1
+vidarabine,"Keratitis, Herpetic",1
+vidarabine,"Keratoconjunctivitis, Infectious",1
+vinblastine,Breast Neoplasms,1
+vinblastine,Choriocarcinoma,1
+vinblastine,Head and Neck Neoplasms,1
+vinblastine,Histiocytosis,1
+vinblastine,Hodgkin Disease,1
+vinblastine,Kidney Neoplasms,1
+vinblastine,Lung Neoplasms,1
+vinblastine,Mycosis Fungoides,1
+vinblastine,"Purpura, Thrombocytopenic, Idiopathic",1
+vinblastine,"Sarcoma, Kaposi",1
+vinblastine,Testicular Neoplasms,1
+vincristine,Hodgkin Disease,1
+vincristine,Leukemia,1
+vincristine,"Lymphoma, Non-Hodgkin",1
+vincristine,Neuroblastoma,1
+vincristine,Rhabdomyosarcoma,1
+vinorelbine,Breast Neoplasms,1
+vinorelbine,"Carcinoma, Non-Small-Cell Lung",1
+vinorelbine,Hodgkin Disease,1
+vinorelbine,Ovarian Neoplasms,1
+vitamin k 1,"Abnormalities, Drug-Induced",1
+vitamin k 1,Hypoprothrombinemias,1
+vitamin k 1,"Infant, Premature, Diseases",1
+voriconazole,Aspergillosis,1
+warfarin,Atrial Fibrillation,1
+warfarin,Postoperative Complications,1
+warfarin,Pulmonary Embolism,1
+warfarin,Stroke,1
+warfarin,Thromboembolism,1
+warfarin,Thrombophlebitis,1
+yohimbe preparation,Erectile Dysfunction,1
+zafirlukast,Asthma,1
+zalcitabine,Acquired Immunodeficiency Syndrome,1
+zidovudine,Acquired Immunodeficiency Syndrome,1
+zileuton,Asthma,1
+ziprasidone,Schizophrenia,1
+ziprasidone,Tourette Syndrome,1
+zolpidem,Sleep Disorders,1
+zonisamide,"Epilepsies, Partial",1

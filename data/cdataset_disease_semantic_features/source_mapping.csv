@@ -1,0 +1,410 @@
+﻿disease_id,external_disease_id,omim_id_original,omim_id_current,omim_redirected,medgen_cui,disease_name,mesh_id,mondo_id,medgen_uid,mapping_status
+C000,D102100,102100,102100,False,C1321495,Acromegaloid phenotype with cutis verticis gyrata and corneal leukoma,C535654,MONDO:0007050,231158,omim_mesh_mapped
+C001,D102300,102300,102300,False,C1876177,"Restless legs syndrome, susceptibility to, 1",,MONDO:0007053,360293,omim_name_without_mesh
+C002,D102400,102400,102400,False,C0917990,Acroosteolysis,D030981,MONDO:0007056,183017,omim_mesh_mapped
+C003,D102500,102500,102500,False,C0917715,Hajdu-Cheney syndrome,D031845,MONDO:0007057,182961,omim_mesh_mapped
+C004,D103100,103100,103100,False,C0040416,Tonic pupil,D015845,,52779,omim_mesh_mapped
+C005,D103230,103230,103230,False,C0271740,Congenital primary adrenocortical hypofunction,C562711,MONDO:0007071,78784,omim_mesh_mapped
+C006,D103285,103285,103285,False,C1863204,ADULT syndrome,C538052,MONDO:0007072,400232,omim_mesh_mapped
+C007,D103780,103780,103780,False,C0001973,Alcohol dependence,D000437,MONDO:0007079,1801,omim_mesh_mapped
+C008,D104130,104130,104130,False,C1863090,Alopecia-epilepsy-pyorrhea-intellectual disability syndrome,C537057,MONDO:0007085,350833,omim_mesh_mapped
+C009,D104300,104300,104300,False,C1863052,Alzheimer disease type 1,C536594,MONDO:0007088,354892,omim_mesh_mapped
+C010,D104310,104310,104310,False,C1863051,Alzheimer disease 2,C536595,MONDO:0007089,400197,omim_mesh_mapped
+C011,D106100,106100,106100,False,C2717906,Hereditary angioedema type 1,D056829,MONDO:0015053,403466,omim_mesh_mapped
+C012,D106400,106400,106400,False,C0020498,Diffuse idiopathic skeletal hyperostosis,D004057,MONDO:0007127,5695,omim_mesh_mapped
+C013,D107320,107320,107320,False,C2930802,Familial antiphospholipid syndrome,C531622,MONDO:8000014,419641,omim_mesh_mapped
+C014,D107550,107550,107550,False,C1862681,"Aortic arch interruption, facial palsy, and retinal coloboma",C566271,MONDO:0007144,350733,omim_mesh_mapped
+C015,D107650,107650,107650,False,C0520679,Obstructive sleep apnea syndrome,D020181,MONDO:0007147,101045,omim_mesh_mapped
+C016,D109100,109100,109100,False,C0004364,Autoimmune disease,D001327,MONDO:0007179,2135,omim_mesh_mapped
+C017,D109200,109200,109200,False,C4049090,"Alopecia, androgenetic, 1",,MONDO:0007184,886756,omim_name_without_mesh
+C018,D109350,109350,109350,False,C0017168,Gastroesophageal reflux disease,D005764,MONDO:0007186,6553,omim_mesh_mapped
+C019,D109543,109543,109543,False,C1868683,"Leukemia, chronic lymphocytic, susceptibility to, 2",,MONDO:0007190,358385,omim_name_without_mesh
+C020,D109800,109800,109800,False,C0005684,Malignant tumor of urinary bladder,D001749,MONDO:0001187,14150,omim_mesh_mapped
+C021,D110100,110100,110100,False,C0220663,"Blepharophimosis, ptosis, and epicanthus inversus syndrome",C562419,MONDO:0007201,66312,omim_mesh_mapped
+C022,D113610,113610,113610,False,C1862071,Branchial myoclonus with spastic paraparesis and cerebellar ataxia,C566188,MONDO:0007234,349424,omim_mesh_mapped
+C023,D113800,113800,113800,False,C5781874,Epidermolytic hyperkeratosis 1,,MONDO:0700249,1826137,omim_name_without_mesh
+C024,D114480,114480,114480,False,C0006142,Malignant tumor of breast,D001943,MONDO:0007254,651,omim_mesh_mapped
+C025,D114500,114500,114500,False,C0009402,Colorectal carcinoma,D015179,MONDO:0024331,3170,omim_mesh_mapped
+C026,D114550,114550,114550,False,C2239176,Hepatocellular carcinoma,D006528,MONDO:0007256,389187,omim_mesh_mapped
+C027,D114580,114580,114580,False,C2751429,"Candidiasis, familial, 1",C567779,MONDO:0007257,414015,omim_mesh_mapped
+C028,D115000,115000,115000,False,C5542154,Ventricular arrhythmias due to cardiac ryanodine receptor calcium release deficiency syndrome,,MONDO:0020745,1781114,omim_name_without_mesh
+C029,D115195,115195,115195,False,C1861864,Hypertrophic cardiomyopathy 2,C566171,MONDO:0007266,349383,omim_mesh_mapped
+C030,D115300,115300,115300,False,C2676023,Hereditary hypercarotenemia and vitamin A deficiency,C567296,MONDO:0007272,393944,omim_mesh_mapped
+C031,D115645,115645,115645,False,C1861835,Cataract-aberrant oral frenula-growth delay syndrome,C536691,MONDO:0007277,350520,omim_mesh_mapped
+C032,D119500,119500,119500,False,C5848052,Autosomal dominant popliteal pterygium syndrome,C562509,MONDO:0007334,1844082,omim_mesh_mapped
+C033,D121200,121200,121200,False,C3149074,"Seizures, benign familial neonatal, 1",,MONDO:0007365,460425,omim_name_without_mesh
+C034,D121201,121201,121201,False,C1852581,"Seizures, benign familial neonatal, 2",C535466,MONDO:0007366,377707,omim_mesh_mapped
+C035,D124200,124200,124200,False,C0022595,Keratosis follicularis,D007644,MONDO:0007417,5956,omim_mesh_mapped
+C036,D125310,125310,125310,False,C4551768,"Cerebral arteriopathy, autosomal dominant, with subcortical infarcts and leukoencephalopathy, type 1",,MONDO:0000914,1634330,omim_name_without_mesh
+C037,D125320,125320,125320,False,C1852223,Dementia/parkinsonism with non-Alzheimer amyloid plaques,C565115,MONDO:0007433,338883,omim_mesh_mapped
+C038,D125600,125600,125600,False,C0011645,Dermatosis papulosa nigra,C562379,MONDO:0007446,4238,omim_mesh_mapped
+C039,D125700,125700,125700,False,C0687720,Central diabetes insipidus,D020790,MONDO:0015790,146919,omim_mesh_mapped
+C040,D125850,125850,125850,False,C1852093,Maturity-onset diabetes of the young type 1,C565101,MONDO:0007452,377589,omim_mesh_mapped
+C041,D125851,125851,125851,False,C0342277,Maturity-onset diabetes of the young type 2,C564219,MONDO:0007453,87434,omim_mesh_mapped
+C042,D125852,125852,125852,False,C1852092,Type 1 diabetes mellitus 2,,MONDO:0007454,377588,omim_name_without_mesh
+C043,D125853,125853,125853,False,C0011860,Type 2 diabetes mellitus,D003924,MONDO:0005148,41523,omim_mesh_mapped
+C044,D126200,126200,126200,False,C1868685,"Multiple sclerosis, susceptibility to",,MONDO:0007462,358269,omim_name_without_mesh
+C045,D127350,127350,127350,False,C1851986,Dyschondrosteosis-nephritis syndrome,C565080,MONDO:0007482,342135,omim_mesh_mapped
+C046,D127750,127750,127750,False,C0752347,Lewy body dementia,D020961,MONDO:0007488,199874,omim_mesh_mapped
+C047,D128101,128101,128101,False,C1851943,Torsion dystonia 4,C538004,MONDO:0007493,342124,omim_mesh_mapped
+C048,D131200,131200,131200,False,C1851649,"Endometriosis, susceptibility to, 1",,MONDO:0007541,338749,omim_name_without_mesh
+C049,D131300,131300,131300,False,C0011989,Diaphyseal dysplasia,D003966,MONDO:0007542,4268,omim_mesh_mapped
+C050,D131440,131440,131440,False,C1851585,"Myeloproliferative disorder, chronic, with eosinophilia",,MONDO:0007546,377060,omim_name_without_mesh
+C051,D132090,132090,132090,False,C1851549,Self-limited childhood occipital epilepsy,D004828,MONDO:0007558,377052,omim_mesh_mapped
+C052,D132100,132100,132100,False,C1868677,Photoparoxysmal response 1,,MONDO:0007559,358382,omim_name_without_mesh
+C053,D132300,132300,132300,False,C0278193,Reading seizure,D020195,MONDO:0007560,75817,omim_mesh_mapped
+C054,D133239,133239,133239,False,C0152018,Carcinoma of esophagus,,MONDO:0019086,56256,omim_name_without_mesh
+C055,D133600,133600,133600,False,C0877431,Exostoses of heel,C563167,,209099,omim_mesh_mapped
+C056,D133690,133690,133690,False,C1851428,Exostoses-anetodermia-brachydactyly type E syndrome,C565034,MONDO:0007584,338695,omim_mesh_mapped
+C057,D134430,134430,134430,False,C1851377,"Factor VII and Factor VIII, combined deficiency of",C565025,MONDO:0007595,341995,omim_mesh_mapped
+C058,D134500,134500,134500,False,C3494187,Factor VIII deficiency,D006467,,488140,omim_mesh_mapped
+C059,D134510,134510,134510,False,C1851376,"Factor VIII and Factor IX, combined deficiency of",C565024,MONDO:0007597,341994,omim_mesh_mapped
+C060,D134520,134520,134520,False,C1851375,"Factors VIII, IX and XI, combined deficiency of",C565023,MONDO:0007598,341993,omim_mesh_mapped
+C061,D134600,134600,134600,False,C4551503,Fanconi renotubular syndrome 1,,MONDO:0024525,1635492,omim_name_without_mesh
+C062,D134750,134750,134750,False,C0015773,Felty syndrome,D005258,MONDO:0007603,4674,omim_mesh_mapped
+C063,D135550,135550,135550,False,C1851112,Gingival fibromatosis-progressive deafness syndrome,C535886,MONDO:0007612,341928,omim_mesh_mapped
+C064,D136200,136200,136200,False,C1851055,Flushing of ears and somnolence,,MONDO:0007623,340685,omim_name_without_mesh
+C065,D137215,137215,137215,False,C1708349,Hereditary diffuse gastric adenocarcinoma,,MONDO:0007648,310839,omim_name_without_mesh
+C066,D137400,137400,137400,False,C4540616,Fissured tongue,,MONDO:0007655,1624209,omim_name_without_mesh
+C067,D137580,137580,137580,False,C0040517,Tourette syndrome,D005879,MONDO:0007661,21219,omim_mesh_mapped
+C068,D137750,137750,137750,False,C1842028,"Glaucoma 1, open angle, A",C564234,MONDO:0007664,333974,omim_mesh_mapped
+C069,D137760,137760,137760,False,C0339573,Primary open angle glaucoma,D005902,MONDO:0100553,87389,omim_mesh_mapped
+C070,D137800,137800,137800,False,C2750850,Glioma susceptibility 1,,MONDO:0024498,413414,omim_name_without_mesh
+C071,D138800,138800,138800,False,C0302859,Euthyroid goiter,C562732,MONDO:0007681,86230,omim_mesh_mapped
+C072,D140300,140300,140300,False,C0677607,Hashimoto thyroiditis,D050031,MONDO:0007699,151769,omim_mesh_mapped
+C073,D140600,140600,140600,False,C3887526,Osteoarthritis susceptibility 2,,MONDO:0007704,854385,omim_name_without_mesh
+C074,D140850,140850,140850,False,C0472694,Cavernous hemangiomas of face-supraumbilical midline raphe syndrome,C538144,MONDO:0007706,99171,omim_mesh_mapped
+C075,D143100,143100,143100,False,C0020179,Huntington disease,D006816,MONDO:0007739,5654,omim_mesh_mapped
+C076,D143465,143465,143465,False,C1263846,Attention deficit hyperactivity disorder,D001289,MONDO:0007743,220387,omim_mesh_mapped
+C077,D143500,143500,143500,False,C0017551,Gilbert syndrome,D005878,MONDO:0007745,4891,omim_mesh_mapped
+C078,D143880,143880,143880,False,C4329374,Autosomal recessive infantile hypercalcemia,C562999,MONDO:0000212,1380840,omim_mesh_mapped
+C079,D143890,143890,143890,False,C0745103,"Hypercholesterolemia, familial, 1",D006938,MONDO:0007750,152875,omim_mesh_mapped
+C080,D144010,144010,144010,False,C1704417,"Hypercholesterolemia, autosomal dominant, type B",D006938,MONDO:0007751,309962,omim_mesh_mapped
+C081,D144110,144110,144110,False,C1274743,Palmoplantar hyperhidrosis,C563185,MONDO:0007754,224808,omim_mesh_mapped
+C082,D144250,144250,144250,False,C0020474,"Hyperlipidemia, familial combined, LPL related",D006950,MONDO:0007759,6965,omim_mesh_mapped
+C083,D144400,144400,143890,True,C0745103,"Hypercholesterolemia, familial, 1",D006938,MONDO:0007750,152875,omim_mesh_mapped
+C084,D144650,144650,144650,False,C0020481,Familial type 5 hyperlipoproteinemia,D006954,MONDO:0007762,5693,omim_mesh_mapped
+C085,D144700,144700,144700,False,C0279702,Clear cell carcinoma of kidney,D002292,MONDO:0005005,76018,omim_mesh_mapped
+C086,D145100,145100,145100,False,C0155211,Hyperpigmentation of eyelid,C562400,MONDO:0007769,56358,omim_mesh_mapped
+C087,D145200,145200,145200,False,C1840393,Hyperpigmentation of Fuldauer and Kuijpers,C564164,MONDO:0007770,327090,omim_mesh_mapped
+C088,D145500,145500,145500,False,C0085580,Essential hypertension,D000075222,MONDO:0001134,88442,omim_mesh_mapped
+C089,D145590,145590,145590,False,C1840373,"Hyperthermia, cutaneous, with headaches and nausea",C564156,MONDO:0007782,374453,omim_mesh_mapped
+C090,D145600,145600,145600,False,C2930980,"Malignant hyperthermia, susceptibility to, 1",C535694,MONDO:0007783,443948,omim_mesh_mapped
+C091,D145750,145750,145750,False,C5444012,Hypertriglyceridemia 1,,MONDO:0007788,1787149,omim_name_without_mesh
+C092,D146110,146110,146110,False,C0342384,Hypogonadotropic hypogonadism 7 with or without anosmia,C562785,MONDO:0007794,87440,omim_mesh_mapped
+C093,D146200,146200,146200,False,C5241444,"Hypoparathyroidism, familial isolated 1",,MONDO:0007796,1713884,omim_name_without_mesh
+C094,D146255,146255,146255,False,C1840333,"Hypoparathyroidism, deafness, renal disease syndrome",C537907,MONDO:0007797,374443,omim_mesh_mapped
+C095,D146500,146500,146500,False,C3714927,"Multiple system atrophy 1, susceptibility to",,MONDO:0020715,811503,omim_name_without_mesh
+C096,D146700,146700,146700,False,C0079584,Ichthyosis vulgaris,D016112,MONDO:0024304,38217,omim_mesh_mapped
+C097,D146850,146850,146850,False,C1840264,Immune suppression,,,326692,omim_name_without_mesh
+C098,D147480,147480,147480,False,C3549845,"Cholestasis, intrahepatic, of pregnancy, 1",,MONDO:0007829,762759,omim_name_without_mesh
+C099,D147530,147530,147530,False,C1840172,Insensitivity to pain with hyperplastic Myelinopathy,,MONDO:0007830,327046,omim_name_without_mesh
+C100,D147540,147540,147540,False,C1840171,"Insect Stings, hypersensitivity to",,MONDO:0007831,327045,omim_name_without_mesh
+C101,D148000,148000,148000,False,C3538945,"Kaposi sarcoma, susceptibility to",,MONDO:0007845,761233,omim_name_without_mesh
+C102,D148100,148100,148100,False,C3149494,Keloid formation,,MONDO:0007847,460844,omim_name_without_mesh
+C103,D150600,150600,150600,False,C1442965,Legg-Calve-Perthes disease,D007873,MONDO:0007885,730669,omim_mesh_mapped
+C104,D151380,151380,151380,False,C0023465,Acute monocytic leukemia,D007948,MONDO:0007896,7319,omim_mesh_mapped
+C105,D151400,151400,151400,False,C0023434,B-cell chronic lymphocytic leukemia,D015451,MONDO:0004948,44120,omim_mesh_mapped
+C106,D151590,151590,151590,False,C0023652,Lichen sclerosus et atrophicus,D018459,MONDO:0007899,7338,omim_mesh_mapped
+C107,D152700,152700,152700,False,C0024141,Systemic lupus erythematosus,D008180,MONDO:0007915,6146,omim_mesh_mapped
+C108,D153800,153800,153800,False,C3495438,Age related macular degeneration 2,C562479,MONDO:0007932,501183,omim_mesh_mapped
+C109,D153880,153880,153880,False,C0024440,Cystoid macular edema,D008269,MONDO:0007935,7435,omim_mesh_mapped
+C110,D154275,154275,154275,False,C2930981,"Malignant hyperthermia, susceptibility to, 2",C535695,MONDO:0007939,419301,omim_mesh_mapped
+C111,D154276,154276,154276,False,C2930982,"Malignant hyperthermia, susceptibility to, 3",C535696,MONDO:0007940,418956,omim_mesh_mapped
+C112,D155100,155100,155100,False,C5200934,Macrothrombocytopenia and granulocyte inclusions with or without nephritis or sensorineural hearing loss,C535507,MONDO:0015912,1704278,omim_mesh_mapped
+C113,D155600,155600,155600,False,C1835047,"Melanoma, cutaneous malignant, susceptibility to, 1",,MONDO:0007963,320506,omim_name_without_mesh
+C114,D155601,155601,155601,False,C1835044,"Melanoma, cutaneous malignant, susceptibility to, 2",,MONDO:0007964,331891,omim_name_without_mesh
+C115,D156000,156000,156000,False,C0025281,Meniere disease,D008575,MONDO:0007972,7530,omim_mesh_mapped
+C116,D156190,156190,156190,False,C1835028,Mental and growth retardation with amblyopia,C563591,MONDO:0007973,331885,omim_mesh_mapped
+C117,D157300,157300,157300,False,C3887485,"Migraine with or without aura, susceptibility to, 1",,MONDO:0008000,854348,omim_name_without_mesh
+C118,D157700,157700,157700,False,C1834819,MVP1,,MONDO:0024529,320443,omim_name_without_mesh
+C119,D157950,157950,157950,False,C0155930,Ankylosis of tooth,D020254,MONDO:0008007,57843,omim_mesh_mapped
+C120,D158280,158280,158280,False,C0026603,Motion sickness,D009041,MONDO:0008015,44503,omim_mesh_mapped
+C121,D160300,160300,160300,False,C4011725,"Myopathy, distal, infantile-onset",,MONDO:0008049,860162,omim_name_without_mesh
+C122,D160750,160750,160750,False,C0027121,Myositis disease,D009220,MONDO:0021167,44564,omim_mesh_mapped
+C123,D161400,161400,161400,False,C1834372,Narcolepsy 1,C563534,MONDO:0008062,371809,omim_mesh_mapped
+C124,D161900,161900,161900,False,C0403443,Progressive hereditary glomerulonephritis without deafness,C562889,MONDO:0008071,98012,omim_mesh_mapped
+C125,D164230,164230,164230,False,C0028768,Obsessive-compulsive disorder,D009771,MONDO:0008114,14445,omim_mesh_mapped
+C126,D165150,165150,165150,False,C1833835,Ophthalmoplegia-intellectual disability-lingua scrotalis syndrome,C563498,MONDO:0008130,318972,omim_mesh_mapped
+C127,D165199,165199,165199,False,C1833831,"Optic atrophy, hearing loss, and peripheral neuropathy, autosomal dominant",C563497,MONDO:0008131,331597,omim_mesh_mapped
+C128,D165720,165720,165720,False,C3887876,Osteoarthritis susceptibility 1,,MONDO:0008143,854604,omim_name_without_mesh
+C129,D166300,166300,166300,False,C2674705,Multicentric carpo-tarsal osteolysis with or without nephropathy,C567171,MONDO:0008152,436237,omim_mesh_mapped
+C130,D166710,166710,166710,False,C0029456,Osteoporosis,D010024,MONDO:0005298,14535,omim_mesh_mapped
+C131,D166760,166760,166760,False,C1833692,"Otitis media, susceptibility to",,MONDO:0008162,318936,omim_name_without_mesh
+C132,D167320,167320,167320,False,C4551951,Inclusion body myopathy with Paget disease of bone and frontotemporal dementia type 1,,MONDO:0008178,1641069,omim_name_without_mesh
+C133,D167870,167870,167870,False,C1868649,Panic disorder 1,,MONDO:0008187,401493,omim_name_without_mesh
+C134,D168100,168100,168100,False,C0238344,Juvenile paralysis agitans of Hunt,C562469,MONDO:0008193,66768,omim_mesh_mapped
+C135,D168600,168600,168600,False,C3160718,"Parkinson disease, late-onset",,MONDO:0008199,463618,omim_name_without_mesh
+C136,D168601,168601,168601,False,C1868595,Autosomal dominant Parkinson disease 1,,MONDO:0008200,357008,omim_name_without_mesh
+C137,D170900,170900,170900,False,C0002892,Pernicious anemia,D000752,MONDO:0008228,1531,omim_mesh_mapped
+C138,D171300,171300,171300,False,C0031511,Pheochromocytoma,D010673,MONDO:0008233,18419,omim_mesh_mapped
+C139,D173200,173200,173200,False,C0032027,Pityriasis rubra pilaris,D010916,MONDO:0100017,45939,omim_mesh_mapped
+C140,D174800,174800,174800,False,C0242292,McCune-Albright syndrome,D005359,MONDO:0018919,69164,omim_mesh_mapped
+C141,D175100,175100,175100,False,C0032580,Familial multiple polyposis syndrome,D011125,MONDO:0021055,46010,omim_mesh_mapped
+C142,D175505,175505,619182,True,C4749917,Gastric adenocarcinoma and proximal polyposis of the stomach,C566775,MONDO:0017790,1657285,omim_mesh_mapped
+C143,D176800,176800,176800,False,C1867726,"Pronation-supination of the forearm, impairment of",C566757,MONDO:0008314,356828,omim_mesh_mapped
+C144,D176807,176807,176807,False,C0376358,Prostate cancer,D011471,MONDO:0008315,138169,omim_mesh_mapped
+C145,D178600,178600,178600,False,C4552070,"Pulmonary hypertension, primary, 1",D065627,MONDO:0024533,1643124,omim_mesh_mapped
+C146,D179600,179600,179600,False,C0034734,Raynaud disease,D011928,MONDO:0008364,20473,omim_mesh_mapped
+C147,D181000,181000,181000,False,C2697310,"Sarcoidosis, susceptibility to, 1",,MONDO:0008399,394568,omim_name_without_mesh
+C148,D181460,181460,181460,False,C1866993,"Schistosoma mansoni infection, susceptibility/resistance to",,MONDO:0859050,401132,omim_name_without_mesh
+C149,D181500,181500,181500,False,C0036341,Schizophrenia,D012559,MONDO:0005090,48574,omim_mesh_mapped
+C150,D182000,182000,182000,False,C0022603,Seborrheic keratosis,D017492,MONDO:0008420,5957,omim_mesh_mapped
+C151,D182280,182280,182280,False,C0149925,Small cell lung carcinoma,D055752,MONDO:0008433,57450,omim_mesh_mapped
+C152,D182830,182830,182830,False,C1866849,"Spastic paraplegia, optic atrophy, and dementia",C566679,MONDO:0008444,356630,omim_mesh_mapped
+C153,D184700,184700,184700,False,C0032460,Polycystic ovaries,D011085,MONDO:0008487,10836,omim_mesh_mapped
+C154,D187360,187360,187360,False,C1956391,Temporal arteritis,D013700,MONDO:0008538,365495,omim_mesh_mapped
+C155,D187950,187950,187950,False,C3277671,Thrombocythemia 1,,MONDO:0008554,479301,omim_name_without_mesh
+C156,D188030,188030,188030,False,C0398650,Autoimmune thrombocytopenic purpura,D016553,MONDO:0008558,584986,omim_mesh_mapped
+C157,D188050,188050,188050,False,C3160733,Thrombophilia due to thrombin defect,,MONDO:0008559,463623,omim_name_without_mesh
+C158,D188470,188470,188470,False,C4225426,"Thyroid cancer, nonmedullary, 2",,MONDO:0008566,904175,omim_name_without_mesh
+C159,D188890,188890,188890,False,C1861063,"Tobacco addiction, susceptibility to",,MONDO:0100460,348778,omim_name_without_mesh
+C160,D189600,189600,189600,False,C0040485,Torticollis,D014103,MONDO:0008583,11859,omim_mesh_mapped
+C161,D189800,189800,189800,False,C5574918,Preeclampsia/eclampsia 1,D011225,MONDO:0100467,1807479,omim_mesh_mapped
+C162,D190300,190300,190300,False,C1860861,"Tremor, hereditary essential, 1",C536545,MONDO:0008590,349909,omim_mesh_mapped
+C163,D190310,190310,190310,False,C1860860,Tremor-nystagmus-duodenal ulcer syndrome,C536406,MONDO:0008591,349908,omim_mesh_mapped
+C164,D190400,190400,190400,False,C0040997,Trigeminal neuralgia,D014277,MONDO:0008599,21683,omim_mesh_mapped
+C165,D191100,191100,191100,False,C1854465,Tuberous sclerosis 1,C565346,MONDO:0008612,344288,omim_mesh_mapped
+C166,D191390,191390,191390,False,C2674051,Inflammatory bowel disease 11,C567154,MONDO:0008617,393069,omim_mesh_mapped
+C167,D191800,191800,191800,False,C5231389,"Urinary bladder, atony of",,MONDO:0008630,1684829,omim_name_without_mesh
+C168,D192000,192000,192000,False,C0266383,Congenital uterine anomaly,C562565,MONDO:0008635,78598,omim_mesh_mapped
+C169,D192200,192200,192200,False,C0042345,Varicose disease,D014648,MONDO:0008638,21827,omim_mesh_mapped
+C170,D193200,193200,193200,False,C3277701,Vitiligo-associated multiple autoimmune disease susceptibility 6,,MONDO:0700077,479331,omim_name_without_mesh
+C171,D193400,193400,193400,False,C1264039,von Willebrand disease type 1,D056725,MONDO:0008668,220393,omim_mesh_mapped
+C172,D194070,194070,194070,False,C0027708,Nephroblastoma,D009396,MONDO:0006058,10221,omim_mesh_mapped
+C173,D194200,194200,194200,False,C0043202,Wolff-Parkinson-White pattern,D014927,MONDO:0008685,12162,omim_mesh_mapped
+C174,D200170,200170,200170,False,C1860215,Acanthosis nigricans-insulin resistance-muscle cramps-acral enlargement syndrome,C536000,MONDO:0008696,348051,omim_mesh_mapped
+C175,D202370,202370,202370,False,C3550234,Peroxisome biogenesis disorder 2B,,MONDO:0008736,763148,omim_name_without_mesh
+C176,D202400,202400,202400,False,C2584774,Congenital afibrinogenemia,D000347,MONDO:0008737,749036,omim_mesh_mapped
+C177,D203700,203700,203700,False,C0205710,Progressive sclerosing poliodystrophy,D002549,MONDO:0008758,60012,omim_mesh_mapped
+C178,D205700,205700,205700,False,C0002880,Autoimmune hemolytic anemia,,MONDO:0020108,1918,omim_name_without_mesh
+C179,D206200,206200,206200,False,C0085576,Iron-refractory iron deficiency anemia,C562385,MONDO:0008788,39081,omim_mesh_mapped
+C180,D208085,208085,208085,False,C1859722,"Arthrogryposis, renal dysfunction, and cholestasis 1",C535382,MONDO:0008822,347219,omim_mesh_mapped
+C181,D208230,208230,208230,False,C0432215,Progressive pseudorheumatoid dysplasia,C535387,MONDO:0008827,96581,omim_mesh_mapped
+C182,D208300,208300,208300,False,C0008732,Chylous ascites,D002915,MONDO:0008829,969,omim_mesh_mapped
+C183,D208550,208550,208550,False,C1859648,"Asthma, nasal polyps, and aspirin intolerance",C565935,MONDO:0008834,347198,omim_mesh_mapped
+C184,D208700,208700,208700,False,C1859646,Ataxia with myoclonic epilepsy and presenile dementia,C565933,MONDO:0008836,347924,omim_mesh_mapped
+C185,D208750,208750,208750,False,C1859645,"Ataxia, deafness, and cardiomyopathy",C565932,MONDO:0008837,395312,omim_mesh_mapped
+C186,D208920,208920,208920,False,C1859598,"Ataxia, early-onset, with oculomotor apraxia and hypoalbuminemia",C538013,MONDO:0008842,395301,omim_mesh_mapped
+C187,D209850,209850,209850,False,C0004352,Autism,D001321,MONDO:0005260,13966,omim_mesh_mapped
+C188,D210050,210050,210050,False,C1859519,"Berry aneurysm, cirrhosis, pulmonary emphysema, and cerebral calcification",C565905,MONDO:0008859,347170,omim_mesh_mapped
+C189,D211980,211980,211980,False,C0242379,Lung cancer,D008175,MONDO:0008903,66885,omim_mesh_mapped
+C190,D212050,212050,212050,False,C1859353,Predisposition to invasive fungal disease due to CARD9 deficiency,C537979,MONDO:0008905,347128,omim_mesh_mapped
+C191,D212110,212110,611880,True,C2678474,Dilated cardiomyopathy 2A,C567505,MONDO:0012746,437214,omim_mesh_mapped
+C192,D212112,212112,212112,False,C0796031,Dilated cardiomyopathy-hypergonadotropic hypogonadism syndrome,C535703,MONDO:0008915,162901,omim_mesh_mapped
+C193,D212130,212130,212130,False,C1859328,Cardiomyopathy associated with myopathy and sudden death,C565881,MONDO:0008916,395232,omim_mesh_mapped
+C194,D212140,212140,212140,False,C0342788,Renal carnitine transport defect,C536778,MONDO:0008919,90999,omim_mesh_mapped
+C195,D212350,212350,212350,False,C1859317,Sengers syndrome,C538280,MONDO:0008922,395228,omim_mesh_mapped
+C196,D215140,215140,215140,False,C2931048,Greenberg dysplasia,C535858,MONDO:0008974,418969,omim_mesh_mapped
+C197,D215470,215470,215470,False,C1859093,Ataxia-hypogonadism-choroidal dystrophy syndrome,C565850,MONDO:0008980,347798,omim_mesh_mapped
+C198,D217150,217150,217150,False,C1857576,Multiple pterygium-malignant hyperthermia syndrome,C565679,MONDO:0009012,347490,omim_mesh_mapped
+C199,D217200,217200,217200,False,C1857575,"Convulsive disorder, familial, with prenatal or early onset",C565678,MONDO:0009013,387859,omim_mesh_mapped
+C200,D218200,218200,218200,False,C1857530,"Cranial nerves, recurrent paresis of",C565672,MONDO:0009030,387846,omim_mesh_mapped
+C201,D218800,218800,218800,False,C0010324,Crigler-Najjar syndrome type 1,D003414,MONDO:0021020,41346,omim_mesh_mapped
+C202,D219700,219700,219700,False,C0010674,Cystic fibrosis,D003550,MONDO:0009061,41393,omim_mesh_mapped
+C203,D219750,219750,219750,False,C2931013,Ocular cystinosis,C535765,MONDO:0009064,419313,omim_mesh_mapped
+C204,D219800,219800,219800,False,C2931187,Nephropathic cystinosis,,MONDO:0100151,419735,omim_name_without_mesh
+C205,D220100,220100,220100,False,C0010691,Cystinuria,D003555,MONDO:0009067,8226,omim_mesh_mapped
+C206,D220120,220120,220120,False,C0342765,D-Glyceric aciduria,,MONDO:0009070,452447,omim_name_without_mesh
+C207,D222100,222100,222100,False,C0011854,Diabetes mellitus type 1,D003922,MONDO:0005147,41522,omim_mesh_mapped
+C208,D223350,223350,223350,False,C1857225,Dohle bodies and leukemia,C565617,MONDO:0009122,346548,omim_mesh_mapped
+C209,D225740,225740,225740,False,C1856990,"Encephalopathy, axonal, with necrotizing myopathy, cardiomyopathy, and cataracts",C565596,MONDO:0009164,341669,omim_mesh_mapped
+C210,D225755,225755,225755,False,C1856973,Bonnemann-Meinecke-Reich syndrome,C565594,MONDO:0009167,346482,omim_mesh_mapped
+C211,D226000,226000,226000,False,C0014117,Endocardial fibroelastosis,D004695,MONDO:0009169,4041,omim_mesh_mapped
+C212,D226150,226150,226150,False,C0014356,Enterocolitis,D004760,MONDO:0009172,4966,omim_mesh_mapped
+C213,D227300,227300,227300,False,C4551981,"Factor V and factor VIII, combined deficiency of, type 1",C565577,MONDO:0009206,1637212,omim_mesh_mapped
+C214,D230450,230450,230450,False,C1856603,Gamma-glutamylcysteine synthetase deficiency,C565557,MONDO:0009259,347272,omim_mesh_mapped
+C215,D230800,230800,230800,False,C1961835,Gaucher disease type I,D005776,MONDO:0009265,409531,omim_mesh_mapped
+C216,D230900,230900,230900,False,C0268250,Gaucher disease type II,D005776,MONDO:0009266,78652,omim_mesh_mapped
+C217,D231000,231000,231000,False,C0268251,Gaucher disease type III,D005776,MONDO:0009267,78653,omim_mesh_mapped
+C218,D231090,231090,231090,False,C3463897,"Hydatidiform mole, recurrent, 1",,MONDO:0009273,483038,omim_name_without_mesh
+C219,D231200,231200,231200,False,C0005129,Bernard Soulier syndrome,D001606,MONDO:0009276,2212,omim_mesh_mapped
+C220,D231900,231900,231900,False,C1856399,Glutathione synthetase deficiency without 5-oxoprolinuria,C536835,MONDO:0009284,343541,omim_mesh_mapped
+C221,D233100,233100,233100,False,C3245525,Familial renal glucosuria,D006030,MONDO:0009297,757652,omim_mesh_mapped
+C222,D233810,233810,233810,False,C1856242,"Growth retardation, small and puffy hands and feet, and eczema",C565528,,343510,omim_mesh_mapped
+C223,D234700,234700,234700,False,C0149530,Congenital heart block,C535758,MONDO:0009326,57432,omim_mesh_mapped
+C224,D236000,236000,236000,False,C0019829,Classic Hodgkin lymphoma,D006689,MONDO:0009348,9283,omim_mesh_mapped
+C225,D237450,237450,237450,False,C0220991,Rotor syndrome,D006933,MONDO:0009379,67435,omim_mesh_mapped
+C226,D237500,237500,237500,False,C0022350,Dubin-Johnson syndrome,D007566,MONDO:0009380,7181,omim_mesh_mapped
+C227,D238800,238800,238800,False,C1855926,Hypermetabolism due to defect in mitochondria,C565498,MONDO:0009391,344612,omim_mesh_mapped
+C228,D239350,239350,239350,False,C1855922,"Hyperphosphatemia, polyuria, and seizures",C565494,MONDO:0009399,343444,omim_mesh_mapped
+C229,D240200,240200,240200,False,C1868690,Familial Hypoadrenocorticism,D000075262,,357032,omim_mesh_mapped
+C230,D240400,240400,240400,False,C0036474,Scurvy,D012614,MONDO:0009412,20684,omim_mesh_mapped
+C231,D241100,241100,241100,False,C0151721,Male hypogonadism,D005058,MONDO:0009421,57480,omim_mesh_mapped
+C232,D241519,241519,241519,False,C1855809,"Hypophosphatemia, renal, with intracerebral calcifications",C565478,MONDO:0009429,383776,omim_mesh_mapped
+C233,D242100,242100,242100,False,C3888093,Autosomal recessive congenital ichthyosis 2,,MONDO:0009439,854762,omim_name_without_mesh
+C234,D243200,243200,243200,False,C0033845,Benign intracranial hypertension,D011559,MONDO:0009468,18732,omim_mesh_mapped
+C235,D246300,246300,246300,False,C1968668,"Leprosy, susceptibility to, 3",,MONDO:0009518,368500,omim_name_without_mesh
+C236,D246400,246400,246400,False,C0023381,Letterer-Siwe disease,D006646,MONDO:0009519,7311,omim_mesh_mapped
+C237,D246470,246470,246470,False,C1855505,"Leukemia, acute myelocytic, with polyposis coli and colon cancer",C565441,MONDO:0009521,383699,omim_mesh_mapped
+C238,D247200,247200,247200,False,C0265219,Miller Dieker syndrome,D054221,MONDO:0009532,78538,omim_mesh_mapped
+C239,D247640,247640,247640,False,C1855472,"Lymphoblastic leukemia, acute, with lymphomatous features",C565429,MONDO:0009539,340879,omim_mesh_mapped
+C240,D248190,248190,248190,False,C4721891,Renal hypomagnesemia 5 with ocular involvement,,MONDO:0009548,1648449,omim_name_without_mesh
+C241,D249100,249100,249100,False,C0031069,Familial Mediterranean fever,D010505,MONDO:0018088,45811,omim_mesh_mapped
+C242,D250790,250790,250790,False,C4285231,Methemoglobinemia type 4,,MONDO:0009605,925090,omim_name_without_mesh
+C243,D252320,252320,252320,False,C1854961,Peripheral motor neuropathy-dysautonomia syndrome,C536988,MONDO:0009648,381527,omim_mesh_mapped
+C244,D254200,254200,254200,False,C0026896,Myasthenia gravis,D009157,MONDO:0009688,7764,omim_mesh_mapped
+C245,D254400,254400,254400,False,C0026948,Mycosis fungoides,D009182,MONDO:0009691,7771,omim_mesh_mapped
+C246,D254450,254450,254450,False,C0026987,Myelofibrosis,,MONDO:0044903,10146,omim_name_without_mesh
+C247,D254500,254500,254500,False,C0026764,Multiple myeloma,D009101,MONDO:0009693,10122,omim_mesh_mapped
+C248,D254770,254770,254770,False,C0270853,Juvenile myoclonic epilepsy,D020190,MONDO:0009696,78738,omim_mesh_mapped
+C249,D254800,254800,254800,False,C0751785,Unverricht-Lundborg syndrome,D020194,MONDO:0009698,155923,omim_mesh_mapped
+C250,D255900,255900,255900,False,C0027145,Myxedema,D009230,MONDO:0009718,6506,omim_mesh_mapped
+C251,D256370,256370,256370,False,C3151568,"Nephrotic syndrome, type 4",,MONDO:0009733,462918,omim_name_without_mesh
+C252,D256700,256700,256700,False,C2749485,"Neuroblastoma, susceptibility to, 1",,MONDO:0009741,412713,omim_name_without_mesh
+C253,D257200,257200,257200,False,C0268242,"Niemann-Pick disease, type A",D052536,MONDO:0009756,78650,omim_mesh_mapped
+C254,D257220,257220,257220,False,C3179455,"Niemann-Pick disease, type C1",D052556,MONDO:0009757,465922,omim_mesh_mapped
+C255,D258360,258360,258360,False,C1850316,Onychotrichodysplasia and neutropenia,C537752,MONDO:0009781,340512,omim_mesh_mapped
+C256,D259050,259050,259050,False,C0796121,Primrose syndrome,C536420,MONDO:0009798,162911,omim_mesh_mapped
+C257,D259500,259500,259500,False,C0029463,Osteosarcoma,D012516,MONDO:0009807,10501,omim_mesh_mapped
+C258,D259660,259660,259775,True,C1850106,Lethal osteosclerotic bone dysplasia,C535282,MONDO:0009821,342416,omim_mesh_mapped
+C259,D260300,260300,260300,False,C1850100,Parkinsonian-pyramidal syndrome,C538104,MONDO:0009830,337969,omim_mesh_mapped
+C260,D260480,260480,260480,False,C1850080,"Pancreatitis, sclerosing cholangitis, and sicca complex",C564906,MONDO:0009836,340461,omim_mesh_mapped
+C261,D260570,260570,260570,False,C1850054,Pelger-Huet-like anomaly and episodic fever with abdominal pain,C564899,MONDO:0009842,376692,omim_mesh_mapped
+C262,D260970,260970,260970,False,C1850022,"Peripheral neuropathy, ataxia, focal necrotizing encephalopathy, and spongy degeneration of brain",C564894,MONDO:0009851,342395,omim_mesh_mapped
+C263,D261100,261100,261100,False,C4551825,Imerslund-Grasbeck syndrome,C538556,MONDO:0009853,1640347,omim_mesh_mapped
+C264,D261515,261515,261515,False,C0342870,Bifunctional peroxisomal enzyme deficiency,C537286,MONDO:0009855,137982,omim_mesh_mapped
+C265,D263300,263300,263300,False,C0032463,Acquired polycythemia vera,D011087,MONDO:0009891,45996,omim_mesh_mapped
+C266,D263800,263800,263800,False,C0268450,Familial hypokalemia-hypomagnesemia,D053579,MONDO:0009904,75681,omim_mesh_mapped
+C267,D264120,264120,264120,False,C1849698,Prolactin deficiency with obesity and enlarged testes,C564870,MONDO:0009912,341515,omim_mesh_mapped
+C268,D264700,264700,264700,False,C0268689,"Vitamin D-dependent rickets, type 1",C562688,MONDO:0009924,124344,omim_mesh_mapped
+C269,D265400,265400,265400,False,C5676877,"Pulmonary hypertension, primary, 5",,MONDO:0009935,1802382,omim_name_without_mesh
+C270,D266120,266120,266120,False,C1849507,Hemolytic anemia due to pyrimidine 5' nucleotidase deficiency,C564859,MONDO:0009946,341470,omim_mesh_mapped
+C271,D266600,266600,266600,False,C0010346,Crohn disease,D003424,MONDO:0005011,3664,omim_mesh_mapped
+C272,D267730,267730,267730,False,C0024302,Reticulum cell sarcoma,D008228,MONDO:0009975,44224,omim_mesh_mapped
+C273,D267740,267740,267740,False,C1849416,Retinal degeneration and epilepsy,C564847,MONDO:0009976,341450,omim_mesh_mapped
+C274,D268220,268220,268220,False,C0206655,Alveolar rhabdomyosarcoma,D018232,MONDO:0009994,61651,omim_mesh_mapped
+C275,D268320,268320,268320,False,C1849332,Ectodermal dysplasia-blindness syndrome,C535865,MONDO:0010001,340297,omim_mesh_mapped
+C276,D270960,270960,270960,False,C0232981,Spermatogenic failure 4,C536875,MONDO:0010052,68568,omim_mesh_mapped
+C277,D273300,273300,273300,False,C1336708,Germ cell tumor of testis,C563236,MONDO:0010108,277809,omim_mesh_mapped
+C278,D273800,273800,273800,False,C0040015,Glanzmann thrombasthenia,D013915,MONDO:0100326,52736,omim_mesh_mapped
+C279,D275000,275000,275000,False,C0018213,Graves disease,D006111,MONDO:0005364,6677,omim_mesh_mapped
+C280,D276300,276300,276300,False,C5399763,Mismatch repair cancer syndrome 1,C536928,MONDO:0010159,1748029,omim_mesh_mapped
+C281,D277350,277350,277350,False,C2678266,"Hypercarotenemia and vitamin A deficiency, autosomal recessive",C567486,MONDO:0010182,395578,omim_mesh_mapped
+C282,D277440,277440,277440,False,C0342646,Vitamin D-dependent rickets type II with alopecia,C562794,MONDO:0010186,90989,omim_mesh_mapped
+C283,D277460,277460,277460,False,C1848533,Familial isolated deficiency of vitamin E,C535393,MONDO:0010188,341248,omim_mesh_mapped
+C284,D277480,277480,277480,False,C1264041,von Willebrand disease type 3,D056729,MONDO:0010191,266075,omim_mesh_mapped
+C285,D277730,277730,277730,False,C0349464,Wernicke-Korsakoff syndrome,D020915,MONDO:0010198,83883,omim_mesh_mapped
+C286,D277900,277900,277900,False,C0019202,Wilson disease,D006527,MONDO:0010200,42426,omim_mesh_mapped
+C287,D278200,278200,278200,False,C0406718,Wooly hair-hypotrichosis-everted lower lip-outstanding ears syndrome,C536746,MONDO:0010207,98033,omim_mesh_mapped
+C288,D300100,300100,300100,False,C0162309,Adrenoleukodystrophy,D000326,MONDO:0018544,57667,omim_mesh_mapped
+C289,D300125,300125,300125,False,C1848066,"Migraine, familial typical, susceptibility to, 2",,MONDO:0010253,341144,omim_name_without_mesh
+C290,D300136,300136,300136,False,C1848042,"Diabetes mellitus, insulin-dependent, X-linked, susceptibility to",,MONDO:0010255,338376,omim_name_without_mesh
+C291,D300232,300232,300232,False,C1846148,"Spondyloepimetaphyseal dysplasia, Bieganski type",C536671,MONDO:0010275,335350,omim_mesh_mapped
+C292,D300425,300425,300425,False,C1845540,"Autism, susceptibility to, X-linked 1",,MONDO:0010321,335205,omim_name_without_mesh
+C293,D300491,300491,300491,False,C5774177,"Epilepsy, X-linked 1, with variable learning disabilities and behavior disorders",,MONDO:0010339,1823951,omim_name_without_mesh
+C294,D300494,300494,300425,True,C1845540,"Autism, susceptibility to, X-linked 1",,MONDO:0010321,335205,omim_name_without_mesh
+C295,D300495,300495,300495,False,C1845539,"Autism, susceptibility to, X-linked 2",,MONDO:0010341,336964,omim_name_without_mesh
+C296,D300496,300496,300496,False,C1845336,"Autism, susceptibility to, X-linked 3",,MONDO:0010342,335161,omim_name_without_mesh
+C297,D303110,303110,303110,False,C3551019,Choroideremia-deafness-obesity syndrome,,MONDO:0010558,763933,omim_name_without_mesh
+C298,D304790,304790,304790,False,C0342288,Insulin-dependent diabetes mellitus secretory diarrhea syndrome,C580192,MONDO:0010580,83339,omim_mesh_mapped
+C299,D304900,304900,304900,False,C5562113,"Diabetes insipidus, neurohypophyseal, X-linked",,,1794323,omim_name_without_mesh
+C300,D305300,305300,302060,True,C0574083,3-Methylglutaconic aciduria type 2,D056889,MONDO:0010543,107893,omim_mesh_mapped
+C301,D307700,307700,307700,False,C0342344,Hypoparathyroidism - X-linked,,MONDO:0010618,87437,omim_name_without_mesh
+C302,D308205,308205,308205,False,C5399971,"IFAP syndrome 1, with or without BRESHECK syndrome",,MONDO:0100213,1746744,omim_name_without_mesh
+C303,D308350,308350,308350,False,C3463992,"Developmental and epileptic encephalopathy, 1",C567924,MONDO:0010632,483052,omim_mesh_mapped
+C304,D308600,308600,308600,False,C1839927,"Jaundice, familial obstructive, of infancy",C564118,MONDO:0010634,326992,omim_mesh_mapped
+C305,D310468,310468,310468,False,C0403720,X-linked recessive nephrolithiasis with renal failure,C562901,MONDO:0010687,96047,omim_mesh_mapped
+C306,D311360,311360,311360,False,C4552079,Premature ovarian failure 1,D016649,MONDO:0010706,1644269,omim_mesh_mapped
+C307,D312910,312910,312910,False,C2931291,Spastic paraparesis-deafness syndrome,C536692,MONDO:0010732,419037,omim_mesh_mapped
+C308,D540000,540000,540000,False,C0162671,MELAS syndrome,D017241,MONDO:0010789,56485,omim_mesh_mapped
+C309,D556500,556500,556500,False,C1838867,"Parkinson disease, mitochondrial",C564015,MONDO:0010796,333199,omim_mesh_mapped
+C310,D600081,600081,600081,False,C1838657,"Vitamin D hydroxylation-deficient rickets, type 1B",C564005,MONDO:0010810,374020,omim_mesh_mapped
+C311,D600082,600082,600082,False,C1704272,Benign prostatic hyperplasia,D011470,MONDO:0010811,312369,omim_mesh_mapped
+C312,D600116,600116,600116,False,C1868675,Autosomal recessive juvenile Parkinson disease 2,D020734,MONDO:0010820,401500,omim_mesh_mapped
+C313,D600131,600131,600131,False,C1838604,"Epilepsy, childhood absence, susceptibility to, 1",,MONDO:0020759,325057,omim_name_without_mesh
+C314,D600263,600263,600263,False,C1838332,"Helicobacter pylori infection, susceptibility to",,MONDO:0010853,325004,omim_name_without_mesh
+C315,D600319,600319,600319,False,C1838261,Type 1 diabetes mellitus 4,C563959,MONDO:0010862,373925,omim_mesh_mapped
+C316,D600351,600351,600351,False,C1838238,"Enteropathy, familial, with villous edema and immunoglobulin G2 deficiency",C563949,MONDO:0010874,324980,omim_mesh_mapped
+C317,D600467,600467,600467,False,C1838102,"Malignant hyperthermia, susceptibility to, 4",C535697,MONDO:0010893,324944,omim_mesh_mapped
+C318,D600496,600496,600496,False,C1838100,Maturity-onset diabetes of the young type 3,C563933,MONDO:0010894,324942,omim_mesh_mapped
+C319,D600631,600631,600631,False,C0270327,Nocturnal enuresis,D053206,MONDO:0000022,124355,omim_mesh_mapped
+C320,D600634,600634,102200,True,C4538355,Somatotroph adenoma,,MONDO:0007052,1618709,omim_name_without_mesh
+C321,D600803,600803,600803,False,C2609268,Low phospholipid associated cholelithiasis,,MONDO:0010939,760527,omim_name_without_mesh
+C322,D600807,600807,600807,False,C1869116,Inherited susceptibility to asthma,,MONDO:0010940,358271,omim_name_without_mesh
+C323,D600808,600808,600808,False,C1833268,"Nocturnal enuresis, 2",C563439,MONDO:0010941,331473,omim_mesh_mapped
+C324,D601004,601004,601004,False,C1832917,"Portal vein, cavernous transformation of",C563407,MONDO:0010978,331396,omim_mesh_mapped
+C325,D601042,601042,601042,False,C1832855,Dystonia 9,C563401,MONDO:0010983,371427,omim_mesh_mapped
+C326,D601208,601208,601208,False,C1832605,Type 1 diabetes mellitus 11,C563371,MONDO:0011016,321994,omim_mesh_mapped
+C327,D601318,601318,601318,False,C1832474,Type 1 diabetes mellitus 13,C563352,MONDO:0011033,371337,omim_mesh_mapped
+C328,D601367,601367,601367,False,C0948008,Ischemic stroke,,MONDO:1060198,215292,omim_name_without_mesh
+C329,D601518,601518,601518,False,C4722327,"Prostate cancer, hereditary, 1",,MONDO:0011098,1648436,omim_name_without_mesh
+C330,D601608,601608,601608,False,C1866619,Spastic paraplegia and Evans syndrome,C566652,MONDO:0011115,355764,omim_mesh_mapped
+C331,D601626,601626,601626,False,C0023467,Acute myeloid leukemia,D015470,MONDO:0018874,9730,omim_mesh_mapped
+C332,D601665,601665,601665,False,C0028754,Obesity,D009765,MONDO:0011122,18127,omim_mesh_mapped
+C333,D601666,601666,601666,False,C1866519,Type 1 diabetes mellitus 15,C566645,MONDO:0011123,401019,omim_mesh_mapped
+C334,D601682,601682,601682,False,C1866483,Glaucoma type 1C,,MONDO:0011129,356544,omim_name_without_mesh
+C335,D601744,601744,601744,False,C1866373,"Systemic lupus erythematosus, susceptibility to, 1",,MONDO:0011138,355700,omim_name_without_mesh
+C336,D601887,601887,601887,False,C1866077,"Malignant hyperthermia, susceptibility to, 5",C535698,MONDO:0011163,356151,omim_mesh_mapped
+C337,D601888,601888,601888,False,C1866076,"Malignant hyperthermia, susceptibility to, 6",C535699,MONDO:0011164,356150,omim_mesh_mapped
+C338,D601941,601941,601941,False,C1866041,Type 1 diabetes mellitus 6,,MONDO:0011167,356143,omim_name_without_mesh
+C339,D601942,601942,601942,False,C1866040,Type 1 diabetes mellitus 10,C566602,MONDO:0011168,400903,omim_mesh_mapped
+C340,D602068,602068,602068,False,C2748501,Tegumentary leishmaniasis susceptibility,,MONDO:0011179,412566,omim_name_without_mesh
+C341,D602080,602080,602080,False,C4085251,"Paget disease of bone 2, early-onset",,MONDO:0011183,899166,omim_name_without_mesh
+C342,D602096,602096,602096,False,C1865868,Alzheimer disease 5,C566578,MONDO:0011194,356103,omim_mesh_mapped
+C343,D602134,602134,602134,False,C1865810,"Tremor, hereditary essential, 2",,MONDO:0011201,356087,omim_name_without_mesh
+C344,D602404,602404,602404,False,C1865581,"Parkinson disease 3, autosomal dominant",C566552,MONDO:0011220,355499,omim_mesh_mapped
+C345,D602439,602439,601626,True,C0023467,Acute myeloid leukemia,D015470,MONDO:0018874,9730,omim_mesh_mapped
+C346,D602522,602522,602522,False,C1865270,Bartter disease type 4A,,MONDO:0011242,355430,omim_name_without_mesh
+C347,D603165,603165,603165,False,C0011615,Atopic eczema,D003876,MONDO:0004980,41502,omim_mesh_mapped
+C348,D603266,603266,603266,False,C1864068,Type 1 diabetes mellitus 17,C566395,MONDO:0011302,351036,omim_mesh_mapped
+C349,D603388,603388,603388,False,C1863923,"Graves disease, susceptibility to, 2",,MONDO:0011314,350301,omim_name_without_mesh
+C350,D604302,604302,604302,False,C1858558,Systemic-onset juvenile idiopathic arthritis,C565798,MONDO:0019434,346934,omim_mesh_mapped
+C351,D604416,604416,604416,False,C1858361,Pyogenic arthritis-pyoderma gangrenosum-acne syndrome,C536253,MONDO:0011462,346801,omim_mesh_mapped
+C352,D604827,604827,604827,False,C2751729,"Epilepsy, idiopathic generalized, susceptibility to, 7",,MONDO:0011491,442800,omim_name_without_mesh
+C353,D605021,605021,605021,False,C0917800,Familial infantile myoclonic epilepsy,D004831,MONDO:0011506,181488,omim_mesh_mapped
+C354,D605055,605055,605055,False,C1857933,"Alzheimer disease, familial early-onset, with coexisting amyloid and prion pathology",C565728,MONDO:0011513,341884,omim_mesh_mapped
+C355,D605218,605218,605218,False,C1854577,"Systemic lupus erythematosus, susceptibility to, 2",,MONDO:0011520,343159,omim_name_without_mesh
+C356,D605480,605480,605480,False,C1854235,"Systemic lupus erythematosus, susceptibility to, 3",,MONDO:0011560,381377,omim_name_without_mesh
+C357,D605526,605526,605526,False,C1854187,Alzheimer disease 6,C565325,MONDO:0011561,381362,omim_mesh_mapped
+C358,D605804,605804,605804,False,C1853964,"Dermatitis, atopic, 3",C565292,MONDO:0011597,344173,omim_mesh_mapped
+C359,D605805,605805,605805,False,C1853963,"Dermatitis, atopic, 4",,MONDO:0011598,340099,omim_name_without_mesh
+C360,D605839,605839,150800,True,C1708350,Hereditary leiomyomatosis and renal cell cancer,C535516,MONDO:0007888,353771,omim_mesh_mapped
+C361,D605841,605841,605841,False,C1853901,"Narcolepsy 2, susceptibility to",,MONDO:0011607,381293,omim_name_without_mesh
+C362,D605844,605844,605844,False,C1853900,"Dermatitis, atopic, 5",C565280,MONDO:0011608,381292,omim_mesh_mapped
+C363,D606054,606054,606054,False,C0268579,Propionic acidemia,D056693,MONDO:0011628,75694,omim_mesh_mapped
+C364,D606324,606324,606324,False,C1853445,Autosomal recessive early-onset Parkinson disease 7,,MONDO:0011658,344049,omim_name_without_mesh
+C365,D606369,606369,606369,False,C3807541,Macrocephaly and epileptic encephalopathy,,,813871,omim_name_without_mesh
+C366,D606703,606703,606703,False,C1847627,"Dyskinesia with orofacial involvement, autosomal dominant",C564676,MONDO:0800028,338280,omim_mesh_mapped
+C367,D606764,606764,606764,False,C0238198,Gastrointestinal stromal tumor,D046152,MONDO:0011719,116049,omim_mesh_mapped
+C368,D606798,606798,606798,False,C4692845,"Blepharospasm, benign essential, susceptibility to",,MONDO:0100532,1640286,omim_name_without_mesh
+C369,D606889,606889,606889,False,C1847200,Alzheimer disease 4,C536596,MONDO:0011743,376072,omim_mesh_mapped
+C370,D607060,607060,607060,False,C1846862,Autosomal dominant Parkinson disease 8,,MONDO:0011764,339628,omim_name_without_mesh
+C371,D607154,607154,607154,False,C2607914,Allergic rhinitis,D065631,MONDO:0011786,382012,omim_mesh_mapped
+C372,D607202,607202,607202,False,C1846631,"Celiac disease, susceptibility to, 5",,MONDO:0011793,337622,omim_name_without_mesh
+C373,D607225,607225,607225,False,C2931441,Infantile-onset ascending hereditary spastic paralysis,C537217,MONDO:0011797,419413,omim_mesh_mapped
+C374,D607373,607373,607373,False,C1969710,"Autism, susceptibility to, 8",,MONDO:0011824,409897,omim_name_without_mesh
+C375,D607411,607411,607411,False,C4282128,PDA1,,MONDO:0024560,924232,omim_name_without_mesh
+C376,D607459,607459,607459,False,C1843851,"Sensory ataxic neuropathy, dysarthria, and ophthalmoparesis",C537583,MONDO:0011835,375302,omim_mesh_mapped
+C377,D607498,607498,607498,False,C1843782,"Migraine with or without aura, susceptibility to, 3",,MONDO:0011845,375283,omim_name_without_mesh
+C378,D607499,607499,607499,False,C4551963,Susceptibility to bulimia nervosa,,,1646891,omim_name_without_mesh
+C379,D607501,607501,607501,False,C1843773,"Migraine without aura, susceptibility to, 4",,MONDO:0011847,336040,omim_name_without_mesh
+C380,D607508,607508,607508,False,C1843771,"Migraine with or without aura, susceptibility to, 5",,MONDO:0011850,334831,omim_name_without_mesh
+C381,D607516,607516,607516,False,C1843765,"Migraine with or without aura, susceptibility to, 6",,MONDO:0011851,334829,omim_name_without_mesh
+C382,D607554,607554,607554,False,C1837014,"Atrial fibrillation, familial, 3",C563817,MONDO:0011857,373232,omim_mesh_mapped
+C383,D607616,607616,607616,False,C0268243,"Niemann-Pick disease, type B",D052537,MONDO:0011871,78651,omim_mesh_mapped
+C384,D607625,607625,607625,False,C1843366,"Niemann-Pick disease, type C2",,MONDO:0011873,335942,omim_name_without_mesh
+C385,D607628,607628,607628,False,C2750893,"Epilepsy, idiopathic generalized, susceptibility to, 11",,MONDO:0011875,416407,omim_name_without_mesh
+C386,D607631,607631,607631,False,C2750892,"Epilepsy, juvenile absence, susceptibility to, 1",,MONDO:0020772,413426,omim_name_without_mesh
+C387,D607681,607681,607681,False,C1969810,"Febrile seizures, familial, 8",,MONDO:0011891,370755,omim_name_without_mesh
+C388,D607682,607682,607682,False,C2750887,"Epilepsy, idiopathic generalized, susceptibility to, 9",,MONDO:0011892,413424,omim_name_without_mesh
+C389,D607685,607685,607685,False,C0206141,Idiopathic hypereosinophilic syndrome,D017681,MONDO:0011895,61525,omim_mesh_mapped
+C390,D607688,607688,607688,False,C4083045,"Parkinson disease 11, autosomal dominant, susceptibility to",,MONDO:0011896,896658,omim_name_without_mesh
+C391,D607822,607822,607822,False,C1843013,Alzheimer disease 3,C536598,MONDO:0011913,334304,omim_mesh_mapped
+C392,D607850,607850,607850,False,C2675609,Osteoarthritis susceptibility 3,,MONDO:0011923,382650,omim_name_without_mesh
+C393,D608013,608013,608013,False,C1842704,Gaucher disease perinatal lethal,C564306,MONDO:0011945,374996,omim_mesh_mapped
+C394,D608033,608033,608033,False,C2675556,Familial acute necrotizing encephalopathy,,MONDO:0011953,382634,omim_name_without_mesh
+C395,D608049,608049,608049,False,C1842632,"Autism, susceptibility to, 3",,MONDO:0011956,334211,omim_name_without_mesh
+C396,D608088,608088,614575,True,C3281223,Cerebellar ataxia with neuropathy and bilateral vestibular areflexia syndrome,C000726747,MONDO:0044720,482853,omim_mesh_mapped
+C397,D608105,608105,608105,False,C1842531,Rolandic epilepsy-paroxysmal exercise-induced dystonia-writer cramp syndrome,C535499,MONDO:0011970,334104,omim_mesh_mapped
+C398,D608217,608217,608217,False,C1842382,"Seizures, benign familial neonatal, 3",C564274,MONDO:0011990,334063,omim_mesh_mapped
+C399,D608232,608232,608232,False,C0279543,Chronic myeloid leukemia,D015464,MONDO:0011996,75993,omim_mesh_mapped
+C400,D608266,608266,608266,False,C0687150,Parathyroid carcinoma,D010282,MONDO:0012004,146361,omim_mesh_mapped
+C401,D608320,608320,608320,False,C1842247,"Coronary artery disease, autosomal dominant, 1",C564258,MONDO:0012011,330802,omim_mesh_mapped
+C402,D608437,608437,608437,False,C1842057,"Systemic lupus erythematosus, susceptibility to, 4",,MONDO:0012036,374849,omim_name_without_mesh
+C403,D608456,608456,608456,False,C3272841,Familial adenomatous polyposis 2,C563924,MONDO:0012041,474474,omim_mesh_mapped
+C404,D608583,608583,608583,False,C1843687,"Atrial fibrillation, familial, 1",C538261,MONDO:0012066,334469,omim_mesh_mapped
+C405,D608622,608622,608622,False,C1837739,"HYPERTENSION, DIASTOLIC, RESISTANCE TO",C563897,,332935,omim_mesh_mapped
+C406,D608636,608636,608636,False,C2675336,15q11q13 microduplication syndrome,C557830,MONDO:0012081,390767,omim_mesh_mapped
+C407,D608895,608895,608895,False,C1837187,"Macular degeneration, age-related, 3",,MONDO:0012145,373276,omim_name_without_mesh
+C408,D608907,608907,608907,False,C4282179,Alzheimer disease 9,,MONDO:0012153,924255,omim_name_without_mesh
