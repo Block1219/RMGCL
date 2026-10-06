@@ -1,20 +1,21 @@
 # RMGCL
 
 Code and input data for reliability-guided multi-view graph contrastive learning
-on Cdataset, Fdataset and LRSSL.
+on Cdataset, Fdataset, and LRSSL.
 
-## Contents
+## Repository layout
 
 ```text
-src/                         RMGCL model, sampling, training and data converters
-tools/run_paper_strict_cv.py  Ten-fold training entry point
-data/*_original/             Source dataset files used by the converters
-data/*_raw/                  Model input associations, similarities and biology edges
+src/                         Model, sampling, training, and data converters
+tools/run_paper_strict_cv.py  Ten-fold experiment entry point
+data/*_original/             Supplied source dataset files
+data/*_raw/                  Model-ready input tables
 data/cdataset_disease_semantic_features/  Cdataset disease annotations
-tests/                       Cdataset conversion check
+tests/                       Data conversion and validation split checks
+requirements.txt             Python dependencies
 ```
 
-
+## Input data
 
 `*_original` contains the source files used for association and similarity
 conversion. `*_raw` contains the tables read by the training code. Cdataset similarities
@@ -25,15 +26,22 @@ biological edges are preserved. Cdataset's disease annotation mapping is in
 drug-target or target-disease edges in the supplied source, so its biological
 edge tables are empty.
 
-## Environment
+Dataset files may have their own citation and reuse requirements. Check the
+original dataset publications before reusing them outside this experiment.
 
-Use Python 3.11 and install the packages in `requirements.txt`. The paper's
-training configuration uses PyTorch 2.11, Adam, 100 epochs and seed 42. CUDA
-is recommended for training.
+## Setup
+
+Python 3.11 is recommended. From the repository root, install the dependencies:
+
+```bash
+python -m pip install -r requirements.txt
+```
+
+CUDA is recommended for full training. Use `--device cpu` when CUDA is unavailable.
 
 ## Rebuild input tables
 
-Run these commands from the archive root:
+Run these commands from the repository root:
 
 ```bash
 python -m src.prepare_cdataset
@@ -44,7 +52,7 @@ python -m src.prepare_lrssl_dataset --source-dir data/lrssl_original --output-di
 The first command regenerates Cdataset's structural/phenotypic similarities.
 The second and third regenerate the supplied Fdataset and LRSSL input tables.
 
-## Train
+## Ten-fold experiment
 
 ```bash
 python tools/run_paper_strict_cv.py --dataset Cdataset --strategy full --output-root outputs/paper_cv --device cuda
@@ -52,6 +60,11 @@ python tools/run_paper_strict_cv.py --dataset Cdataset --strategy full --output-
 
 `--dataset` accepts `Cdataset`, `Fdataset`, `LRSSL` or `all`.
 `--strategy` accepts `full`, `wo_cl`, `pair_cl`, `node_cl` or `all`.
+The default paper configuration uses 100 epochs and seed 42. Each
+dataset/strategy run writes its configuration and metrics under
+`--output-root/<dataset>/<strategy>/`. The runner refuses to overwrite a
+nonempty experiment directory.
+
 The runner uses ten positive folds. Within each outer fold, it reserves test
 positives and an equal number of test negatives. It then holds out 10% of the
 remaining positives for validation and reserves an equal number of validation
@@ -64,8 +77,10 @@ test evaluation. Fold-specific validation samples are saved under
 samples and may change the reported metrics; rerun experiments before citing
 results from this version.
 
-## Check the converter
+## Checks
+
+Run the data conversion and validation split checks with:
 
 ```bash
-python -m unittest discover -s tests -p test_prepare_cdataset.py -v
+python -m unittest discover -s tests -v
 ```
